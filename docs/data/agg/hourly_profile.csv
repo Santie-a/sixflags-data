@@ -1,0 +1,95 @@
+ride_id,ride_name,day_of_week,dow_name,hour_local,avg_wait_open,p90_wait_open,max_wait,pct_open,open_samples,samples,days_counted
+3231,Air Jumbo,0,Monday,22,,,,0.0,0,2,0
+3231,Air Jumbo,0,Monday,23,,,,0.0,0,1,0
+3232,Air Safari,0,Monday,22,,,,0.0,0,2,0
+3232,Air Safari,0,Monday,23,,,,0.0,0,1,0
+10461,Barnstormer,0,Monday,22,,,,0.0,0,2,0
+10461,Barnstormer,0,Monday,23,,,,0.0,0,1,0
+17425,Barrels O’ Fun,0,Monday,22,,,,0.0,0,2,0
+17425,Barrels O’ Fun,0,Monday,23,,,,0.0,0,1,0
+3233,BATMAN™ The Ride,0,Monday,22,,,,0.0,0,2,0
+3233,BATMAN™ The Ride,0,Monday,23,,,,0.0,0,1,0
+3270,Buccaneer,0,Monday,22,,,,0.0,0,2,0
+3270,Buccaneer,0,Monday,23,,,,0.0,0,1,0
+3275,Bugaboo,0,Monday,22,,,,0.0,0,2,0
+3275,Bugaboo,0,Monday,23,,,,0.0,0,1,0
+3277,Bugs Bunny Camp Carousel,0,Monday,22,,,,0.0,0,2,0
+3277,Bugs Bunny Camp Carousel,0,Monday,23,,,,0.0,0,1,0
+3279,Bugs Bunny Ranger Pilots,0,Monday,22,,,,0.0,0,2,0
+3279,Bugs Bunny Ranger Pilots,0,Monday,23,,,,0.0,0,1,0
+3237,Carousel,0,Monday,22,,,,0.0,0,2,0
+3237,Carousel,0,Monday,23,,,,0.0,0,1,0
+3240,Daffy Duck Hot Air Balloons,0,Monday,22,,,,0.0,0,2,0
+3240,Daffy Duck Hot Air Balloons,0,Monday,23,,,,0.0,0,1,0
+3243,El Toro,0,Monday,22,,,,0.0,0,2,0
+3243,El Toro,0,Monday,23,,,,0.0,0,1,0
+3244,Enchanted Teacups,0,Monday,22,,,,0.0,0,2,0
+3244,Enchanted Teacups,0,Monday,23,,,,0.0,0,1,0
+3245,Fender Benders,0,Monday,22,,,,0.0,0,2,0
+3245,Fender Benders,0,Monday,23,,,,0.0,0,1,0
+17426,Flying Scooters,0,Monday,22,,,,0.0,0,2,0
+17426,Flying Scooters,0,Monday,23,,,,0.0,0,1,0
+15604,Giant Wheel,0,Monday,22,,,,0.0,0,2,0
+15604,Giant Wheel,0,Monday,23,,,,0.0,0,1,0
+3236,HARLEY QUINN™ Crazy Train,0,Monday,22,,,,0.0,0,2,0
+3236,HARLEY QUINN™ Crazy Train,0,Monday,23,,,,0.0,0,1,0
+3249,Houdini’s Great Escape,0,Monday,22,,,,0.0,0,2,0
+3249,Houdini’s Great Escape,0,Monday,23,,,,0.0,0,1,0
+17427,Hypno Twister,0,Monday,22,,,,0.0,0,2,0
+17427,Hypno Twister,0,Monday,23,,,,0.0,0,1,0
+8539,Jersey Devil Coaster,0,Monday,22,,,,0.0,0,2,0
+8539,Jersey Devil Coaster,0,Monday,23,,,,0.0,0,1,0
+3250,Jolly Roger,0,Monday,22,,,,0.0,0,2,0
+3250,Jolly Roger,0,Monday,23,,,,0.0,0,1,0
+3916,JUSTICE LEAGUE™: Battle for METROPOLIS,0,Monday,22,,,,0.0,0,2,0
+3916,JUSTICE LEAGUE™: Battle for METROPOLIS,0,Monday,23,,,,0.0,0,1,0
+10077,Lil' Devil Coaster,0,Monday,22,,,,0.0,0,2,0
+10077,Lil' Devil Coaster,0,Monday,23,,,,0.0,0,1,0
+10533,Medusa,0,Monday,22,,,,0.0,0,2,0
+10533,Medusa,0,Monday,23,,,,0.0,0,1,0
+3253,Nitro,0,Monday,22,,,,0.0,0,2,0
+3253,Nitro,0,Monday,23,,,,0.0,0,1,0
+15617,Porky Pig Camp Wagons,0,Monday,22,,,,0.0,0,2,0
+15617,Porky Pig Camp Wagons,0,Monday,23,,,,0.0,0,1,0
+3257,Raja’s Rickshaws,0,Monday,22,,,,0.0,0,2,0
+3257,Raja’s Rickshaws,0,Monday,23,,,,0.0,0,1,0
+15829,Roaring Rapids,0,Monday,22,,,,0.0,0,2,0
+15829,Roaring Rapids,0,Monday,23,,,,0.0,0,1,0
+3261,Runaway Train,0,Monday,22,,,,0.0,0,2,0
+3261,Runaway Train,0,Monday,23,,,,0.0,0,1,0
+3274,Safari Off-Road Adventure,0,Monday,22,,,,0.0,0,2,0
+3274,Safari Off-Road Adventure,0,Monday,23,,,,0.0,0,1,0
+3283,Saw Mill Log Flume,0,Monday,22,,,,0.0,0,2,0
+3283,Saw Mill Log Flume,0,Monday,23,,,,0.0,0,1,0
+15727,Scrambler,0,Monday,22,,,,0.0,0,2,0
+15727,Scrambler,0,Monday,23,,,,0.0,0,1,0
+3262,Skull Mountain,0,Monday,22,,,,0.0,0,2,0
+3262,Skull Mountain,0,Monday,23,,,,0.0,0,1,0
+3281,Sky Zooma,0,Monday,22,,,,0.0,0,2,0
+3281,Sky Zooma,0,Monday,23,,,,0.0,0,1,0
+3263,SkyScreamer,0,Monday,22,,,,0.0,0,2,0
+3263,SkyScreamer,0,Monday,23,,,,0.0,0,1,0
+3282,Slingshot,0,Monday,22,,,,0.0,0,2,0
+3282,Slingshot,0,Monday,23,,,,0.0,0,1,0
+15789,Storm Chaser,0,Monday,22,,,,0.0,0,2,0
+15789,Storm Chaser,0,Monday,23,,,,0.0,0,1,0
+3267,Super Round Up,0,Monday,22,,,,0.0,0,2,0
+3267,Super Round Up,0,Monday,23,,,,0.0,0,1,0
+3266,SUPERMAN™: Ultimate Flight,0,Monday,22,,,,0.0,0,2,0
+3266,SUPERMAN™: Ultimate Flight,0,Monday,23,,,,0.0,0,1,0
+3268,Tango,0,Monday,22,,,,0.0,0,2,0
+3268,Tango,0,Monday,23,,,,0.0,0,1,0
+3271,THE DARK KNIGHT™ Coaster,0,Monday,22,,,,0.0,0,2,0
+3271,THE DARK KNIGHT™ Coaster,0,Monday,23,,,,0.0,0,1,0
+14537,THE FLASH™: Vertical Velocity,0,Monday,22,,,,0.0,0,2,0
+14537,THE FLASH™: Vertical Velocity,0,Monday,23,,,,0.0,0,1,0
+3288,THE JOKER™,0,Monday,22,,,,0.0,0,2,0
+3288,THE JOKER™,0,Monday,23,,,,0.0,0,1,0
+15594,Tree Top Hopper,0,Monday,22,,,,0.0,0,2,0
+15594,Tree Top Hopper,0,Monday,23,,,,0.0,0,1,0
+17428,Wave Swinger,0,Monday,22,,,,0.0,0,2,0
+17428,Wave Swinger,0,Monday,23,,,,0.0,0,1,0
+3273,Wile E. Coyote Canyon Blaster,0,Monday,22,,,,0.0,0,2,0
+3273,Wile E. Coyote Canyon Blaster,0,Monday,23,,,,0.0,0,1,0
+6371,WONDER WOMAN™ Lasso of Truth,0,Monday,22,,,,0.0,0,2,0
+6371,WONDER WOMAN™ Lasso of Truth,0,Monday,23,,,,0.0,0,1,0

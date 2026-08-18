@@ -1,0 +1,253 @@
+{
+ "park": {
+  "id": 37,
+  "name": "Six Flags Great Adventure",
+  "timezone": "America/New_York"
+ },
+ "generated_at": "2026-08-18T03:12:27+00:00",
+ "rides": [
+  {
+   "id": 3231,
+   "name": "Air Jumbo",
+   "land": "Family Rides"
+  },
+  {
+   "id": 3232,
+   "name": "Air Safari",
+   "land": "Kids' Rides"
+  },
+  {
+   "id": 10461,
+   "name": "Barnstormer",
+   "land": "Kids' Rides"
+  },
+  {
+   "id": 17425,
+   "name": "Barrels O’ Fun",
+   "land": "Family Rides"
+  },
+  {
+   "id": 3233,
+   "name": "BATMAN™ The Ride",
+   "land": "Thrill Rides"
+  },
+  {
+   "id": 3270,
+   "name": "Buccaneer",
+   "land": "Family Rides"
+  },
+  {
+   "id": 3275,
+   "name": "Bugaboo",
+   "land": "Kids' Rides"
+  },
+  {
+   "id": 3277,
+   "name": "Bugs Bunny Camp Carousel",
+   "land": "Kids' Rides"
+  },
+  {
+   "id": 3279,
+   "name": "Bugs Bunny Ranger Pilots",
+   "land": "Kids' Rides"
+  },
+  {
+   "id": 3237,
+   "name": "Carousel",
+   "land": "Family Rides"
+  },
+  {
+   "id": 3240,
+   "name": "Daffy Duck Hot Air Balloons",
+   "land": "Kids' Rides"
+  },
+  {
+   "id": 3243,
+   "name": "El Toro",
+   "land": "Thrill Rides"
+  },
+  {
+   "id": 3244,
+   "name": "Enchanted Teacups",
+   "land": "Family Rides"
+  },
+  {
+   "id": 3245,
+   "name": "Fender Benders",
+   "land": "Family Rides"
+  },
+  {
+   "id": 17426,
+   "name": "Flying Scooters",
+   "land": "Family Rides"
+  },
+  {
+   "id": 15604,
+   "name": "Giant Wheel",
+   "land": "Family Rides"
+  },
+  {
+   "id": 3236,
+   "name": "HARLEY QUINN™ Crazy Train",
+   "land": "Family Rides"
+  },
+  {
+   "id": 3249,
+   "name": "Houdini’s Great Escape",
+   "land": "Family Rides"
+  },
+  {
+   "id": 17427,
+   "name": "Hypno Twister",
+   "land": "Family Rides"
+  },
+  {
+   "id": 8539,
+   "name": "Jersey Devil Coaster",
+   "land": "Thrill Rides"
+  },
+  {
+   "id": 3250,
+   "name": "Jolly Roger",
+   "land": "Family Rides"
+  },
+  {
+   "id": 3916,
+   "name": "JUSTICE LEAGUE™: Battle for METROPOLIS",
+   "land": "Thrill Rides"
+  },
+  {
+   "id": 10077,
+   "name": "Lil' Devil Coaster",
+   "land": "Kids' Rides"
+  },
+  {
+   "id": 10533,
+   "name": "Medusa",
+   "land": "Thrill Rides"
+  },
+  {
+   "id": 3253,
+   "name": "Nitro",
+   "land": "Thrill Rides"
+  },
+  {
+   "id": 15617,
+   "name": "Porky Pig Camp Wagons",
+   "land": "Kids' Rides"
+  },
+  {
+   "id": 3257,
+   "name": "Raja’s Rickshaws",
+   "land": "Kids' Rides"
+  },
+  {
+   "id": 15829,
+   "name": "Roaring Rapids",
+   "land": "Family Rides"
+  },
+  {
+   "id": 3261,
+   "name": "Runaway Train",
+   "land": "Thrill Rides"
+  },
+  {
+   "id": 3274,
+   "name": "Safari Off-Road Adventure",
+   "land": "Kids' Rides"
+  },
+  {
+   "id": 3283,
+   "name": "Saw Mill Log Flume",
+   "land": "Kids' Rides"
+  },
+  {
+   "id": 15727,
+   "name": "Scrambler",
+   "land": "Family Rides"
+  },
+  {
+   "id": 3262,
+   "name": "Skull Mountain",
+   "land": "Thrill Rides"
+  },
+  {
+   "id": 3281,
+   "name": "Sky Zooma",
+   "land": "Kids' Rides"
+  },
+  {
+   "id": 3263,
+   "name": "SkyScreamer",
+   "land": "Thrill Rides"
+  },
+  {
+   "id": 3282,
+   "name": "Slingshot",
+   "land": "Thrill Rides"
+  },
+  {
+   "id": 15789,
+   "name": "Storm Chaser",
+   "land": "Kids' Rides"
+  },
+  {
+   "id": 3267,
+   "name": "Super Round Up",
+   "land": "Kids' Rides"
+  },
+  {
+   "id": 3266,
+   "name": "SUPERMAN™: Ultimate Flight",
+   "land": "Thrill Rides"
+  },
+  {
+   "id": 3268,
+   "name": "Tango",
+   "land": "Family Rides"
+  },
+  {
+   "id": 3271,
+   "name": "THE DARK KNIGHT™ Coaster",
+   "land": "Thrill Rides"
+  },
+  {
+   "id": 14537,
+   "name": "THE FLASH™: Vertical Velocity",
+   "land": "Thrill Rides"
+  },
+  {
+   "id": 3288,
+   "name": "THE JOKER™",
+   "land": "Thrill Rides"
+  },
+  {
+   "id": 15594,
+   "name": "Tree Top Hopper",
+   "land": "Kids' Rides"
+  },
+  {
+   "id": 17428,
+   "name": "Wave Swinger",
+   "land": "Family Rides"
+  },
+  {
+   "id": 3273,
+   "name": "Wile E. Coyote Canyon Blaster",
+   "land": "Thrill Rides"
+  },
+  {
+   "id": 6371,
+   "name": "WONDER WOMAN™ Lasso of Truth",
+   "land": "Thrill Rides"
+  }
+ ],
+ "dates": [
+  {
+   "date": "2026-08-17",
+   "path": "raw/2026/2026-08-17.csv",
+   "rows": 141,
+   "bytes": 15205
+  }
+ ]
+}

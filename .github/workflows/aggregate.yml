@@ -1,0 +1,49 @@
+name: Build aggregates
+
+# Once a day, after the park has closed and the last collect run has landed.
+on:
+  schedule:
+    - cron: "0 7 * * *"   # ~03:00 park time
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: aggregate
+  cancel-in-progress: false
+
+jobs:
+  aggregate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Rebuild aggregates
+        run: python3 scripts/aggregate.py
+
+      - name: Refresh the data manifest
+        run: python3 scripts/build_index.py
+
+      - name: Commit aggregates
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/data/agg docs/data/index.json
+          if git diff --staged --quiet; then
+            echo "Aggregates already up to date."
+            exit 0
+          fi
+          git commit -m "data: rebuild aggregates $(date -u '+%Y-%m-%d') [skip ci]"
+          for attempt in 1 2 3; do
+            if git pull --rebase --autostash origin "${GITHUB_REF_NAME}" && git push; then
+              echo "Pushed on attempt ${attempt}."
+              exit 0
+            fi
+            echo "Push attempt ${attempt} failed; retrying."
+            sleep 5
+          done
+          echo "Could not push after 3 attempts."
+          exit 1

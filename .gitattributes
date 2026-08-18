@@ -1,0 +1,4 @@
+# The collector appends to these CSVs from the Linux runner while you may edit
+# on Windows. Pin everything to LF so the two never disagree and every hourly
+# commit stays a clean append instead of a whole-file rewrite.
+* text=auto eol=lf

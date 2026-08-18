@@ -1,0 +1,129 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Six Flags Great Adventure — Queue Times</title>
+<meta name="description" content="Historical wait times for Six Flags Great Adventure, bucketed and exportable to Excel.">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="wrap">
+
+  <header class="head">
+    <div>
+      <h1>Six Flags Great Adventure</h1>
+      <p class="sub">Queue time history &middot; sampled every 5 minutes &middot; park time (America/New_York)</p>
+    </div>
+    <div class="head-meta" id="head-meta"></div>
+  </header>
+
+  <nav class="tabs" role="tablist">
+    <button class="tab is-active" role="tab" data-tab="explore">Explore</button>
+    <button class="tab" role="tab" data-tab="aggregates">Aggregates</button>
+  </nav>
+
+  <div id="boot" class="notice">Loading data&hellip;</div>
+
+  <main id="app" hidden>
+
+    <!-- ── shared filter bar ─────────────────────────────────── -->
+    <section class="card filters">
+      <div class="field field-rides">
+        <label for="ride-search">Attractions <span class="hint" id="ride-count"></span></label>
+        <input type="search" id="ride-search" placeholder="Filter by name&hellip;" autocomplete="off">
+        <div class="ride-list" id="ride-list"></div>
+        <div class="ride-actions">
+          <button type="button" class="link" id="ride-clear">Clear</button>
+          <span class="hint">Up to <strong>8</strong> at once</span>
+        </div>
+      </div>
+
+      <div class="field-group">
+        <div class="field">
+          <label for="date-from">From</label>
+          <input type="date" id="date-from">
+        </div>
+        <div class="field">
+          <label for="date-to">To</label>
+          <input type="date" id="date-to">
+        </div>
+        <div class="field">
+          <label for="bucket">Window</label>
+          <select id="bucket">
+            <option value="15">15 minutes</option>
+            <option value="30" selected>30 minutes</option>
+            <option value="60">60 minutes</option>
+          </select>
+        </div>
+        <div class="field">
+          <label for="metric">Value</label>
+          <select id="metric">
+            <option value="avg" selected>Average wait</option>
+            <option value="max">Max wait</option>
+            <option value="open">% of time open</option>
+          </select>
+        </div>
+        <div class="field">
+          <label for="delimiter">CSV separator</label>
+          <select id="delimiter">
+            <option value=";" selected>Semicolon ; (ES/LatAm Excel)</option>
+            <option value=",">Comma , (US Excel)</option>
+          </select>
+        </div>
+      </div>
+    </section>
+
+    <!-- ── explore ───────────────────────────────────────────── -->
+    <section id="panel-explore">
+      <div class="tiles" id="tiles"></div>
+
+      <section class="card">
+        <div class="card-head">
+          <h2>Average wait over the day (minutes)</h2>
+          <div class="legend" id="legend"></div>
+        </div>
+        <div class="chart-host" id="chart-host">
+          <div class="tooltip" id="tooltip" hidden></div>
+        </div>
+        <p class="hint chart-note">Averages use open samples only, so a ride that went down does not read as a short queue.</p>
+      </section>
+
+      <section class="card">
+        <div class="card-head">
+          <h2>Pivot table <span class="hint" id="table-count"></span></h2>
+          <button type="button" class="btn" id="download-explore">Download CSV</button>
+        </div>
+        <p class="hint" id="explore-shape"></p>
+        <div id="matrix-explore"></div>
+      </section>
+    </section>
+
+    <!-- ── aggregates ────────────────────────────────────────── -->
+    <section id="panel-aggregates" hidden>
+      <nav class="subtabs" role="tablist">
+        <button class="subtab is-active" role="tab" data-agg="daily">Daily</button>
+        <button class="subtab" role="tab" data-agg="weekly">Weekly</button>
+        <button class="subtab" role="tab" data-agg="hourly_profile">Typical hour</button>
+      </nav>
+      <section class="card">
+        <div class="card-head">
+          <h2 id="agg-title">Daily <span class="hint" id="agg-count"></span></h2>
+          <button type="button" class="btn" id="download-agg">Download CSV</button>
+        </div>
+        <p class="hint" id="agg-note"></p>
+        <div id="matrix-agg"></div>
+      </section>
+    </section>
+
+  </main>
+
+  <footer class="foot">
+    <a href="https://queue-times.com/" target="_blank" rel="noopener">Powered by Queue-Times.com</a>
+    <span class="hint">Data collected by this site; no affiliation with Six Flags.</span>
+  </footer>
+
+</div>
+<script src="app.js"></script>
+</body>
+</html>
