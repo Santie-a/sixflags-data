@@ -5,7 +5,7 @@ docs/data/raw/<year>/<YYYY-MM-DD>.csv, keyed on park-local time.
 
 Typical uses:
     python scripts/collect.py --once              # single poll, for testing
-    python scripts/collect.py                     # loop until the hour is nearly up
+    python scripts/collect.py                     # loop for ~55 minutes
     python scripts/collect.py --duration-minutes 11
 """
 
@@ -42,9 +42,10 @@ HEADER = [
     "wait_time",
 ]
 
-# Stop this many minutes before the top of the next hour so a run that GitHub
-# starts late truncates itself instead of colliding with the following run.
-TAIL_GAP_MINUTES = 3
+# How long one workflow run polls for. Kept just under an hour so the runs chain
+# without the job outliving its timeout. See window_end() for why it is measured
+# from the run's own start rather than from the clock.
+RUN_MINUTES = 55
 
 
 def log(msg):
@@ -167,12 +168,17 @@ def poll(slot_utc):
 
 
 def window_end(start, duration_minutes):
-    """When the poll loop should stop accepting new slots."""
-    next_hour = start.replace(minute=0, second=0, microsecond=0) + timedelta(hours=1)
-    end = next_hour - timedelta(minutes=TAIL_GAP_MINUTES)
-    if duration_minutes:
-        end = min(end, start + timedelta(minutes=duration_minutes))
-    return end
+    """When the poll loop should stop accepting new slots.
+
+    Anchored to this run's own start, not to the clock hour. GitHub routinely
+    fires a scheduled run 20-40 minutes late, and an hour-anchored window turned
+    every one of those delays into a permanent hole at the top of the hour --
+    the first sample of each hour simply never existed. Runs are chained
+    instead: the concurrency group keeps the next one queued, so it
+    starts as soon as this one stops and the samples stay continuous. Overlap is
+    harmless because write_slot skips slots the file already has.
+    """
+    return start + timedelta(minutes=duration_minutes or RUN_MINUTES)
 
 
 def main():
@@ -182,7 +188,7 @@ def main():
         "--duration-minutes",
         type=int,
         default=None,
-        help="cap the loop length (still never runs past the hour boundary)",
+        help=f"cap the loop length in minutes (default: {RUN_MINUTES})",
     )
     args = ap.parse_args()
 

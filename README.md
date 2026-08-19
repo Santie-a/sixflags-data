@@ -5,6 +5,8 @@ Great Adventure** every 5 minutes, stores the history as plain CSV, and serves a
 static site where you can pick an attraction and a day, average it into 15/30/60-minute
 windows, and download the result for Excel.
 
+**Live site: <https://santie-a.github.io/sixflags-data/>**
+
 Everything runs on free GitHub infrastructure: **Actions** collects, **Pages** serves.
 No server, no database, no API key, no cost.
 
@@ -16,7 +18,7 @@ No server, no database, no API key, no cost.
 queue-times.com API
         │  every 5 min
         ▼
-  collect.yml ──── hourly run, samples ~12 slots, ONE commit
+  collect.yml ──── ~55-min runs, chained back to back, ONE commit each
         │
         ▼
 docs/data/raw/2026/2026-08-17.csv        one file per park-local day
@@ -31,14 +33,19 @@ docs/data/raw/2026/2026-08-17.csv        one file per park-local day
 The data lives **inside `docs/`**, so the page reads it with relative paths — same
 origin, no CORS, nothing to configure.
 
-### Why hourly runs instead of a 5-minute cron
+### Why long runs instead of a 5-minute cron
 
-GitHub deprioritises short-interval scheduled workflows and frequently skips them,
-and a 5-minute cron would also produce ~288 commits a day. Instead one workflow fires
-each hour and polls internally every 5 minutes, committing once. `collect.py` computes
-its stop time as *the top of the next hour minus 3 minutes*, so a run that GitHub
-starts 20 minutes late simply collects a shorter window instead of colliding with the
-next one.
+GitHub deprioritises short-interval scheduled workflows and frequently skips them, and
+a 5-minute cron would also produce ~288 commits a day. Instead each workflow run polls
+internally every 5 minutes for **55 minutes** and commits once.
+
+The window is measured from the run's **own start**, never from the clock. GitHub fires
+scheduled runs late — on a normal day 20 to 40 minutes late — so a window that ended at
+a fixed clock time would lose exactly the delay, every hour, always at the top of the
+hour. Runs are chained instead: the cron fires twice an hour, the `collect` concurrency
+group holds the extra trigger in the queue, and it starts the moment the running one
+stops. Overlap costs nothing because `collect.py` skips any 5-minute slot the day file
+already contains.
 
 ---
 
@@ -180,8 +187,9 @@ Blank cells mean no data — the park was shut, or the ride was down for that wh
   git commit --allow-empty -m "keepalive" && git push
   ```
 
-- **Scheduled runs get delayed** when GitHub is busy. The self-truncating window
-  absorbs this, but occasional short gaps in the data are normal, not a bug.
+- **Scheduled runs get delayed** when GitHub is busy — routinely by 20-40 minutes, and
+  occasionally a run is dropped outright. Chaining absorbs this, but a short gap in the
+  samples now and then is normal, not a bug.
 
 - **Repo growth** is roughly 250 MB per year of raw CSV. Comfortably within GitHub's
   limits, and the site only ever downloads the days you actually select.
