@@ -39,25 +39,41 @@ jobs:
         run: python3 scripts/build_index.py
 
       # `always()` so a cancelled or timed-out poll loop still saves what it got.
+      #
+      # Deliberately not `git pull --rebase`. Runs overlap at every handover --
+      # the outgoing one is still pushing when the incoming one has checked out
+      # -- and both append to the tail of the same day file. Git reads that as a
+      # content conflict, the rebase halts, and the run's whole 55-minute window
+      # is discarded. That was costing every other run. Take the remote verbatim
+      # instead and re-apply this run's rows onto it.
       - name: Commit samples
         if: always()
         run: |
           set -euo pipefail
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add docs/data/raw docs/data/index.json
-          if git diff --staged --quiet; then
-            echo "No new samples to commit."
-            exit 0
-          fi
-          git commit -m "data: samples through $(date -u '+%Y-%m-%d %H:%MZ') [skip ci]"
-          for attempt in 1 2 3; do
-            if git pull --rebase --autostash origin "${GITHUB_REF_NAME}" && git push; then
+
+          # Somewhere the reset below cannot reach.
+          samples="$(mktemp -d)"
+          cp -r docs/data/raw/. "${samples}/"
+
+          for attempt in 1 2 3 4 5; do
+            git fetch --quiet origin "${GITHUB_REF_NAME}"
+            git reset --quiet --hard "origin/${GITHUB_REF_NAME}"
+            python3 scripts/reconcile.py "${samples}"
+            python3 scripts/build_index.py
+            git add docs/data/raw docs/data/index.json
+            if git diff --staged --quiet; then
+              echo "No new samples to commit."
+              exit 0
+            fi
+            git commit --quiet -m "data: samples through $(date -u '+%Y-%m-%d %H:%MZ') [skip ci]"
+            if git push --quiet origin "HEAD:${GITHUB_REF_NAME}"; then
               echo "Pushed on attempt ${attempt}."
               exit 0
             fi
-            echo "Push attempt ${attempt} failed; retrying."
+            echo "Attempt ${attempt} lost the race; rebuilding on the new tip."
             sleep 5
           done
-          echo "Could not push after 3 attempts."
+          echo "Could not push after 5 attempts."
           exit 1

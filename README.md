@@ -47,6 +47,14 @@ group holds the extra trigger in the queue, and it starts the moment the running
 stops. Overlap costs nothing because `collect.py` skips any 5-minute slot the day file
 already contains.
 
+Chaining means two runs briefly overlap: the outgoing one is still committing when the
+incoming one has already checked out. Both then append to the tail of the same day
+file, and git cannot rebase that — it reads two different blocks of new lines in the
+same place as a conflict and stops, taking the whole 55-minute window with it. So the
+commit step does not rebase. It sets the tree to the remote verbatim and re-applies its
+own rows with `scripts/reconcile.py`, keyed on `(ts_utc, ride_id)` exactly as
+`collect.py` dedupes, then retries the whole thing if the push loses another race.
+
 ---
 
 ## Setup
