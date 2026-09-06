@@ -892,50 +892,97 @@ date_local,ride_id,ride_name,land,samples,open_samples,pct_open,avg_wait_open,me
 2026-09-04,17428,Wave Swinger,Family Rides,72,44,61.1,0.0,0.0,0.0,0,12:35,20:05
 2026-09-04,3273,Wile E. Coyote Canyon Blaster,Thrill Rides,72,44,61.1,0.0,0.0,0.0,0,12:35,20:05
 2026-09-04,6371,WONDER WOMAN™ Lasso of Truth,Thrill Rides,72,44,61.1,7.3,10.0,10.0,10,12:35,20:05
-2026-09-05,3231,Air Jumbo,Family Rides,12,0,0.0,,,,,,
-2026-09-05,3232,Air Safari,Kids' Rides,12,0,0.0,,,,,,
-2026-09-05,10461,Barnstormer,Kids' Rides,12,0,0.0,,,,,,
-2026-09-05,17425,Barrels O’ Fun,Family Rides,12,0,0.0,,,,,,
-2026-09-05,3233,BATMAN™ The Ride,Thrill Rides,12,0,0.0,,,,,,
-2026-09-05,3270,Buccaneer,Family Rides,12,0,0.0,,,,,,
-2026-09-05,3275,Bugaboo,Kids' Rides,12,0,0.0,,,,,,
-2026-09-05,3277,Bugs Bunny Camp Carousel,Kids' Rides,12,0,0.0,,,,,,
-2026-09-05,3279,Bugs Bunny Ranger Pilots,Kids' Rides,12,0,0.0,,,,,,
-2026-09-05,3237,Carousel,Family Rides,12,0,0.0,,,,,,
-2026-09-05,3240,Daffy Duck Hot Air Balloons,Kids' Rides,12,0,0.0,,,,,,
-2026-09-05,3243,El Toro,Thrill Rides,12,0,0.0,,,,,,
-2026-09-05,3244,Enchanted Teacups,Family Rides,12,0,0.0,,,,,,
-2026-09-05,3245,Fender Benders,Family Rides,12,0,0.0,,,,,,
-2026-09-05,17426,Flying Scooters,Family Rides,12,0,0.0,,,,,,
-2026-09-05,15604,Giant Wheel,Family Rides,12,0,0.0,,,,,,
-2026-09-05,3236,HARLEY QUINN™ Crazy Train,Family Rides,12,0,0.0,,,,,,
-2026-09-05,3249,Houdini’s Great Escape,Family Rides,12,0,0.0,,,,,,
-2026-09-05,17427,Hypno Twister,Family Rides,12,0,0.0,,,,,,
-2026-09-05,8539,Jersey Devil Coaster,Thrill Rides,12,0,0.0,,,,,,
-2026-09-05,3250,Jolly Roger,Family Rides,12,0,0.0,,,,,,
-2026-09-05,3916,JUSTICE LEAGUE™: Battle for METROPOLIS,Thrill Rides,12,0,0.0,,,,,,
-2026-09-05,10077,Lil' Devil Coaster,Kids' Rides,12,0,0.0,,,,,,
-2026-09-05,10533,Medusa,Thrill Rides,12,0,0.0,,,,,,
-2026-09-05,3253,Nitro,Thrill Rides,12,0,0.0,,,,,,
-2026-09-05,15617,Porky Pig Camp Wagons,Kids' Rides,12,0,0.0,,,,,,
-2026-09-05,3257,Raja’s Rickshaws,Kids' Rides,12,0,0.0,,,,,,
-2026-09-05,15829,Roaring Rapids,Family Rides,12,0,0.0,,,,,,
-2026-09-05,3261,Runaway Train,Thrill Rides,12,0,0.0,,,,,,
-2026-09-05,3274,Safari Off-Road Adventure,Kids' Rides,12,0,0.0,,,,,,
-2026-09-05,3283,Saw Mill Log Flume,Kids' Rides,12,0,0.0,,,,,,
-2026-09-05,15727,Scrambler,Family Rides,12,0,0.0,,,,,,
-2026-09-05,3262,Skull Mountain,Thrill Rides,12,0,0.0,,,,,,
-2026-09-05,3281,Sky Zooma,Kids' Rides,12,0,0.0,,,,,,
-2026-09-05,3263,SkyScreamer,Thrill Rides,12,0,0.0,,,,,,
-2026-09-05,3282,Slingshot,Thrill Rides,12,0,0.0,,,,,,
-2026-09-05,15789,Storm Chaser,Kids' Rides,12,0,0.0,,,,,,
-2026-09-05,3267,Super Round Up,Kids' Rides,12,0,0.0,,,,,,
-2026-09-05,3266,SUPERMAN™: Ultimate Flight,Thrill Rides,12,0,0.0,,,,,,
-2026-09-05,3268,Tango,Family Rides,12,0,0.0,,,,,,
-2026-09-05,3271,THE DARK KNIGHT™ Coaster,Thrill Rides,12,0,0.0,,,,,,
-2026-09-05,14537,THE FLASH™: Vertical Velocity,Thrill Rides,12,0,0.0,,,,,,
-2026-09-05,3288,THE JOKER™,Thrill Rides,12,0,0.0,,,,,,
-2026-09-05,15594,Tree Top Hopper,Kids' Rides,12,0,0.0,,,,,,
-2026-09-05,17428,Wave Swinger,Family Rides,12,0,0.0,,,,,,
-2026-09-05,3273,Wile E. Coyote Canyon Blaster,Thrill Rides,12,0,0.0,,,,,,
-2026-09-05,6371,WONDER WOMAN™ Lasso of Truth,Thrill Rides,12,0,0.0,,,,,,
+2026-09-05,3231,Air Jumbo,Family Rides,84,72,85.7,0.0,0.0,0.0,0,11:40,22:00
+2026-09-05,3232,Air Safari,Kids' Rides,84,72,85.7,0.0,0.0,0.0,0,11:40,22:00
+2026-09-05,10461,Barnstormer,Kids' Rides,84,68,81.0,0.0,0.0,0.0,0,11:40,22:00
+2026-09-05,17425,Barrels O’ Fun,Family Rides,84,59,70.2,46.3,60.0,60.0,60,11:40,22:00
+2026-09-05,3233,BATMAN™ The Ride,Thrill Rides,84,72,85.7,19.4,15.0,30.0,30,11:40,22:00
+2026-09-05,3270,Buccaneer,Family Rides,84,72,85.7,11.2,10.0,15.0,15,11:40,22:00
+2026-09-05,3275,Bugaboo,Kids' Rides,84,72,85.7,0.0,0.0,0.0,0,11:40,22:00
+2026-09-05,3277,Bugs Bunny Camp Carousel,Kids' Rides,84,72,85.7,0.0,0.0,0.0,0,11:40,22:00
+2026-09-05,3279,Bugs Bunny Ranger Pilots,Kids' Rides,84,67,79.8,0.0,0.0,0.0,0,11:40,22:00
+2026-09-05,3237,Carousel,Family Rides,84,72,85.7,0.0,0.0,0.0,0,11:40,22:00
+2026-09-05,3240,Daffy Duck Hot Air Balloons,Kids' Rides,84,69,82.1,0.0,0.0,0.0,0,11:40,22:00
+2026-09-05,3243,El Toro,Thrill Rides,84,56,66.7,42.1,60.0,60.0,60,13:45,22:00
+2026-09-05,3244,Enchanted Teacups,Family Rides,84,72,85.7,0.0,0.0,0.0,0,11:40,22:00
+2026-09-05,3245,Fender Benders,Family Rides,84,72,85.7,0.0,0.0,0.0,0,11:40,22:00
+2026-09-05,17426,Flying Scooters,Family Rides,84,72,85.7,0.0,0.0,0.0,0,11:40,22:00
+2026-09-05,15604,Giant Wheel,Family Rides,84,72,85.7,19.6,30.0,30.0,45,11:40,22:00
+2026-09-05,3236,HARLEY QUINN™ Crazy Train,Family Rides,84,70,83.3,25.9,30.0,35.0,35,11:40,22:00
+2026-09-05,3249,Houdini’s Great Escape,Family Rides,84,72,85.7,6.7,10.0,10.0,10,11:40,22:00
+2026-09-05,17427,Hypno Twister,Family Rides,84,70,83.3,7.4,10.0,15.0,15,11:40,22:00
+2026-09-05,8539,Jersey Devil Coaster,Thrill Rides,84,60,71.4,23.2,20.0,45.0,45,11:40,22:00
+2026-09-05,3250,Jolly Roger,Family Rides,84,69,82.1,0.0,0.0,0.0,0,11:40,22:00
+2026-09-05,3916,JUSTICE LEAGUE™: Battle for METROPOLIS,Thrill Rides,84,70,83.3,32.4,30.0,45.0,45,11:40,22:00
+2026-09-05,10077,Lil' Devil Coaster,Kids' Rides,84,72,85.7,0.0,0.0,0.0,0,11:40,22:00
+2026-09-05,10533,Medusa,Thrill Rides,84,72,85.7,20.0,5.0,50.0,50,11:40,22:00
+2026-09-05,3253,Nitro,Thrill Rides,84,72,85.7,4.7,0.0,15.0,30,11:40,22:00
+2026-09-05,15617,Porky Pig Camp Wagons,Kids' Rides,84,72,85.7,0.0,0.0,0.0,0,11:40,22:00
+2026-09-05,3257,Raja’s Rickshaws,Kids' Rides,84,72,85.7,0.0,0.0,0.0,0,11:40,22:00
+2026-09-05,15829,Roaring Rapids,Family Rides,84,0,0.0,,,,,,
+2026-09-05,3261,Runaway Train,Thrill Rides,84,0,0.0,,,,,,
+2026-09-05,3274,Safari Off-Road Adventure,Kids' Rides,84,0,0.0,,,,,,
+2026-09-05,3283,Saw Mill Log Flume,Kids' Rides,84,44,52.4,39.5,20.0,90.0,90,11:40,22:00
+2026-09-05,15727,Scrambler,Family Rides,84,72,85.7,0.0,0.0,0.0,0,11:40,22:00
+2026-09-05,3262,Skull Mountain,Thrill Rides,84,71,84.5,5.8,10.0,10.0,10,11:40,22:00
+2026-09-05,3281,Sky Zooma,Kids' Rides,84,72,85.7,0.0,0.0,0.0,0,11:40,22:00
+2026-09-05,3263,SkyScreamer,Thrill Rides,84,72,85.7,25.0,30.0,45.0,45,11:40,22:00
+2026-09-05,3282,Slingshot,Thrill Rides,84,59,70.2,0.0,0.0,0.0,0,12:10,22:00
+2026-09-05,15789,Storm Chaser,Kids' Rides,84,72,85.7,0.0,0.0,0.0,0,11:40,22:00
+2026-09-05,3267,Super Round Up,Kids' Rides,84,72,85.7,0.0,0.0,0.0,0,11:40,22:00
+2026-09-05,3266,SUPERMAN™: Ultimate Flight,Thrill Rides,84,0,0.0,,,,,,
+2026-09-05,3268,Tango,Family Rides,84,72,85.7,0.0,0.0,0.0,0,11:40,22:00
+2026-09-05,3271,THE DARK KNIGHT™ Coaster,Thrill Rides,84,65,77.4,16.8,15.0,30.0,30,11:40,22:00
+2026-09-05,14537,THE FLASH™: Vertical Velocity,Thrill Rides,84,60,71.4,68.5,75.0,75.0,90,12:20,22:00
+2026-09-05,3288,THE JOKER™,Thrill Rides,84,72,85.7,25.6,25.0,55.0,60,11:40,22:00
+2026-09-05,15594,Tree Top Hopper,Kids' Rides,84,72,85.7,0.0,0.0,0.0,0,11:40,22:00
+2026-09-05,17428,Wave Swinger,Family Rides,84,72,85.7,0.0,0.0,0.0,0,11:40,22:00
+2026-09-05,3273,Wile E. Coyote Canyon Blaster,Thrill Rides,84,72,85.7,0.0,0.0,0.0,0,11:40,22:00
+2026-09-05,6371,WONDER WOMAN™ Lasso of Truth,Thrill Rides,84,72,85.7,59.2,60.0,60.0,60,11:40,22:00
+2026-09-06,3231,Air Jumbo,Family Rides,12,0,0.0,,,,,,
+2026-09-06,3232,Air Safari,Kids' Rides,12,0,0.0,,,,,,
+2026-09-06,10461,Barnstormer,Kids' Rides,12,0,0.0,,,,,,
+2026-09-06,17425,Barrels O’ Fun,Family Rides,12,0,0.0,,,,,,
+2026-09-06,3233,BATMAN™ The Ride,Thrill Rides,12,0,0.0,,,,,,
+2026-09-06,3270,Buccaneer,Family Rides,12,0,0.0,,,,,,
+2026-09-06,3275,Bugaboo,Kids' Rides,12,0,0.0,,,,,,
+2026-09-06,3277,Bugs Bunny Camp Carousel,Kids' Rides,12,0,0.0,,,,,,
+2026-09-06,3279,Bugs Bunny Ranger Pilots,Kids' Rides,12,0,0.0,,,,,,
+2026-09-06,3237,Carousel,Family Rides,12,0,0.0,,,,,,
+2026-09-06,3240,Daffy Duck Hot Air Balloons,Kids' Rides,12,0,0.0,,,,,,
+2026-09-06,3243,El Toro,Thrill Rides,12,0,0.0,,,,,,
+2026-09-06,3244,Enchanted Teacups,Family Rides,12,0,0.0,,,,,,
+2026-09-06,3245,Fender Benders,Family Rides,12,0,0.0,,,,,,
+2026-09-06,17426,Flying Scooters,Family Rides,12,0,0.0,,,,,,
+2026-09-06,15604,Giant Wheel,Family Rides,12,0,0.0,,,,,,
+2026-09-06,3236,HARLEY QUINN™ Crazy Train,Family Rides,12,0,0.0,,,,,,
+2026-09-06,3249,Houdini’s Great Escape,Family Rides,12,0,0.0,,,,,,
+2026-09-06,17427,Hypno Twister,Family Rides,12,0,0.0,,,,,,
+2026-09-06,8539,Jersey Devil Coaster,Thrill Rides,12,0,0.0,,,,,,
+2026-09-06,3250,Jolly Roger,Family Rides,12,0,0.0,,,,,,
+2026-09-06,3916,JUSTICE LEAGUE™: Battle for METROPOLIS,Thrill Rides,12,0,0.0,,,,,,
+2026-09-06,10077,Lil' Devil Coaster,Kids' Rides,12,0,0.0,,,,,,
+2026-09-06,10533,Medusa,Thrill Rides,12,0,0.0,,,,,,
+2026-09-06,3253,Nitro,Thrill Rides,12,0,0.0,,,,,,
+2026-09-06,15617,Porky Pig Camp Wagons,Kids' Rides,12,0,0.0,,,,,,
+2026-09-06,3257,Raja’s Rickshaws,Kids' Rides,12,0,0.0,,,,,,
+2026-09-06,15829,Roaring Rapids,Family Rides,12,0,0.0,,,,,,
+2026-09-06,3261,Runaway Train,Thrill Rides,12,0,0.0,,,,,,
+2026-09-06,3274,Safari Off-Road Adventure,Kids' Rides,12,0,0.0,,,,,,
+2026-09-06,3283,Saw Mill Log Flume,Kids' Rides,12,0,0.0,,,,,,
+2026-09-06,15727,Scrambler,Family Rides,12,0,0.0,,,,,,
+2026-09-06,3262,Skull Mountain,Thrill Rides,12,0,0.0,,,,,,
+2026-09-06,3281,Sky Zooma,Kids' Rides,12,0,0.0,,,,,,
+2026-09-06,3263,SkyScreamer,Thrill Rides,12,0,0.0,,,,,,
+2026-09-06,3282,Slingshot,Thrill Rides,12,0,0.0,,,,,,
+2026-09-06,15789,Storm Chaser,Kids' Rides,12,0,0.0,,,,,,
+2026-09-06,3267,Super Round Up,Kids' Rides,12,0,0.0,,,,,,
+2026-09-06,3266,SUPERMAN™: Ultimate Flight,Thrill Rides,12,0,0.0,,,,,,
+2026-09-06,3268,Tango,Family Rides,12,0,0.0,,,,,,
+2026-09-06,3271,THE DARK KNIGHT™ Coaster,Thrill Rides,12,0,0.0,,,,,,
+2026-09-06,14537,THE FLASH™: Vertical Velocity,Thrill Rides,12,0,0.0,,,,,,
+2026-09-06,3288,THE JOKER™,Thrill Rides,12,0,0.0,,,,,,
+2026-09-06,15594,Tree Top Hopper,Kids' Rides,12,0,0.0,,,,,,
+2026-09-06,17428,Wave Swinger,Family Rides,12,0,0.0,,,,,,
+2026-09-06,3273,Wile E. Coyote Canyon Blaster,Thrill Rides,12,0,0.0,,,,,,
+2026-09-06,6371,WONDER WOMAN™ Lasso of Truth,Thrill Rides,12,0,0.0,,,,,,
