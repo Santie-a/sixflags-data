@@ -4,7 +4,7 @@
   "name": "Six Flags Great Adventure",
   "timezone": "America/New_York"
  },
- "generated_at": "2026-09-16T12:30:40+00:00",
+ "generated_at": "2026-09-16T18:15:01+00:00",
  "rides": [
   {
    "id": 3231,
@@ -15,6 +15,16 @@
    "id": 3232,
    "name": "Air Safari",
    "land": "Kids' Rides"
+  },
+  {
+   "id": 17721,
+   "name": "Army of the Dead",
+   "land": ""
+  },
+  {
+   "id": 17723,
+   "name": "Asylum",
+   "land": ""
   },
   {
    "id": 10461,
@@ -30,6 +40,11 @@
    "id": 3233,
    "name": "BATMAN™ The Ride",
    "land": "Thrill Rides"
+  },
+  {
+   "id": 17722,
+   "name": "Big Top Terror",
+   "land": ""
   },
   {
    "id": 3270,
@@ -207,6 +222,11 @@
    "land": "Family Rides"
   },
   {
+   "id": 17724,
+   "name": "The Conjuring Universe",
+   "land": ""
+  },
+  {
    "id": 3271,
    "name": "THE DARK KNIGHT™ Coaster",
    "land": "Thrill Rides"
@@ -222,9 +242,19 @@
    "land": "Thrill Rides"
   },
   {
+   "id": 17725,
+   "name": "The Witch's Reflection",
+   "land": ""
+  },
+  {
    "id": 15594,
    "name": "Tree Top Hopper",
    "land": "Kids' Rides"
+  },
+  {
+   "id": 17720,
+   "name": "Trick or Treatin' with Boo",
+   "land": ""
   },
   {
    "id": 17428,
@@ -426,8 +456,8 @@
   {
    "date": "2026-09-16",
    "path": "raw/2026/2026-09-16.csv",
-   "rows": 564,
-   "bytes": 60583
+   "rows": 1200,
+   "bytes": 128119
   }
  ]
 }
