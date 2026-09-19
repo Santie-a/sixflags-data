@@ -4,7 +4,7 @@
   "name": "Six Flags Great Adventure",
   "timezone": "America/New_York"
  },
- "generated_at": "2026-09-19T03:05:01+00:00",
+ "generated_at": "2026-09-19T08:20:01+00:00",
  "rides": [
   {
    "id": 3231,
@@ -67,14 +67,29 @@
    "land": "Kids' Rides"
   },
   {
+   "id": 17766,
+   "name": "CarnEvil",
+   "land": ""
+  },
+  {
    "id": 3237,
    "name": "Carousel",
    "land": "Family Rides"
   },
   {
+   "id": 17767,
+   "name": "Curse of Blackbeard's Bounty",
+   "land": ""
+  },
+  {
    "id": 3240,
    "name": "Daffy Duck Hot Air Balloons",
    "land": "Kids' Rides"
+  },
+  {
+   "id": 17768,
+   "name": "Deadwood Cabin",
+   "land": ""
   },
   {
    "id": 3243,
@@ -87,9 +102,19 @@
    "land": "Family Rides"
   },
   {
+   "id": 17769,
+   "name": "Exile Canyon",
+   "land": ""
+  },
+  {
    "id": 3245,
    "name": "Fender Benders",
    "land": "Family Rides"
+  },
+  {
+   "id": 17770,
+   "name": "Final Destination",
+   "land": ""
   },
   {
    "id": 17426,
@@ -115,6 +140,11 @@
    "id": 17427,
    "name": "Hypno Twister",
    "land": "Family Rides"
+  },
+  {
+   "id": 17771,
+   "name": "JASON: Blood Reign",
+   "land": ""
   },
   {
    "id": 8539,
@@ -145,6 +175,11 @@
    "id": 3253,
    "name": "Nitro",
    "land": "Thrill Rides"
+  },
+  {
+   "id": 17772,
+   "name": "Plaza De La Muerte",
+   "land": ""
   },
   {
    "id": 15617,
@@ -259,6 +294,11 @@
   {
    "id": 17720,
    "name": "Trick or Treatin' with Boo",
+   "land": ""
+  },
+  {
+   "id": 17773,
+   "name": "Twisted Holidays",
    "land": ""
   },
   {
@@ -475,6 +515,12 @@
    "path": "raw/2026/2026-09-18.csv",
    "rows": 3828,
    "bytes": 405531
+  },
+  {
+   "date": "2026-09-19",
+   "path": "raw/2026/2026-09-19.csv",
+   "rows": 744,
+   "bytes": 78055
   }
  ]
 }
