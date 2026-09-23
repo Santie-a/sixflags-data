@@ -4,7 +4,7 @@
   "name": "Six Flags Great Adventure",
   "timezone": "America/New_York"
  },
- "generated_at": "2026-09-23T18:25:01+00:00",
+ "generated_at": "2026-09-23T21:45:01+00:00",
  "rides": [
   {
    "id": 3231,
@@ -22,9 +22,19 @@
    "land": ""
   },
   {
+   "id": 13929,
+   "name": "Army of the Dead",
+   "land": "Halloween"
+  },
+  {
    "id": 17723,
    "name": "Asylum",
    "land": ""
+  },
+  {
+   "id": 13932,
+   "name": "Asylum",
+   "land": "Halloween"
   },
   {
    "id": 10461,
@@ -45,6 +55,11 @@
    "id": 17722,
    "name": "Big Top Terror",
    "land": ""
+  },
+  {
+   "id": 13933,
+   "name": "Big Top Terror",
+   "land": "Halloween"
   },
   {
    "id": 3270,
@@ -69,7 +84,7 @@
   {
    "id": 17766,
    "name": "CarnEvil",
-   "land": ""
+   "land": "Halloween"
   },
   {
    "id": 3237,
@@ -79,7 +94,7 @@
   {
    "id": 17767,
    "name": "Curse of Blackbeard's Bounty",
-   "land": ""
+   "land": "Halloween"
   },
   {
    "id": 3240,
@@ -89,7 +104,7 @@
   {
    "id": 17768,
    "name": "Deadwood Cabin",
-   "land": ""
+   "land": "Halloween"
   },
   {
    "id": 3243,
@@ -104,7 +119,7 @@
   {
    "id": 17769,
    "name": "Exile Canyon",
-   "land": ""
+   "land": "Halloween"
   },
   {
    "id": 3245,
@@ -114,7 +129,7 @@
   {
    "id": 17770,
    "name": "Final Destination",
-   "land": ""
+   "land": "Halloween"
   },
   {
    "id": 17426,
@@ -144,7 +159,7 @@
   {
    "id": 17771,
    "name": "JASON: Blood Reign",
-   "land": ""
+   "land": "Halloween"
   },
   {
    "id": 8539,
@@ -179,7 +194,7 @@
   {
    "id": 17772,
    "name": "Plaza De La Muerte",
-   "land": ""
+   "land": "Halloween"
   },
   {
    "id": 15617,
@@ -262,9 +277,19 @@
    "land": ""
   },
   {
+   "id": 4005,
+   "name": "The Bloody Fountain",
+   "land": "Halloween"
+  },
+  {
    "id": 17724,
    "name": "The Conjuring Universe",
    "land": ""
+  },
+  {
+   "id": 13926,
+   "name": "The Conjuring Universe",
+   "land": "Halloween"
   },
   {
    "id": 3271,
@@ -284,7 +309,7 @@
   {
    "id": 17725,
    "name": "The Witch's Reflection",
-   "land": ""
+   "land": "Halloween"
   },
   {
    "id": 15594,
@@ -294,12 +319,12 @@
   {
    "id": 17720,
    "name": "Trick or Treatin' with Boo",
-   "land": ""
+   "land": "Halloween"
   },
   {
    "id": 17773,
    "name": "Twisted Holidays",
-   "land": ""
+   "land": "Halloween"
   },
   {
    "id": 17428,
@@ -543,8 +568,8 @@
   {
    "date": "2026-09-23",
    "path": "raw/2026/2026-09-23.csv",
-   "rows": 1488,
-   "bytes": 156031
+   "rows": 2232,
+   "bytes": 235615
   }
  ]
 }
