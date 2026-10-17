@@ -3248,65 +3248,127 @@ date_local,ride_id,ride_name,land,samples,open_samples,pct_open,avg_wait_open,me
 2026-10-15,17428,Wave Swinger,Family Rides,55,0,0.0,,,,,,
 2026-10-15,3273,Wile E. Coyote Canyon Blaster,Thrill Rides,55,0,0.0,,,,,,
 2026-10-15,6371,WONDER WOMAN™ Lasso of Truth,Thrill Rides,55,24,43.6,2.5,0.0,15.0,15,19:10,22:25
-2026-10-16,3231,Air Jumbo,Family Rides,12,0,0.0,,,,,,
-2026-10-16,3232,Air Safari,Kids' Rides,12,0,0.0,,,,,,
-2026-10-16,13929,Army of the Dead,Halloween,12,0,0.0,,,,,,
-2026-10-16,13932,Asylum,Halloween,12,0,0.0,,,,,,
-2026-10-16,10461,Barnstormer,Kids' Rides,12,0,0.0,,,,,,
-2026-10-16,17425,Barrels O’ Fun,Family Rides,12,0,0.0,,,,,,
-2026-10-16,3233,BATMAN™ The Ride,Thrill Rides,12,0,0.0,,,,,,
-2026-10-16,13933,Big Top Terror,Halloween,12,0,0.0,,,,,,
-2026-10-16,3270,Buccaneer,Family Rides,12,0,0.0,,,,,,
-2026-10-16,3275,Bugaboo,Kids' Rides,12,0,0.0,,,,,,
-2026-10-16,3277,Bugs Bunny Camp Carousel,Kids' Rides,12,0,0.0,,,,,,
-2026-10-16,3279,Bugs Bunny Ranger Pilots,Kids' Rides,12,0,0.0,,,,,,
-2026-10-16,17766,CarnEvil,Halloween,12,0,0.0,,,,,,
-2026-10-16,3237,Carousel,Family Rides,12,0,0.0,,,,,,
-2026-10-16,17767,Curse of Blackbeard's Bounty,Halloween,12,0,0.0,,,,,,
-2026-10-16,3240,Daffy Duck Hot Air Balloons,Kids' Rides,12,0,0.0,,,,,,
-2026-10-16,17768,Deadwood Cabin,Halloween,12,0,0.0,,,,,,
-2026-10-16,3243,El Toro,Thrill Rides,12,0,0.0,,,,,,
-2026-10-16,3244,Enchanted Teacups,Family Rides,12,0,0.0,,,,,,
-2026-10-16,17769,Exile Canyon,Halloween,12,0,0.0,,,,,,
-2026-10-16,3245,Fender Benders,Family Rides,12,0,0.0,,,,,,
-2026-10-16,17770,Final Destination,Halloween,12,0,0.0,,,,,,
-2026-10-16,17426,Flying Scooters,Family Rides,12,0,0.0,,,,,,
-2026-10-16,15604,Giant Wheel,Family Rides,12,0,0.0,,,,,,
-2026-10-16,3236,HARLEY QUINN™ Crazy Train,Family Rides,12,0,0.0,,,,,,
-2026-10-16,3249,Houdini’s Great Escape,Family Rides,12,0,0.0,,,,,,
-2026-10-16,17427,Hypno Twister,Family Rides,12,0,0.0,,,,,,
-2026-10-16,17771,JASON: Blood Reign,Halloween,12,0,0.0,,,,,,
-2026-10-16,8539,Jersey Devil Coaster,Thrill Rides,12,0,0.0,,,,,,
-2026-10-16,3250,Jolly Roger,Family Rides,12,0,0.0,,,,,,
-2026-10-16,3916,JUSTICE LEAGUE™: Battle for METROPOLIS,Thrill Rides,12,0,0.0,,,,,,
-2026-10-16,10077,Lil' Devil Coaster,Kids' Rides,12,0,0.0,,,,,,
-2026-10-16,10533,Medusa,Thrill Rides,12,0,0.0,,,,,,
-2026-10-16,3253,Nitro,Thrill Rides,12,0,0.0,,,,,,
-2026-10-16,17772,Plaza De La Muerte,Halloween,12,0,0.0,,,,,,
-2026-10-16,15617,Porky Pig Camp Wagons,Kids' Rides,12,0,0.0,,,,,,
-2026-10-16,3257,Raja’s Rickshaws,Kids' Rides,12,0,0.0,,,,,,
-2026-10-16,15829,Roaring Rapids,Family Rides,12,0,0.0,,,,,,
-2026-10-16,3261,Runaway Train,Thrill Rides,12,0,0.0,,,,,,
-2026-10-16,3274,Safari Off-Road Adventure,Kids' Rides,12,0,0.0,,,,,,
-2026-10-16,3283,Saw Mill Log Flume,Kids' Rides,12,0,0.0,,,,,,
-2026-10-16,15727,Scrambler,Family Rides,12,0,0.0,,,,,,
-2026-10-16,3262,Skull Mountain,Thrill Rides,12,0,0.0,,,,,,
-2026-10-16,3281,Sky Zooma,Kids' Rides,12,0,0.0,,,,,,
-2026-10-16,3263,SkyScreamer,Thrill Rides,12,0,0.0,,,,,,
-2026-10-16,3282,Slingshot,Thrill Rides,12,0,0.0,,,,,,
-2026-10-16,15789,Storm Chaser,Kids' Rides,12,0,0.0,,,,,,
-2026-10-16,3267,Super Round Up,Kids' Rides,12,0,0.0,,,,,,
-2026-10-16,3266,SUPERMAN™: Ultimate Flight,Thrill Rides,12,0,0.0,,,,,,
-2026-10-16,3268,Tango,Family Rides,12,0,0.0,,,,,,
-2026-10-16,4005,The Bloody Fountain,Halloween,12,0,0.0,,,,,,
-2026-10-16,13926,The Conjuring Universe,Halloween,12,0,0.0,,,,,,
-2026-10-16,3271,THE DARK KNIGHT™ Coaster,Thrill Rides,12,0,0.0,,,,,,
-2026-10-16,14537,THE FLASH™: Vertical Velocity,Thrill Rides,12,0,0.0,,,,,,
-2026-10-16,3288,THE JOKER™,Thrill Rides,12,0,0.0,,,,,,
-2026-10-16,17725,The Witch's Reflection,Halloween,12,0,0.0,,,,,,
-2026-10-16,15594,Tree Top Hopper,Kids' Rides,12,0,0.0,,,,,,
-2026-10-16,17720,Trick or Treatin' with Boo,Halloween,12,0,0.0,,,,,,
-2026-10-16,17773,Twisted Holidays,Halloween,12,0,0.0,,,,,,
-2026-10-16,17428,Wave Swinger,Family Rides,12,0,0.0,,,,,,
-2026-10-16,3273,Wile E. Coyote Canyon Blaster,Thrill Rides,12,0,0.0,,,,,,
-2026-10-16,6371,WONDER WOMAN™ Lasso of Truth,Thrill Rides,12,0,0.0,,,,,,
+2026-10-16,3231,Air Jumbo,Family Rides,60,24,40.0,0.0,0.0,0.0,0,18:35,21:45
+2026-10-16,3232,Air Safari,Kids' Rides,60,24,40.0,0.0,0.0,0.0,0,18:35,21:45
+2026-10-16,13929,Army of the Dead,Halloween,60,24,40.0,0.0,0.0,0.0,0,18:35,21:45
+2026-10-16,13932,Asylum,Halloween,60,24,40.0,0.0,0.0,0.0,0,18:35,21:45
+2026-10-16,10461,Barnstormer,Kids' Rides,60,21,35.0,0.0,0.0,0.0,0,18:35,21:45
+2026-10-16,17425,Barrels O’ Fun,Family Rides,60,11,18.3,0.0,0.0,0.0,0,18:35,19:25
+2026-10-16,3233,BATMAN™ The Ride,Thrill Rides,60,24,40.0,2.5,0.0,20.0,20,18:35,21:45
+2026-10-16,13933,Big Top Terror,Halloween,60,24,40.0,0.0,0.0,0.0,0,18:35,21:45
+2026-10-16,3270,Buccaneer,Family Rides,60,24,40.0,0.0,0.0,0.0,0,18:35,21:45
+2026-10-16,3275,Bugaboo,Kids' Rides,60,24,40.0,0.0,0.0,0.0,0,18:35,21:45
+2026-10-16,3277,Bugs Bunny Camp Carousel,Kids' Rides,60,0,0.0,,,,,,
+2026-10-16,3279,Bugs Bunny Ranger Pilots,Kids' Rides,60,0,0.0,,,,,,
+2026-10-16,17766,CarnEvil,Halloween,60,24,40.0,0.0,0.0,0.0,0,18:35,21:45
+2026-10-16,3237,Carousel,Family Rides,60,24,40.0,0.0,0.0,0.0,0,18:35,21:45
+2026-10-16,17767,Curse of Blackbeard's Bounty,Halloween,60,24,40.0,0.0,0.0,0.0,0,18:35,21:45
+2026-10-16,3240,Daffy Duck Hot Air Balloons,Kids' Rides,60,0,0.0,,,,,,
+2026-10-16,17768,Deadwood Cabin,Halloween,60,24,40.0,0.0,0.0,0.0,0,18:35,21:45
+2026-10-16,3243,El Toro,Thrill Rides,60,10,16.7,0.0,0.0,0.0,0,21:00,21:45
+2026-10-16,3244,Enchanted Teacups,Family Rides,60,19,31.7,0.0,0.0,0.0,0,18:35,21:20
+2026-10-16,17769,Exile Canyon,Halloween,60,24,40.0,0.0,0.0,0.0,0,18:35,21:45
+2026-10-16,3245,Fender Benders,Family Rides,60,24,40.0,0.0,0.0,0.0,0,18:35,21:45
+2026-10-16,17770,Final Destination,Halloween,60,24,40.0,0.0,0.0,0.0,0,18:35,21:45
+2026-10-16,17426,Flying Scooters,Family Rides,60,24,40.0,0.0,0.0,0.0,0,18:35,21:45
+2026-10-16,15604,Giant Wheel,Family Rides,60,0,0.0,,,,,,
+2026-10-16,3236,HARLEY QUINN™ Crazy Train,Family Rides,60,20,33.3,0.8,0.0,0.0,15,18:35,21:45
+2026-10-16,3249,Houdini’s Great Escape,Family Rides,60,24,40.0,0.0,0.0,0.0,0,18:35,21:45
+2026-10-16,17427,Hypno Twister,Family Rides,60,24,40.0,0.0,0.0,0.0,0,18:35,21:45
+2026-10-16,17771,JASON: Blood Reign,Halloween,60,24,40.0,0.0,0.0,0.0,0,18:35,21:45
+2026-10-16,8539,Jersey Devil Coaster,Thrill Rides,60,0,0.0,,,,,,
+2026-10-16,3250,Jolly Roger,Family Rides,60,22,36.7,0.0,0.0,0.0,0,18:35,21:45
+2026-10-16,3916,JUSTICE LEAGUE™: Battle for METROPOLIS,Thrill Rides,60,19,31.7,11.1,0.0,30.0,30,18:35,21:45
+2026-10-16,10077,Lil' Devil Coaster,Kids' Rides,60,22,36.7,0.0,0.0,0.0,0,18:35,21:45
+2026-10-16,10533,Medusa,Thrill Rides,60,23,38.3,5.7,5.0,10.0,10,18:35,21:45
+2026-10-16,3253,Nitro,Thrill Rides,60,0,0.0,,,,,,
+2026-10-16,17772,Plaza De La Muerte,Halloween,60,24,40.0,0.0,0.0,0.0,0,18:35,21:45
+2026-10-16,15617,Porky Pig Camp Wagons,Kids' Rides,60,0,0.0,,,,,,
+2026-10-16,3257,Raja’s Rickshaws,Kids' Rides,60,24,40.0,0.0,0.0,0.0,0,18:35,21:45
+2026-10-16,15829,Roaring Rapids,Family Rides,60,0,0.0,,,,,,
+2026-10-16,3261,Runaway Train,Thrill Rides,60,0,0.0,,,,,,
+2026-10-16,3274,Safari Off-Road Adventure,Kids' Rides,60,0,0.0,,,,,,
+2026-10-16,3283,Saw Mill Log Flume,Kids' Rides,60,0,0.0,,,,,,
+2026-10-16,15727,Scrambler,Family Rides,60,24,40.0,0.0,0.0,0.0,0,18:35,21:45
+2026-10-16,3262,Skull Mountain,Thrill Rides,60,22,36.7,11.4,0.0,25.0,25,18:35,21:45
+2026-10-16,3281,Sky Zooma,Kids' Rides,60,24,40.0,0.0,0.0,0.0,0,18:35,21:45
+2026-10-16,3263,SkyScreamer,Thrill Rides,60,24,40.0,2.5,0.0,5.0,5,18:35,21:45
+2026-10-16,3282,Slingshot,Thrill Rides,60,24,40.0,0.0,0.0,0.0,0,18:35,21:45
+2026-10-16,15789,Storm Chaser,Kids' Rides,60,24,40.0,0.0,0.0,0.0,0,18:35,21:45
+2026-10-16,3267,Super Round Up,Kids' Rides,60,12,20.0,0.0,0.0,0.0,0,18:35,19:30
+2026-10-16,3266,SUPERMAN™: Ultimate Flight,Thrill Rides,60,11,18.3,0.0,0.0,0.0,0,18:35,19:25
+2026-10-16,3268,Tango,Family Rides,60,24,40.0,0.0,0.0,0.0,0,18:35,21:45
+2026-10-16,4005,The Bloody Fountain,Halloween,60,24,40.0,0.0,0.0,0.0,0,18:35,21:45
+2026-10-16,13926,The Conjuring Universe,Halloween,60,24,40.0,0.0,0.0,0.0,0,18:35,21:45
+2026-10-16,3271,THE DARK KNIGHT™ Coaster,Thrill Rides,60,23,38.3,2.4,0.0,5.0,5,18:35,21:40
+2026-10-16,14537,THE FLASH™: Vertical Velocity,Thrill Rides,60,24,40.0,23.5,0.0,50.0,50,18:35,21:45
+2026-10-16,3288,THE JOKER™,Thrill Rides,60,24,40.0,29.2,30.0,50.0,50,18:35,21:45
+2026-10-16,17725,The Witch's Reflection,Halloween,60,24,40.0,0.0,0.0,0.0,0,18:35,21:45
+2026-10-16,15594,Tree Top Hopper,Kids' Rides,60,24,40.0,0.0,0.0,0.0,0,18:35,21:45
+2026-10-16,17720,Trick or Treatin' with Boo,Halloween,60,24,40.0,0.0,0.0,0.0,0,18:35,21:45
+2026-10-16,17773,Twisted Holidays,Halloween,60,24,40.0,0.0,0.0,0.0,0,18:35,21:45
+2026-10-16,17428,Wave Swinger,Family Rides,60,0,0.0,,,,,,
+2026-10-16,3273,Wile E. Coyote Canyon Blaster,Thrill Rides,60,0,0.0,,,,,,
+2026-10-16,6371,WONDER WOMAN™ Lasso of Truth,Thrill Rides,60,24,40.0,29.2,20.0,45.0,45,18:35,21:45
+2026-10-17,3231,Air Jumbo,Family Rides,12,0,0.0,,,,,,
+2026-10-17,3232,Air Safari,Kids' Rides,12,0,0.0,,,,,,
+2026-10-17,13929,Army of the Dead,Halloween,12,0,0.0,,,,,,
+2026-10-17,13932,Asylum,Halloween,12,0,0.0,,,,,,
+2026-10-17,10461,Barnstormer,Kids' Rides,12,0,0.0,,,,,,
+2026-10-17,17425,Barrels O’ Fun,Family Rides,12,0,0.0,,,,,,
+2026-10-17,3233,BATMAN™ The Ride,Thrill Rides,12,0,0.0,,,,,,
+2026-10-17,13933,Big Top Terror,Halloween,12,0,0.0,,,,,,
+2026-10-17,3270,Buccaneer,Family Rides,12,0,0.0,,,,,,
+2026-10-17,3275,Bugaboo,Kids' Rides,12,0,0.0,,,,,,
+2026-10-17,3277,Bugs Bunny Camp Carousel,Kids' Rides,12,0,0.0,,,,,,
+2026-10-17,3279,Bugs Bunny Ranger Pilots,Kids' Rides,12,0,0.0,,,,,,
+2026-10-17,17766,CarnEvil,Halloween,12,0,0.0,,,,,,
+2026-10-17,3237,Carousel,Family Rides,12,0,0.0,,,,,,
+2026-10-17,17767,Curse of Blackbeard's Bounty,Halloween,12,0,0.0,,,,,,
+2026-10-17,3240,Daffy Duck Hot Air Balloons,Kids' Rides,12,0,0.0,,,,,,
+2026-10-17,17768,Deadwood Cabin,Halloween,12,0,0.0,,,,,,
+2026-10-17,3243,El Toro,Thrill Rides,12,0,0.0,,,,,,
+2026-10-17,3244,Enchanted Teacups,Family Rides,12,0,0.0,,,,,,
+2026-10-17,17769,Exile Canyon,Halloween,12,0,0.0,,,,,,
+2026-10-17,3245,Fender Benders,Family Rides,12,0,0.0,,,,,,
+2026-10-17,17770,Final Destination,Halloween,12,0,0.0,,,,,,
+2026-10-17,17426,Flying Scooters,Family Rides,12,0,0.0,,,,,,
+2026-10-17,15604,Giant Wheel,Family Rides,12,0,0.0,,,,,,
+2026-10-17,3236,HARLEY QUINN™ Crazy Train,Family Rides,12,0,0.0,,,,,,
+2026-10-17,3249,Houdini’s Great Escape,Family Rides,12,0,0.0,,,,,,
+2026-10-17,17427,Hypno Twister,Family Rides,12,0,0.0,,,,,,
+2026-10-17,17771,JASON: Blood Reign,Halloween,12,0,0.0,,,,,,
+2026-10-17,8539,Jersey Devil Coaster,Thrill Rides,12,0,0.0,,,,,,
+2026-10-17,3250,Jolly Roger,Family Rides,12,0,0.0,,,,,,
+2026-10-17,3916,JUSTICE LEAGUE™: Battle for METROPOLIS,Thrill Rides,12,0,0.0,,,,,,
+2026-10-17,10077,Lil' Devil Coaster,Kids' Rides,12,0,0.0,,,,,,
+2026-10-17,10533,Medusa,Thrill Rides,12,0,0.0,,,,,,
+2026-10-17,3253,Nitro,Thrill Rides,12,0,0.0,,,,,,
+2026-10-17,17772,Plaza De La Muerte,Halloween,12,0,0.0,,,,,,
+2026-10-17,15617,Porky Pig Camp Wagons,Kids' Rides,12,0,0.0,,,,,,
+2026-10-17,3257,Raja’s Rickshaws,Kids' Rides,12,0,0.0,,,,,,
+2026-10-17,15829,Roaring Rapids,Family Rides,12,0,0.0,,,,,,
+2026-10-17,3261,Runaway Train,Thrill Rides,12,0,0.0,,,,,,
+2026-10-17,3274,Safari Off-Road Adventure,Kids' Rides,12,0,0.0,,,,,,
+2026-10-17,3283,Saw Mill Log Flume,Kids' Rides,12,0,0.0,,,,,,
+2026-10-17,15727,Scrambler,Family Rides,12,0,0.0,,,,,,
+2026-10-17,3262,Skull Mountain,Thrill Rides,12,0,0.0,,,,,,
+2026-10-17,3281,Sky Zooma,Kids' Rides,12,0,0.0,,,,,,
+2026-10-17,3263,SkyScreamer,Thrill Rides,12,0,0.0,,,,,,
+2026-10-17,3282,Slingshot,Thrill Rides,12,0,0.0,,,,,,
+2026-10-17,15789,Storm Chaser,Kids' Rides,12,0,0.0,,,,,,
+2026-10-17,3267,Super Round Up,Kids' Rides,12,0,0.0,,,,,,
+2026-10-17,3266,SUPERMAN™: Ultimate Flight,Thrill Rides,12,0,0.0,,,,,,
+2026-10-17,3268,Tango,Family Rides,12,0,0.0,,,,,,
+2026-10-17,4005,The Bloody Fountain,Halloween,12,0,0.0,,,,,,
+2026-10-17,13926,The Conjuring Universe,Halloween,12,0,0.0,,,,,,
+2026-10-17,3271,THE DARK KNIGHT™ Coaster,Thrill Rides,12,0,0.0,,,,,,
+2026-10-17,14537,THE FLASH™: Vertical Velocity,Thrill Rides,12,0,0.0,,,,,,
+2026-10-17,3288,THE JOKER™,Thrill Rides,12,0,0.0,,,,,,
+2026-10-17,17725,The Witch's Reflection,Halloween,12,0,0.0,,,,,,
+2026-10-17,15594,Tree Top Hopper,Kids' Rides,12,0,0.0,,,,,,
+2026-10-17,17720,Trick or Treatin' with Boo,Halloween,12,0,0.0,,,,,,
+2026-10-17,17773,Twisted Holidays,Halloween,12,0,0.0,,,,,,
+2026-10-17,17428,Wave Swinger,Family Rides,12,0,0.0,,,,,,
+2026-10-17,3273,Wile E. Coyote Canyon Blaster,Thrill Rides,12,0,0.0,,,,,,
+2026-10-17,6371,WONDER WOMAN™ Lasso of Truth,Thrill Rides,12,0,0.0,,,,,,
