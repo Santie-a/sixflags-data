@@ -94,22 +94,22 @@ ride_id,ride_name,day_of_week,dow_name,hour_local,avg_wait_open,p90_wait_open,ma
 3231,Air Jumbo,4,Friday,10,0.0,0.0,0,25.0,3,12,1
 3231,Air Jumbo,4,Friday,11,0.0,0.0,0,100.0,12,12,1
 3231,Air Jumbo,4,Friday,12,0.0,0.0,0,73.9,17,23,2
-3231,Air Jumbo,4,Friday,13,0.0,0.0,0,35.2,19,54,2
-3231,Air Jumbo,4,Friday,14,0.0,0.0,0,33.3,12,36,1
+3231,Air Jumbo,4,Friday,13,0.0,0.0,0,32.2,19,59,2
+3231,Air Jumbo,4,Friday,14,0.0,0.0,0,27.9,12,43,1
 3231,Air Jumbo,4,Friday,15,0.0,0.0,0,46.8,22,47,2
-3231,Air Jumbo,4,Friday,16,0.0,0.0,0,41.2,14,34,2
-3231,Air Jumbo,4,Friday,17,0.0,0.0,0,47.1,16,34,2
+3231,Air Jumbo,4,Friday,16,0.0,0.0,0,37.8,14,37,2
+3231,Air Jumbo,4,Friday,17,0.0,0.0,0,53.5,23,43,3
 3231,Air Jumbo,4,Friday,18,0.0,0.0,0,77.4,41,53,7
-3231,Air Jumbo,4,Friday,19,0.0,0.0,0,93.4,57,61,8
-3231,Air Jumbo,4,Friday,20,0.0,0.0,0,72.7,32,44,5
+3231,Air Jumbo,4,Friday,19,0.0,0.0,0,93.9,62,66,9
+3231,Air Jumbo,4,Friday,20,0.0,0.0,0,76.5,39,51,6
 3231,Air Jumbo,4,Friday,21,0.0,0.0,0,96.9,31,32,3
-3231,Air Jumbo,4,Friday,22,0.0,0.0,0,52.3,34,65,5
-3231,Air Jumbo,4,Friday,23,0.0,0.0,0,18.2,4,22,2
+3231,Air Jumbo,4,Friday,22,0.0,0.0,0,52.8,38,72,6
+3231,Air Jumbo,4,Friday,23,0.0,0.0,0,33.3,9,27,3
 3231,Air Jumbo,5,Saturday,0,,,,0.0,0,23,0
 3231,Air Jumbo,5,Saturday,1,,,,0.0,0,13,0
 3231,Air Jumbo,5,Saturday,2,,,,0.0,0,10,0
-3231,Air Jumbo,5,Saturday,3,,,,0.0,0,33,0
-3231,Air Jumbo,5,Saturday,4,,,,0.0,0,22,0
+3231,Air Jumbo,5,Saturday,3,,,,0.0,0,39,0
+3231,Air Jumbo,5,Saturday,4,,,,0.0,0,28,0
 3231,Air Jumbo,5,Saturday,5,,,,0.0,0,9,0
 3231,Air Jumbo,5,Saturday,9,,,,0.0,0,8,0
 3231,Air Jumbo,5,Saturday,10,0.0,0.0,0,33.3,4,12,1
@@ -242,22 +242,22 @@ ride_id,ride_name,day_of_week,dow_name,hour_local,avg_wait_open,p90_wait_open,ma
 3232,Air Safari,4,Friday,10,0.0,0.0,0,25.0,3,12,1
 3232,Air Safari,4,Friday,11,0.0,0.0,0,100.0,12,12,1
 3232,Air Safari,4,Friday,12,0.0,0.0,0,73.9,17,23,2
-3232,Air Safari,4,Friday,13,0.0,0.0,0,35.2,19,54,2
-3232,Air Safari,4,Friday,14,0.0,0.0,0,30.6,11,36,1
+3232,Air Safari,4,Friday,13,0.0,0.0,0,32.2,19,59,2
+3232,Air Safari,4,Friday,14,0.0,0.0,0,25.6,11,43,1
 3232,Air Safari,4,Friday,15,0.0,0.0,0,44.7,21,47,2
-3232,Air Safari,4,Friday,16,0.0,0.0,0,41.2,14,34,2
-3232,Air Safari,4,Friday,17,0.0,0.0,0,47.1,16,34,2
+3232,Air Safari,4,Friday,16,0.0,0.0,0,37.8,14,37,2
+3232,Air Safari,4,Friday,17,0.0,0.0,0,53.5,23,43,3
 3232,Air Safari,4,Friday,18,0.0,0.0,0,66.0,35,53,6
-3232,Air Safari,4,Friday,19,0.0,0.0,0,78.7,48,61,7
-3232,Air Safari,4,Friday,20,0.0,0.0,0,65.9,29,44,5
+3232,Air Safari,4,Friday,19,0.0,0.0,0,80.3,53,66,8
+3232,Air Safari,4,Friday,20,0.0,0.0,0,70.6,36,51,6
 3232,Air Safari,4,Friday,21,0.0,0.0,0,96.9,31,32,3
-3232,Air Safari,4,Friday,22,0.0,0.0,0,50.8,33,65,5
-3232,Air Safari,4,Friday,23,0.0,0.0,0,18.2,4,22,2
+3232,Air Safari,4,Friday,22,0.0,0.0,0,55.6,40,72,6
+3232,Air Safari,4,Friday,23,0.0,0.0,0,33.3,9,27,3
 3232,Air Safari,5,Saturday,0,,,,0.0,0,23,0
 3232,Air Safari,5,Saturday,1,,,,0.0,0,13,0
 3232,Air Safari,5,Saturday,2,,,,0.0,0,10,0
-3232,Air Safari,5,Saturday,3,,,,0.0,0,33,0
-3232,Air Safari,5,Saturday,4,,,,0.0,0,22,0
+3232,Air Safari,5,Saturday,3,,,,0.0,0,39,0
+3232,Air Safari,5,Saturday,4,,,,0.0,0,28,0
 3232,Air Safari,5,Saturday,5,,,,0.0,0,9,0
 3232,Air Safari,5,Saturday,9,,,,0.0,0,8,0
 3232,Air Safari,5,Saturday,10,0.0,0.0,0,33.3,4,12,1
@@ -401,31 +401,31 @@ ride_id,ride_name,day_of_week,dow_name,hour_local,avg_wait_open,p90_wait_open,ma
 13929,Army of the Dead,4,Friday,5,,,,0.0,0,1,0
 17721,Army of the Dead,4,Friday,12,,,,0.0,0,3,0
 17721,Army of the Dead,4,Friday,13,,,,0.0,0,9,0
-13929,Army of the Dead,4,Friday,13,,,,0.0,0,17,0
-13929,Army of the Dead,4,Friday,14,,,,0.0,0,24,0
+13929,Army of the Dead,4,Friday,13,,,,0.0,0,22,0
+13929,Army of the Dead,4,Friday,14,,,,0.0,0,31,0
 17721,Army of the Dead,4,Friday,15,,,,0.0,0,9,0
 13929,Army of the Dead,4,Friday,15,,,,0.0,0,8,0
 17721,Army of the Dead,4,Friday,16,,,,0.0,0,3,0
-13929,Army of the Dead,4,Friday,16,,,,0.0,0,13,0
+13929,Army of the Dead,4,Friday,16,,,,0.0,0,16,0
 17721,Army of the Dead,4,Friday,17,,,,0.0,0,4,0
-13929,Army of the Dead,4,Friday,17,,,,0.0,0,10,0
+13929,Army of the Dead,4,Friday,17,,,,0.0,0,19,0
 17721,Army of the Dead,4,Friday,18,,,,0.0,0,8,0
 13929,Army of the Dead,4,Friday,18,0.0,0.0,0,100.0,14,14,3
 17721,Army of the Dead,4,Friday,19,,,,0.0,0,4,0
-13929,Army of the Dead,4,Friday,19,0.0,0.0,0,100.0,26,26,4
+13929,Army of the Dead,4,Friday,19,0.0,0.0,0,100.0,31,31,5
 17721,Army of the Dead,4,Friday,20,,,,0.0,0,8,0
-13929,Army of the Dead,4,Friday,20,0.0,0.0,0,100.0,10,10,2
+13929,Army of the Dead,4,Friday,20,0.0,0.0,0,100.0,17,17,3
 13929,Army of the Dead,4,Friday,21,0.0,0.0,0,100.0,19,19,2
 17721,Army of the Dead,4,Friday,22,0.0,0.0,0,100.0,10,10,1
-13929,Army of the Dead,4,Friday,22,0.0,0.0,0,100.0,21,21,3
+13929,Army of the Dead,4,Friday,22,0.0,0.0,0,100.0,28,28,4
 17721,Army of the Dead,4,Friday,23,0.0,0.0,0,100.0,2,2,1
-13929,Army of the Dead,4,Friday,23,0.0,0.0,0,33.3,2,6,1
+13929,Army of the Dead,4,Friday,23,0.0,0.0,0,63.6,7,11,2
 13929,Army of the Dead,5,Saturday,1,,,,0.0,0,10,0
 13929,Army of the Dead,5,Saturday,2,,,,0.0,0,6,0
 17721,Army of the Dead,5,Saturday,3,,,,0.0,0,7,0
-13929,Army of the Dead,5,Saturday,3,,,,0.0,0,8,0
+13929,Army of the Dead,5,Saturday,3,,,,0.0,0,14,0
 17721,Army of the Dead,5,Saturday,4,,,,0.0,0,5,0
-13929,Army of the Dead,5,Saturday,4,,,,0.0,0,15,0
+13929,Army of the Dead,5,Saturday,4,,,,0.0,0,21,0
 13929,Army of the Dead,5,Saturday,5,,,,0.0,0,9,0
 17721,Army of the Dead,5,Saturday,12,,,,0.0,0,11,0
 13929,Army of the Dead,5,Saturday,12,,,,0.0,0,17,0
@@ -585,31 +585,31 @@ ride_id,ride_name,day_of_week,dow_name,hour_local,avg_wait_open,p90_wait_open,ma
 13932,Asylum,4,Friday,5,,,,0.0,0,1,0
 17723,Asylum,4,Friday,12,,,,0.0,0,3,0
 17723,Asylum,4,Friday,13,,,,0.0,0,9,0
-13932,Asylum,4,Friday,13,,,,0.0,0,17,0
-13932,Asylum,4,Friday,14,,,,0.0,0,24,0
+13932,Asylum,4,Friday,13,,,,0.0,0,22,0
+13932,Asylum,4,Friday,14,,,,0.0,0,31,0
 17723,Asylum,4,Friday,15,,,,0.0,0,9,0
 13932,Asylum,4,Friday,15,,,,0.0,0,8,0
 17723,Asylum,4,Friday,16,,,,0.0,0,3,0
-13932,Asylum,4,Friday,16,,,,0.0,0,13,0
+13932,Asylum,4,Friday,16,,,,0.0,0,16,0
 17723,Asylum,4,Friday,17,,,,0.0,0,4,0
-13932,Asylum,4,Friday,17,,,,0.0,0,10,0
+13932,Asylum,4,Friday,17,,,,0.0,0,19,0
 17723,Asylum,4,Friday,18,,,,0.0,0,8,0
 13932,Asylum,4,Friday,18,0.0,0.0,0,42.9,6,14,2
 17723,Asylum,4,Friday,19,,,,0.0,0,4,0
-13932,Asylum,4,Friday,19,0.0,0.0,0,100.0,26,26,4
+13932,Asylum,4,Friday,19,0.0,0.0,0,100.0,31,31,5
 17723,Asylum,4,Friday,20,,,,0.0,0,8,0
-13932,Asylum,4,Friday,20,0.0,0.0,0,100.0,10,10,2
+13932,Asylum,4,Friday,20,0.0,0.0,0,100.0,17,17,3
 13932,Asylum,4,Friday,21,0.0,0.0,0,100.0,19,19,2
 17723,Asylum,4,Friday,22,,,,0.0,0,10,0
-13932,Asylum,4,Friday,22,0.0,0.0,0,100.0,21,21,3
+13932,Asylum,4,Friday,22,0.0,0.0,0,100.0,28,28,4
 17723,Asylum,4,Friday,23,,,,0.0,0,2,0
-13932,Asylum,4,Friday,23,0.0,0.0,0,33.3,2,6,1
+13932,Asylum,4,Friday,23,0.0,0.0,0,63.6,7,11,2
 13932,Asylum,5,Saturday,1,,,,0.0,0,10,0
 13932,Asylum,5,Saturday,2,,,,0.0,0,6,0
 17723,Asylum,5,Saturday,3,,,,0.0,0,7,0
-13932,Asylum,5,Saturday,3,,,,0.0,0,8,0
+13932,Asylum,5,Saturday,3,,,,0.0,0,14,0
 17723,Asylum,5,Saturday,4,,,,0.0,0,5,0
-13932,Asylum,5,Saturday,4,,,,0.0,0,15,0
+13932,Asylum,5,Saturday,4,,,,0.0,0,21,0
 13932,Asylum,5,Saturday,5,,,,0.0,0,9,0
 17723,Asylum,5,Saturday,12,,,,0.0,0,11,0
 13932,Asylum,5,Saturday,12,,,,0.0,0,17,0
@@ -758,22 +758,22 @@ ride_id,ride_name,day_of_week,dow_name,hour_local,avg_wait_open,p90_wait_open,ma
 10461,Barnstormer,4,Friday,10,0.0,0.0,0,25.0,3,12,1
 10461,Barnstormer,4,Friday,11,0.0,0.0,0,100.0,12,12,1
 10461,Barnstormer,4,Friday,12,0.0,0.0,0,73.9,17,23,2
-10461,Barnstormer,4,Friday,13,0.0,0.0,0,35.2,19,54,2
-10461,Barnstormer,4,Friday,14,0.0,0.0,0,33.3,12,36,1
+10461,Barnstormer,4,Friday,13,0.0,0.0,0,32.2,19,59,2
+10461,Barnstormer,4,Friday,14,0.0,0.0,0,27.9,12,43,1
 10461,Barnstormer,4,Friday,15,0.0,0.0,0,46.8,22,47,2
-10461,Barnstormer,4,Friday,16,0.0,0.0,0,41.2,14,34,2
-10461,Barnstormer,4,Friday,17,0.0,0.0,0,50.0,17,34,2
+10461,Barnstormer,4,Friday,16,0.0,0.0,0,37.8,14,37,2
+10461,Barnstormer,4,Friday,17,0.0,0.0,0,55.8,24,43,3
 10461,Barnstormer,4,Friday,18,0.0,0.0,0,77.4,41,53,7
-10461,Barnstormer,4,Friday,19,0.0,0.0,0,90.2,55,61,8
-10461,Barnstormer,4,Friday,20,0.0,0.0,0,68.2,30,44,5
+10461,Barnstormer,4,Friday,19,0.0,0.0,0,90.9,60,66,9
+10461,Barnstormer,4,Friday,20,0.0,0.0,0,72.5,37,51,6
 10461,Barnstormer,4,Friday,21,0.0,0.0,0,96.9,31,32,3
-10461,Barnstormer,4,Friday,22,0.0,0.0,0,52.3,34,65,5
-10461,Barnstormer,4,Friday,23,0.0,0.0,0,18.2,4,22,2
+10461,Barnstormer,4,Friday,22,0.0,0.0,0,56.9,41,72,6
+10461,Barnstormer,4,Friday,23,0.0,0.0,0,33.3,9,27,3
 10461,Barnstormer,5,Saturday,0,,,,0.0,0,23,0
 10461,Barnstormer,5,Saturday,1,,,,0.0,0,13,0
 10461,Barnstormer,5,Saturday,2,,,,0.0,0,10,0
-10461,Barnstormer,5,Saturday,3,,,,0.0,0,33,0
-10461,Barnstormer,5,Saturday,4,,,,0.0,0,22,0
+10461,Barnstormer,5,Saturday,3,,,,0.0,0,39,0
+10461,Barnstormer,5,Saturday,4,,,,0.0,0,28,0
 10461,Barnstormer,5,Saturday,5,,,,0.0,0,9,0
 10461,Barnstormer,5,Saturday,9,,,,0.0,0,8,0
 10461,Barnstormer,5,Saturday,10,0.0,0.0,0,33.3,4,12,1
@@ -906,22 +906,22 @@ ride_id,ride_name,day_of_week,dow_name,hour_local,avg_wait_open,p90_wait_open,ma
 17425,Barrels O’ Fun,4,Friday,10,0.0,0.0,0,25.0,3,12,1
 17425,Barrels O’ Fun,4,Friday,11,0.0,0.0,0,100.0,12,12,1
 17425,Barrels O’ Fun,4,Friday,12,12.6,25.0,25,73.9,17,23,2
-17425,Barrels O’ Fun,4,Friday,13,26.4,50.0,50,33.3,18,54,2
-17425,Barrels O’ Fun,4,Friday,14,49.2,50.0,50,33.3,12,36,1
+17425,Barrels O’ Fun,4,Friday,13,26.4,50.0,50,30.5,18,59,2
+17425,Barrels O’ Fun,4,Friday,14,49.2,50.0,50,27.9,12,43,1
 17425,Barrels O’ Fun,4,Friday,15,30.7,60.0,60,46.8,22,47,2
-17425,Barrels O’ Fun,4,Friday,16,51.4,60.0,60,41.2,14,34,2
-17425,Barrels O’ Fun,4,Friday,17,48.2,60.0,60,50.0,17,34,2
+17425,Barrels O’ Fun,4,Friday,16,51.4,60.0,60,37.8,14,37,2
+17425,Barrels O’ Fun,4,Friday,17,34.2,60.0,60,55.8,24,43,3
 17425,Barrels O’ Fun,4,Friday,18,22.1,60.0,60,73.6,39,53,6
-17425,Barrels O’ Fun,4,Friday,19,19.4,30.0,60,88.5,54,61,8
-17425,Barrels O’ Fun,4,Friday,20,20.0,30.0,30,68.2,30,44,4
+17425,Barrels O’ Fun,4,Friday,19,21.5,45.0,60,89.4,59,66,9
+17425,Barrels O’ Fun,4,Friday,20,24.7,45.0,45,72.5,37,51,5
 17425,Barrels O’ Fun,4,Friday,21,30.0,30.0,30,37.5,12,32,1
-17425,Barrels O’ Fun,4,Friday,22,31.8,45.0,45,38.5,25,65,3
-17425,Barrels O’ Fun,4,Friday,23,30.0,30.0,30,9.1,2,22,1
+17425,Barrels O’ Fun,4,Friday,22,36.4,75.0,75,38.9,28,72,4
+17425,Barrels O’ Fun,4,Friday,23,30.0,30.0,30,7.4,2,27,1
 17425,Barrels O’ Fun,5,Saturday,0,,,,0.0,0,23,0
 17425,Barrels O’ Fun,5,Saturday,1,,,,0.0,0,13,0
 17425,Barrels O’ Fun,5,Saturday,2,,,,0.0,0,10,0
-17425,Barrels O’ Fun,5,Saturday,3,,,,0.0,0,33,0
-17425,Barrels O’ Fun,5,Saturday,4,,,,0.0,0,22,0
+17425,Barrels O’ Fun,5,Saturday,3,,,,0.0,0,39,0
+17425,Barrels O’ Fun,5,Saturday,4,,,,0.0,0,28,0
 17425,Barrels O’ Fun,5,Saturday,5,,,,0.0,0,9,0
 17425,Barrels O’ Fun,5,Saturday,9,,,,0.0,0,8,0
 17425,Barrels O’ Fun,5,Saturday,10,0.0,0.0,0,33.3,4,12,1
@@ -1054,22 +1054,22 @@ ride_id,ride_name,day_of_week,dow_name,hour_local,avg_wait_open,p90_wait_open,ma
 3233,BATMAN™ The Ride,4,Friday,10,0.0,0.0,0,25.0,3,12,1
 3233,BATMAN™ The Ride,4,Friday,11,0.0,0.0,0,100.0,12,12,1
 3233,BATMAN™ The Ride,4,Friday,12,0.0,0.0,0,73.9,17,23,2
-3233,BATMAN™ The Ride,4,Friday,13,9.5,20.0,20,35.2,19,54,2
-3233,BATMAN™ The Ride,4,Friday,14,20.0,20.0,20,33.3,12,36,1
+3233,BATMAN™ The Ride,4,Friday,13,9.5,20.0,20,32.2,19,59,2
+3233,BATMAN™ The Ride,4,Friday,14,20.0,20.0,20,27.9,12,43,1
 3233,BATMAN™ The Ride,4,Friday,15,10.9,20.0,20,46.8,22,47,2
-3233,BATMAN™ The Ride,4,Friday,16,16.4,20.0,20,41.2,14,34,2
-3233,BATMAN™ The Ride,4,Friday,17,7.1,10.0,10,50.0,17,34,2
+3233,BATMAN™ The Ride,4,Friday,16,16.4,20.0,20,37.8,14,37,2
+3233,BATMAN™ The Ride,4,Friday,17,5.0,10.0,10,55.8,24,43,3
 3233,BATMAN™ The Ride,4,Friday,18,3.6,10.0,10,79.2,42,53,7
-3233,BATMAN™ The Ride,4,Friday,19,5.1,10.0,15,90.2,55,61,8
-3233,BATMAN™ The Ride,4,Friday,20,3.8,10.0,10,72.7,32,44,5
+3233,BATMAN™ The Ride,4,Friday,19,9.7,15.0,60,90.9,60,66,9
+3233,BATMAN™ The Ride,4,Friday,20,27.2,190.0,190,76.5,39,51,6
 3233,BATMAN™ The Ride,4,Friday,21,14.5,30.0,30,96.9,31,32,3
-3233,BATMAN™ The Ride,4,Friday,22,12.9,45.0,45,52.3,34,65,5
-3233,BATMAN™ The Ride,4,Friday,23,0.0,0.0,0,18.2,4,22,2
+3233,BATMAN™ The Ride,4,Friday,22,12.9,45.0,45,47.2,34,72,5
+3233,BATMAN™ The Ride,4,Friday,23,0.0,0.0,0,14.8,4,27,2
 3233,BATMAN™ The Ride,5,Saturday,0,,,,0.0,0,23,0
 3233,BATMAN™ The Ride,5,Saturday,1,,,,0.0,0,13,0
 3233,BATMAN™ The Ride,5,Saturday,2,,,,0.0,0,10,0
-3233,BATMAN™ The Ride,5,Saturday,3,,,,0.0,0,33,0
-3233,BATMAN™ The Ride,5,Saturday,4,,,,0.0,0,22,0
+3233,BATMAN™ The Ride,5,Saturday,3,,,,0.0,0,39,0
+3233,BATMAN™ The Ride,5,Saturday,4,,,,0.0,0,28,0
 3233,BATMAN™ The Ride,5,Saturday,5,,,,0.0,0,9,0
 3233,BATMAN™ The Ride,5,Saturday,9,,,,0.0,0,8,0
 3233,BATMAN™ The Ride,5,Saturday,10,0.0,0.0,0,33.3,4,12,1
@@ -1213,31 +1213,31 @@ ride_id,ride_name,day_of_week,dow_name,hour_local,avg_wait_open,p90_wait_open,ma
 13933,Big Top Terror,4,Friday,5,,,,0.0,0,1,0
 17722,Big Top Terror,4,Friday,12,,,,0.0,0,3,0
 17722,Big Top Terror,4,Friday,13,,,,0.0,0,9,0
-13933,Big Top Terror,4,Friday,13,,,,0.0,0,17,0
-13933,Big Top Terror,4,Friday,14,,,,0.0,0,24,0
+13933,Big Top Terror,4,Friday,13,,,,0.0,0,22,0
+13933,Big Top Terror,4,Friday,14,,,,0.0,0,31,0
 17722,Big Top Terror,4,Friday,15,,,,0.0,0,9,0
 13933,Big Top Terror,4,Friday,15,,,,0.0,0,8,0
 17722,Big Top Terror,4,Friday,16,,,,0.0,0,3,0
-13933,Big Top Terror,4,Friday,16,,,,0.0,0,13,0
+13933,Big Top Terror,4,Friday,16,,,,0.0,0,16,0
 17722,Big Top Terror,4,Friday,17,,,,0.0,0,4,0
-13933,Big Top Terror,4,Friday,17,,,,0.0,0,10,0
+13933,Big Top Terror,4,Friday,17,,,,0.0,0,19,0
 17722,Big Top Terror,4,Friday,18,,,,0.0,0,8,0
 13933,Big Top Terror,4,Friday,18,0.0,0.0,0,42.9,6,14,2
 17722,Big Top Terror,4,Friday,19,,,,0.0,0,4,0
-13933,Big Top Terror,4,Friday,19,0.0,0.0,0,100.0,26,26,4
+13933,Big Top Terror,4,Friday,19,0.0,0.0,0,100.0,31,31,5
 17722,Big Top Terror,4,Friday,20,,,,0.0,0,8,0
-13933,Big Top Terror,4,Friday,20,0.0,0.0,0,100.0,10,10,2
+13933,Big Top Terror,4,Friday,20,0.0,0.0,0,100.0,17,17,3
 13933,Big Top Terror,4,Friday,21,0.0,0.0,0,100.0,19,19,2
 17722,Big Top Terror,4,Friday,22,0.0,0.0,0,100.0,10,10,1
-13933,Big Top Terror,4,Friday,22,0.0,0.0,0,100.0,21,21,3
+13933,Big Top Terror,4,Friday,22,0.0,0.0,0,100.0,28,28,4
 17722,Big Top Terror,4,Friday,23,0.0,0.0,0,100.0,2,2,1
-13933,Big Top Terror,4,Friday,23,0.0,0.0,0,33.3,2,6,1
+13933,Big Top Terror,4,Friday,23,0.0,0.0,0,63.6,7,11,2
 13933,Big Top Terror,5,Saturday,1,,,,0.0,0,10,0
 13933,Big Top Terror,5,Saturday,2,,,,0.0,0,6,0
 17722,Big Top Terror,5,Saturday,3,,,,0.0,0,7,0
-13933,Big Top Terror,5,Saturday,3,,,,0.0,0,8,0
+13933,Big Top Terror,5,Saturday,3,,,,0.0,0,14,0
 17722,Big Top Terror,5,Saturday,4,,,,0.0,0,5,0
-13933,Big Top Terror,5,Saturday,4,,,,0.0,0,15,0
+13933,Big Top Terror,5,Saturday,4,,,,0.0,0,21,0
 13933,Big Top Terror,5,Saturday,5,,,,0.0,0,9,0
 17722,Big Top Terror,5,Saturday,12,,,,0.0,0,11,0
 13933,Big Top Terror,5,Saturday,12,,,,0.0,0,17,0
@@ -1386,22 +1386,22 @@ ride_id,ride_name,day_of_week,dow_name,hour_local,avg_wait_open,p90_wait_open,ma
 3270,Buccaneer,4,Friday,10,0.0,0.0,0,25.0,3,12,1
 3270,Buccaneer,4,Friday,11,0.0,0.0,0,100.0,12,12,1
 3270,Buccaneer,4,Friday,12,0.0,0.0,0,73.9,17,23,2
-3270,Buccaneer,4,Friday,13,1.3,5.0,5,35.2,19,54,2
-3270,Buccaneer,4,Friday,14,5.0,5.0,5,33.3,12,36,1
+3270,Buccaneer,4,Friday,13,1.3,5.0,5,32.2,19,59,2
+3270,Buccaneer,4,Friday,14,5.0,5.0,5,27.9,12,43,1
 3270,Buccaneer,4,Friday,15,2.7,5.0,5,46.8,22,47,2
-3270,Buccaneer,4,Friday,16,4.3,5.0,5,41.2,14,34,2
-3270,Buccaneer,4,Friday,17,3.5,5.0,5,50.0,17,34,2
+3270,Buccaneer,4,Friday,16,4.3,5.0,5,37.8,14,37,2
+3270,Buccaneer,4,Friday,17,2.5,5.0,5,55.8,24,43,3
 3270,Buccaneer,4,Friday,18,1.4,5.0,5,79.2,42,53,7
-3270,Buccaneer,4,Friday,19,1.2,5.0,5,93.4,57,61,8
-3270,Buccaneer,4,Friday,20,1.9,5.0,5,72.7,32,44,5
+3270,Buccaneer,4,Friday,19,1.9,5.0,10,93.9,62,66,9
+3270,Buccaneer,4,Friday,20,3.3,10.0,10,76.5,39,51,6
 3270,Buccaneer,4,Friday,21,1.9,5.0,5,96.9,31,32,3
-3270,Buccaneer,4,Friday,22,0.4,0.0,5,52.3,34,65,5
-3270,Buccaneer,4,Friday,23,0.0,0.0,0,18.2,4,22,2
+3270,Buccaneer,4,Friday,22,2.1,10.0,10,56.9,41,72,6
+3270,Buccaneer,4,Friday,23,5.6,10.0,10,33.3,9,27,3
 3270,Buccaneer,5,Saturday,0,,,,0.0,0,23,0
 3270,Buccaneer,5,Saturday,1,,,,0.0,0,13,0
 3270,Buccaneer,5,Saturday,2,,,,0.0,0,10,0
-3270,Buccaneer,5,Saturday,3,,,,0.0,0,33,0
-3270,Buccaneer,5,Saturday,4,,,,0.0,0,22,0
+3270,Buccaneer,5,Saturday,3,,,,0.0,0,39,0
+3270,Buccaneer,5,Saturday,4,,,,0.0,0,28,0
 3270,Buccaneer,5,Saturday,5,,,,0.0,0,9,0
 3270,Buccaneer,5,Saturday,9,,,,0.0,0,8,0
 3270,Buccaneer,5,Saturday,10,0.0,0.0,0,33.3,4,12,1
@@ -1534,22 +1534,22 @@ ride_id,ride_name,day_of_week,dow_name,hour_local,avg_wait_open,p90_wait_open,ma
 3275,Bugaboo,4,Friday,10,0.0,0.0,0,25.0,3,12,1
 3275,Bugaboo,4,Friday,11,0.0,0.0,0,100.0,12,12,1
 3275,Bugaboo,4,Friday,12,0.0,0.0,0,73.9,17,23,2
-3275,Bugaboo,4,Friday,13,0.0,0.0,0,35.2,19,54,2
-3275,Bugaboo,4,Friday,14,0.0,0.0,0,33.3,12,36,1
+3275,Bugaboo,4,Friday,13,0.0,0.0,0,32.2,19,59,2
+3275,Bugaboo,4,Friday,14,0.0,0.0,0,27.9,12,43,1
 3275,Bugaboo,4,Friday,15,0.0,0.0,0,46.8,22,47,2
-3275,Bugaboo,4,Friday,16,0.0,0.0,0,41.2,14,34,2
-3275,Bugaboo,4,Friday,17,0.0,0.0,0,50.0,17,34,2
+3275,Bugaboo,4,Friday,16,0.0,0.0,0,37.8,14,37,2
+3275,Bugaboo,4,Friday,17,0.0,0.0,0,55.8,24,43,3
 3275,Bugaboo,4,Friday,18,0.0,0.0,0,79.2,42,53,7
-3275,Bugaboo,4,Friday,19,0.0,0.0,0,93.4,57,61,8
-3275,Bugaboo,4,Friday,20,0.0,0.0,0,72.7,32,44,5
+3275,Bugaboo,4,Friday,19,0.0,0.0,0,93.9,62,66,9
+3275,Bugaboo,4,Friday,20,0.0,0.0,0,76.5,39,51,6
 3275,Bugaboo,4,Friday,21,0.0,0.0,0,96.9,31,32,3
-3275,Bugaboo,4,Friday,22,0.0,0.0,0,52.3,34,65,5
-3275,Bugaboo,4,Friday,23,0.0,0.0,0,18.2,4,22,2
+3275,Bugaboo,4,Friday,22,0.0,0.0,0,56.9,41,72,6
+3275,Bugaboo,4,Friday,23,0.0,0.0,0,33.3,9,27,3
 3275,Bugaboo,5,Saturday,0,,,,0.0,0,23,0
 3275,Bugaboo,5,Saturday,1,,,,0.0,0,13,0
 3275,Bugaboo,5,Saturday,2,,,,0.0,0,10,0
-3275,Bugaboo,5,Saturday,3,,,,0.0,0,33,0
-3275,Bugaboo,5,Saturday,4,,,,0.0,0,22,0
+3275,Bugaboo,5,Saturday,3,,,,0.0,0,39,0
+3275,Bugaboo,5,Saturday,4,,,,0.0,0,28,0
 3275,Bugaboo,5,Saturday,5,,,,0.0,0,9,0
 3275,Bugaboo,5,Saturday,9,,,,0.0,0,8,0
 3275,Bugaboo,5,Saturday,10,0.0,0.0,0,33.3,4,12,1
@@ -1682,22 +1682,22 @@ ride_id,ride_name,day_of_week,dow_name,hour_local,avg_wait_open,p90_wait_open,ma
 3277,Bugs Bunny Camp Carousel,4,Friday,10,0.0,0.0,0,25.0,3,12,1
 3277,Bugs Bunny Camp Carousel,4,Friday,11,0.0,0.0,0,100.0,12,12,1
 3277,Bugs Bunny Camp Carousel,4,Friday,12,0.0,0.0,0,73.9,17,23,2
-3277,Bugs Bunny Camp Carousel,4,Friday,13,0.0,0.0,0,35.2,19,54,2
-3277,Bugs Bunny Camp Carousel,4,Friday,14,0.0,0.0,0,33.3,12,36,1
+3277,Bugs Bunny Camp Carousel,4,Friday,13,0.0,0.0,0,32.2,19,59,2
+3277,Bugs Bunny Camp Carousel,4,Friday,14,0.0,0.0,0,27.9,12,43,1
 3277,Bugs Bunny Camp Carousel,4,Friday,15,0.0,0.0,0,46.8,22,47,2
-3277,Bugs Bunny Camp Carousel,4,Friday,16,0.0,0.0,0,41.2,14,34,2
-3277,Bugs Bunny Camp Carousel,4,Friday,17,0.0,0.0,0,50.0,17,34,2
+3277,Bugs Bunny Camp Carousel,4,Friday,16,0.0,0.0,0,37.8,14,37,2
+3277,Bugs Bunny Camp Carousel,4,Friday,17,0.0,0.0,0,39.5,17,43,2
 3277,Bugs Bunny Camp Carousel,4,Friday,18,0.0,0.0,0,41.5,22,53,3
-3277,Bugs Bunny Camp Carousel,4,Friday,19,0.0,0.0,0,44.3,27,61,3
-3277,Bugs Bunny Camp Carousel,4,Friday,20,0.0,0.0,0,31.8,14,44,2
+3277,Bugs Bunny Camp Carousel,4,Friday,19,0.0,0.0,0,40.9,27,66,3
+3277,Bugs Bunny Camp Carousel,4,Friday,20,0.0,0.0,0,27.5,14,51,2
 3277,Bugs Bunny Camp Carousel,4,Friday,21,0.0,0.0,0,37.5,12,32,1
-3277,Bugs Bunny Camp Carousel,4,Friday,22,0.0,0.0,0,4.6,3,65,1
-3277,Bugs Bunny Camp Carousel,4,Friday,23,,,,0.0,0,22,0
+3277,Bugs Bunny Camp Carousel,4,Friday,22,0.0,0.0,0,4.2,3,72,1
+3277,Bugs Bunny Camp Carousel,4,Friday,23,,,,0.0,0,27,0
 3277,Bugs Bunny Camp Carousel,5,Saturday,0,,,,0.0,0,23,0
 3277,Bugs Bunny Camp Carousel,5,Saturday,1,,,,0.0,0,13,0
 3277,Bugs Bunny Camp Carousel,5,Saturday,2,,,,0.0,0,10,0
-3277,Bugs Bunny Camp Carousel,5,Saturday,3,,,,0.0,0,33,0
-3277,Bugs Bunny Camp Carousel,5,Saturday,4,,,,0.0,0,22,0
+3277,Bugs Bunny Camp Carousel,5,Saturday,3,,,,0.0,0,39,0
+3277,Bugs Bunny Camp Carousel,5,Saturday,4,,,,0.0,0,28,0
 3277,Bugs Bunny Camp Carousel,5,Saturday,5,,,,0.0,0,9,0
 3277,Bugs Bunny Camp Carousel,5,Saturday,9,,,,0.0,0,8,0
 3277,Bugs Bunny Camp Carousel,5,Saturday,10,0.0,0.0,0,33.3,4,12,1
@@ -1830,22 +1830,22 @@ ride_id,ride_name,day_of_week,dow_name,hour_local,avg_wait_open,p90_wait_open,ma
 3279,Bugs Bunny Ranger Pilots,4,Friday,10,0.0,0.0,0,25.0,3,12,1
 3279,Bugs Bunny Ranger Pilots,4,Friday,11,0.0,0.0,0,100.0,12,12,1
 3279,Bugs Bunny Ranger Pilots,4,Friday,12,0.0,0.0,0,73.9,17,23,2
-3279,Bugs Bunny Ranger Pilots,4,Friday,13,0.0,0.0,0,35.2,19,54,2
-3279,Bugs Bunny Ranger Pilots,4,Friday,14,0.0,0.0,0,33.3,12,36,1
+3279,Bugs Bunny Ranger Pilots,4,Friday,13,0.0,0.0,0,32.2,19,59,2
+3279,Bugs Bunny Ranger Pilots,4,Friday,14,0.0,0.0,0,27.9,12,43,1
 3279,Bugs Bunny Ranger Pilots,4,Friday,15,0.0,0.0,0,46.8,22,47,2
-3279,Bugs Bunny Ranger Pilots,4,Friday,16,0.0,0.0,0,41.2,14,34,2
-3279,Bugs Bunny Ranger Pilots,4,Friday,17,0.0,0.0,0,50.0,17,34,2
+3279,Bugs Bunny Ranger Pilots,4,Friday,16,0.0,0.0,0,37.8,14,37,2
+3279,Bugs Bunny Ranger Pilots,4,Friday,17,0.0,0.0,0,39.5,17,43,2
 3279,Bugs Bunny Ranger Pilots,4,Friday,18,0.0,0.0,0,41.5,22,53,3
-3279,Bugs Bunny Ranger Pilots,4,Friday,19,0.0,0.0,0,44.3,27,61,3
-3279,Bugs Bunny Ranger Pilots,4,Friday,20,0.0,0.0,0,31.8,14,44,2
+3279,Bugs Bunny Ranger Pilots,4,Friday,19,0.0,0.0,0,40.9,27,66,3
+3279,Bugs Bunny Ranger Pilots,4,Friday,20,0.0,0.0,0,27.5,14,51,2
 3279,Bugs Bunny Ranger Pilots,4,Friday,21,0.0,0.0,0,37.5,12,32,1
-3279,Bugs Bunny Ranger Pilots,4,Friday,22,0.0,0.0,0,4.6,3,65,1
-3279,Bugs Bunny Ranger Pilots,4,Friday,23,,,,0.0,0,22,0
+3279,Bugs Bunny Ranger Pilots,4,Friday,22,0.0,0.0,0,4.2,3,72,1
+3279,Bugs Bunny Ranger Pilots,4,Friday,23,,,,0.0,0,27,0
 3279,Bugs Bunny Ranger Pilots,5,Saturday,0,,,,0.0,0,23,0
 3279,Bugs Bunny Ranger Pilots,5,Saturday,1,,,,0.0,0,13,0
 3279,Bugs Bunny Ranger Pilots,5,Saturday,2,,,,0.0,0,10,0
-3279,Bugs Bunny Ranger Pilots,5,Saturday,3,,,,0.0,0,33,0
-3279,Bugs Bunny Ranger Pilots,5,Saturday,4,,,,0.0,0,22,0
+3279,Bugs Bunny Ranger Pilots,5,Saturday,3,,,,0.0,0,39,0
+3279,Bugs Bunny Ranger Pilots,5,Saturday,4,,,,0.0,0,28,0
 3279,Bugs Bunny Ranger Pilots,5,Saturday,5,,,,0.0,0,9,0
 3279,Bugs Bunny Ranger Pilots,5,Saturday,9,,,,0.0,0,8,0
 3279,Bugs Bunny Ranger Pilots,5,Saturday,10,0.0,0.0,0,33.3,4,12,1
@@ -1951,21 +1951,21 @@ ride_id,ride_name,day_of_week,dow_name,hour_local,avg_wait_open,p90_wait_open,ma
 17766,CarnEvil,4,Friday,3,,,,0.0,0,8,0
 17766,CarnEvil,4,Friday,4,,,,0.0,0,33,0
 17766,CarnEvil,4,Friday,5,,,,0.0,0,1,0
-17766,CarnEvil,4,Friday,13,,,,0.0,0,17,0
-17766,CarnEvil,4,Friday,14,,,,0.0,0,24,0
+17766,CarnEvil,4,Friday,13,,,,0.0,0,22,0
+17766,CarnEvil,4,Friday,14,,,,0.0,0,31,0
 17766,CarnEvil,4,Friday,15,,,,0.0,0,8,0
-17766,CarnEvil,4,Friday,16,,,,0.0,0,13,0
-17766,CarnEvil,4,Friday,17,,,,0.0,0,10,0
+17766,CarnEvil,4,Friday,16,,,,0.0,0,16,0
+17766,CarnEvil,4,Friday,17,,,,0.0,0,19,0
 17766,CarnEvil,4,Friday,18,0.0,0.0,0,42.9,6,14,2
-17766,CarnEvil,4,Friday,19,0.0,0.0,0,100.0,26,26,4
-17766,CarnEvil,4,Friday,20,0.0,0.0,0,100.0,10,10,2
+17766,CarnEvil,4,Friday,19,0.0,0.0,0,100.0,31,31,5
+17766,CarnEvil,4,Friday,20,0.0,0.0,0,100.0,17,17,3
 17766,CarnEvil,4,Friday,21,0.0,0.0,0,100.0,19,19,2
-17766,CarnEvil,4,Friday,22,0.0,0.0,0,100.0,21,21,3
-17766,CarnEvil,4,Friday,23,0.0,0.0,0,33.3,2,6,1
+17766,CarnEvil,4,Friday,22,0.0,0.0,0,100.0,28,28,4
+17766,CarnEvil,4,Friday,23,0.0,0.0,0,63.6,7,11,2
 17766,CarnEvil,5,Saturday,1,,,,0.0,0,10,0
 17766,CarnEvil,5,Saturday,2,,,,0.0,0,6,0
-17766,CarnEvil,5,Saturday,3,,,,0.0,0,15,0
-17766,CarnEvil,5,Saturday,4,,,,0.0,0,20,0
+17766,CarnEvil,5,Saturday,3,,,,0.0,0,21,0
+17766,CarnEvil,5,Saturday,4,,,,0.0,0,26,0
 17766,CarnEvil,5,Saturday,5,,,,0.0,0,9,0
 17766,CarnEvil,5,Saturday,12,,,,0.0,0,28,0
 17766,CarnEvil,5,Saturday,13,,,,0.0,0,26,0
@@ -2092,22 +2092,22 @@ ride_id,ride_name,day_of_week,dow_name,hour_local,avg_wait_open,p90_wait_open,ma
 3237,Carousel,4,Friday,10,0.0,0.0,0,25.0,3,12,1
 3237,Carousel,4,Friday,11,0.0,0.0,0,100.0,12,12,1
 3237,Carousel,4,Friday,12,0.0,0.0,0,73.9,17,23,2
-3237,Carousel,4,Friday,13,0.0,0.0,0,35.2,19,54,2
-3237,Carousel,4,Friday,14,0.0,0.0,0,33.3,12,36,1
+3237,Carousel,4,Friday,13,0.0,0.0,0,32.2,19,59,2
+3237,Carousel,4,Friday,14,0.0,0.0,0,27.9,12,43,1
 3237,Carousel,4,Friday,15,0.0,0.0,0,46.8,22,47,2
-3237,Carousel,4,Friday,16,0.0,0.0,0,41.2,14,34,2
-3237,Carousel,4,Friday,17,0.0,0.0,0,50.0,17,34,2
+3237,Carousel,4,Friday,16,0.0,0.0,0,37.8,14,37,2
+3237,Carousel,4,Friday,17,0.0,0.0,0,55.8,24,43,3
 3237,Carousel,4,Friday,18,0.0,0.0,0,73.6,39,53,7
-3237,Carousel,4,Friday,19,0.0,0.0,0,93.4,57,61,8
-3237,Carousel,4,Friday,20,0.0,0.0,0,72.7,32,44,5
+3237,Carousel,4,Friday,19,0.0,0.0,0,93.9,62,66,9
+3237,Carousel,4,Friday,20,0.0,0.0,0,76.5,39,51,6
 3237,Carousel,4,Friday,21,0.0,0.0,0,96.9,31,32,3
-3237,Carousel,4,Friday,22,0.0,0.0,0,52.3,34,65,5
-3237,Carousel,4,Friday,23,0.0,0.0,0,18.2,4,22,2
+3237,Carousel,4,Friday,22,0.0,0.0,0,56.9,41,72,6
+3237,Carousel,4,Friday,23,0.0,0.0,0,33.3,9,27,3
 3237,Carousel,5,Saturday,0,,,,0.0,0,23,0
 3237,Carousel,5,Saturday,1,,,,0.0,0,13,0
 3237,Carousel,5,Saturday,2,,,,0.0,0,10,0
-3237,Carousel,5,Saturday,3,,,,0.0,0,33,0
-3237,Carousel,5,Saturday,4,,,,0.0,0,22,0
+3237,Carousel,5,Saturday,3,,,,0.0,0,39,0
+3237,Carousel,5,Saturday,4,,,,0.0,0,28,0
 3237,Carousel,5,Saturday,5,,,,0.0,0,9,0
 3237,Carousel,5,Saturday,9,,,,0.0,0,8,0
 3237,Carousel,5,Saturday,10,0.0,0.0,0,33.3,4,12,1
@@ -2213,21 +2213,21 @@ ride_id,ride_name,day_of_week,dow_name,hour_local,avg_wait_open,p90_wait_open,ma
 17767,Curse of Blackbeard's Bounty,4,Friday,3,,,,0.0,0,8,0
 17767,Curse of Blackbeard's Bounty,4,Friday,4,,,,0.0,0,33,0
 17767,Curse of Blackbeard's Bounty,4,Friday,5,,,,0.0,0,1,0
-17767,Curse of Blackbeard's Bounty,4,Friday,13,,,,0.0,0,17,0
-17767,Curse of Blackbeard's Bounty,4,Friday,14,,,,0.0,0,24,0
+17767,Curse of Blackbeard's Bounty,4,Friday,13,,,,0.0,0,22,0
+17767,Curse of Blackbeard's Bounty,4,Friday,14,,,,0.0,0,31,0
 17767,Curse of Blackbeard's Bounty,4,Friday,15,,,,0.0,0,8,0
-17767,Curse of Blackbeard's Bounty,4,Friday,16,,,,0.0,0,13,0
-17767,Curse of Blackbeard's Bounty,4,Friday,17,,,,0.0,0,10,0
+17767,Curse of Blackbeard's Bounty,4,Friday,16,,,,0.0,0,16,0
+17767,Curse of Blackbeard's Bounty,4,Friday,17,,,,0.0,0,19,0
 17767,Curse of Blackbeard's Bounty,4,Friday,18,0.0,0.0,0,42.9,6,14,2
-17767,Curse of Blackbeard's Bounty,4,Friday,19,0.0,0.0,0,100.0,26,26,4
-17767,Curse of Blackbeard's Bounty,4,Friday,20,0.0,0.0,0,100.0,10,10,2
+17767,Curse of Blackbeard's Bounty,4,Friday,19,0.0,0.0,0,100.0,31,31,5
+17767,Curse of Blackbeard's Bounty,4,Friday,20,0.0,0.0,0,100.0,17,17,3
 17767,Curse of Blackbeard's Bounty,4,Friday,21,0.0,0.0,0,100.0,19,19,2
-17767,Curse of Blackbeard's Bounty,4,Friday,22,0.0,0.0,0,100.0,21,21,3
-17767,Curse of Blackbeard's Bounty,4,Friday,23,0.0,0.0,0,33.3,2,6,1
+17767,Curse of Blackbeard's Bounty,4,Friday,22,0.0,0.0,0,100.0,28,28,4
+17767,Curse of Blackbeard's Bounty,4,Friday,23,0.0,0.0,0,63.6,7,11,2
 17767,Curse of Blackbeard's Bounty,5,Saturday,1,,,,0.0,0,10,0
 17767,Curse of Blackbeard's Bounty,5,Saturday,2,,,,0.0,0,6,0
-17767,Curse of Blackbeard's Bounty,5,Saturday,3,,,,0.0,0,15,0
-17767,Curse of Blackbeard's Bounty,5,Saturday,4,,,,0.0,0,20,0
+17767,Curse of Blackbeard's Bounty,5,Saturday,3,,,,0.0,0,21,0
+17767,Curse of Blackbeard's Bounty,5,Saturday,4,,,,0.0,0,26,0
 17767,Curse of Blackbeard's Bounty,5,Saturday,5,,,,0.0,0,9,0
 17767,Curse of Blackbeard's Bounty,5,Saturday,12,,,,0.0,0,28,0
 17767,Curse of Blackbeard's Bounty,5,Saturday,13,,,,0.0,0,26,0
@@ -2354,22 +2354,22 @@ ride_id,ride_name,day_of_week,dow_name,hour_local,avg_wait_open,p90_wait_open,ma
 3240,Daffy Duck Hot Air Balloons,4,Friday,10,0.0,0.0,0,25.0,3,12,1
 3240,Daffy Duck Hot Air Balloons,4,Friday,11,0.0,0.0,0,100.0,12,12,1
 3240,Daffy Duck Hot Air Balloons,4,Friday,12,0.0,0.0,0,73.9,17,23,2
-3240,Daffy Duck Hot Air Balloons,4,Friday,13,0.0,0.0,0,35.2,19,54,2
-3240,Daffy Duck Hot Air Balloons,4,Friday,14,0.0,0.0,0,25.0,9,36,1
+3240,Daffy Duck Hot Air Balloons,4,Friday,13,0.0,0.0,0,32.2,19,59,2
+3240,Daffy Duck Hot Air Balloons,4,Friday,14,0.0,0.0,0,20.9,9,43,1
 3240,Daffy Duck Hot Air Balloons,4,Friday,15,0.0,0.0,0,46.8,22,47,2
-3240,Daffy Duck Hot Air Balloons,4,Friday,16,0.0,0.0,0,32.4,11,34,2
-3240,Daffy Duck Hot Air Balloons,4,Friday,17,0.0,0.0,0,44.1,15,34,2
+3240,Daffy Duck Hot Air Balloons,4,Friday,16,0.0,0.0,0,29.7,11,37,2
+3240,Daffy Duck Hot Air Balloons,4,Friday,17,0.0,0.0,0,34.9,15,43,2
 3240,Daffy Duck Hot Air Balloons,4,Friday,18,0.0,0.0,0,41.5,22,53,3
-3240,Daffy Duck Hot Air Balloons,4,Friday,19,0.0,0.0,0,44.3,27,61,3
-3240,Daffy Duck Hot Air Balloons,4,Friday,20,0.0,0.0,0,22.7,10,44,2
+3240,Daffy Duck Hot Air Balloons,4,Friday,19,0.0,0.0,0,40.9,27,66,3
+3240,Daffy Duck Hot Air Balloons,4,Friday,20,0.0,0.0,0,19.6,10,51,2
 3240,Daffy Duck Hot Air Balloons,4,Friday,21,0.0,0.0,0,37.5,12,32,1
-3240,Daffy Duck Hot Air Balloons,4,Friday,22,0.0,0.0,0,4.6,3,65,1
-3240,Daffy Duck Hot Air Balloons,4,Friday,23,,,,0.0,0,22,0
+3240,Daffy Duck Hot Air Balloons,4,Friday,22,0.0,0.0,0,4.2,3,72,1
+3240,Daffy Duck Hot Air Balloons,4,Friday,23,,,,0.0,0,27,0
 3240,Daffy Duck Hot Air Balloons,5,Saturday,0,,,,0.0,0,23,0
 3240,Daffy Duck Hot Air Balloons,5,Saturday,1,,,,0.0,0,13,0
 3240,Daffy Duck Hot Air Balloons,5,Saturday,2,,,,0.0,0,10,0
-3240,Daffy Duck Hot Air Balloons,5,Saturday,3,,,,0.0,0,33,0
-3240,Daffy Duck Hot Air Balloons,5,Saturday,4,,,,0.0,0,22,0
+3240,Daffy Duck Hot Air Balloons,5,Saturday,3,,,,0.0,0,39,0
+3240,Daffy Duck Hot Air Balloons,5,Saturday,4,,,,0.0,0,28,0
 3240,Daffy Duck Hot Air Balloons,5,Saturday,5,,,,0.0,0,9,0
 3240,Daffy Duck Hot Air Balloons,5,Saturday,9,,,,0.0,0,8,0
 3240,Daffy Duck Hot Air Balloons,5,Saturday,10,0.0,0.0,0,33.3,4,12,1
@@ -2475,21 +2475,21 @@ ride_id,ride_name,day_of_week,dow_name,hour_local,avg_wait_open,p90_wait_open,ma
 17768,Deadwood Cabin,4,Friday,3,,,,0.0,0,8,0
 17768,Deadwood Cabin,4,Friday,4,,,,0.0,0,33,0
 17768,Deadwood Cabin,4,Friday,5,,,,0.0,0,1,0
-17768,Deadwood Cabin,4,Friday,13,,,,0.0,0,17,0
-17768,Deadwood Cabin,4,Friday,14,,,,0.0,0,24,0
+17768,Deadwood Cabin,4,Friday,13,,,,0.0,0,22,0
+17768,Deadwood Cabin,4,Friday,14,,,,0.0,0,31,0
 17768,Deadwood Cabin,4,Friday,15,,,,0.0,0,8,0
-17768,Deadwood Cabin,4,Friday,16,,,,0.0,0,13,0
-17768,Deadwood Cabin,4,Friday,17,,,,0.0,0,10,0
+17768,Deadwood Cabin,4,Friday,16,,,,0.0,0,16,0
+17768,Deadwood Cabin,4,Friday,17,,,,0.0,0,19,0
 17768,Deadwood Cabin,4,Friday,18,0.0,0.0,0,42.9,6,14,2
-17768,Deadwood Cabin,4,Friday,19,0.0,0.0,0,100.0,26,26,4
-17768,Deadwood Cabin,4,Friday,20,0.0,0.0,0,100.0,10,10,2
+17768,Deadwood Cabin,4,Friday,19,0.0,0.0,0,100.0,31,31,5
+17768,Deadwood Cabin,4,Friday,20,0.0,0.0,0,100.0,17,17,3
 17768,Deadwood Cabin,4,Friday,21,0.0,0.0,0,100.0,19,19,2
-17768,Deadwood Cabin,4,Friday,22,0.0,0.0,0,100.0,21,21,3
-17768,Deadwood Cabin,4,Friday,23,0.0,0.0,0,33.3,2,6,1
+17768,Deadwood Cabin,4,Friday,22,0.0,0.0,0,100.0,28,28,4
+17768,Deadwood Cabin,4,Friday,23,0.0,0.0,0,63.6,7,11,2
 17768,Deadwood Cabin,5,Saturday,1,,,,0.0,0,10,0
 17768,Deadwood Cabin,5,Saturday,2,,,,0.0,0,6,0
-17768,Deadwood Cabin,5,Saturday,3,,,,0.0,0,15,0
-17768,Deadwood Cabin,5,Saturday,4,,,,0.0,0,20,0
+17768,Deadwood Cabin,5,Saturday,3,,,,0.0,0,21,0
+17768,Deadwood Cabin,5,Saturday,4,,,,0.0,0,26,0
 17768,Deadwood Cabin,5,Saturday,5,,,,0.0,0,9,0
 17768,Deadwood Cabin,5,Saturday,12,,,,0.0,0,28,0
 17768,Deadwood Cabin,5,Saturday,13,,,,0.0,0,26,0
@@ -2616,22 +2616,22 @@ ride_id,ride_name,day_of_week,dow_name,hour_local,avg_wait_open,p90_wait_open,ma
 3243,El Toro,4,Friday,10,,,,0.0,0,12,0
 3243,El Toro,4,Friday,11,0.0,0.0,0,33.3,4,12,1
 3243,El Toro,4,Friday,12,0.0,0.0,0,8.7,2,23,2
-3243,El Toro,4,Friday,13,0.0,0.0,0,35.2,19,54,2
-3243,El Toro,4,Friday,14,8.3,25.0,25,25.0,9,36,1
+3243,El Toro,4,Friday,13,0.0,0.0,0,32.2,19,59,2
+3243,El Toro,4,Friday,14,8.3,25.0,25,20.9,9,43,1
 3243,El Toro,4,Friday,15,19.0,45.0,60,42.6,20,47,2
-3243,El Toro,4,Friday,16,0.0,0.0,0,5.9,2,34,1
-3243,El Toro,4,Friday,17,30.0,60.0,60,32.4,11,34,2
+3243,El Toro,4,Friday,16,0.0,0.0,0,5.4,2,37,1
+3243,El Toro,4,Friday,17,18.3,60.0,60,41.9,18,43,3
 3243,El Toro,4,Friday,18,12.0,30.0,40,43.4,23,53,5
-3243,El Toro,4,Friday,19,15.7,30.0,45,57.4,35,61,6
-3243,El Toro,4,Friday,20,16.5,40.0,40,38.6,17,44,3
+3243,El Toro,4,Friday,19,26.2,100.0,100,60.6,40,66,7
+3243,El Toro,4,Friday,20,40.8,100.0,100,47.1,24,51,4
 3243,El Toro,4,Friday,21,20.6,40.0,40,96.9,31,32,3
-3243,El Toro,4,Friday,22,42.7,90.0,90,33.8,22,65,4
-3243,El Toro,4,Friday,23,5.0,5.0,5,9.1,2,22,1
+3243,El Toro,4,Friday,22,42.7,90.0,90,30.6,22,72,4
+3243,El Toro,4,Friday,23,5.0,5.0,5,7.4,2,27,1
 3243,El Toro,5,Saturday,0,,,,0.0,0,23,0
 3243,El Toro,5,Saturday,1,,,,0.0,0,13,0
 3243,El Toro,5,Saturday,2,,,,0.0,0,10,0
-3243,El Toro,5,Saturday,3,,,,0.0,0,33,0
-3243,El Toro,5,Saturday,4,,,,0.0,0,22,0
+3243,El Toro,5,Saturday,3,,,,0.0,0,39,0
+3243,El Toro,5,Saturday,4,,,,0.0,0,28,0
 3243,El Toro,5,Saturday,5,,,,0.0,0,9,0
 3243,El Toro,5,Saturday,9,,,,0.0,0,8,0
 3243,El Toro,5,Saturday,10,0.0,0.0,0,33.3,4,12,1
@@ -2764,22 +2764,22 @@ ride_id,ride_name,day_of_week,dow_name,hour_local,avg_wait_open,p90_wait_open,ma
 3244,Enchanted Teacups,4,Friday,10,0.0,0.0,0,25.0,3,12,1
 3244,Enchanted Teacups,4,Friday,11,0.0,0.0,0,100.0,12,12,1
 3244,Enchanted Teacups,4,Friday,12,0.0,0.0,0,73.9,17,23,2
-3244,Enchanted Teacups,4,Friday,13,0.0,0.0,0,35.2,19,54,2
-3244,Enchanted Teacups,4,Friday,14,0.0,0.0,0,33.3,12,36,1
+3244,Enchanted Teacups,4,Friday,13,0.0,0.0,0,32.2,19,59,2
+3244,Enchanted Teacups,4,Friday,14,0.0,0.0,0,27.9,12,43,1
 3244,Enchanted Teacups,4,Friday,15,0.0,0.0,0,46.8,22,47,2
-3244,Enchanted Teacups,4,Friday,16,0.0,0.0,0,41.2,14,34,2
-3244,Enchanted Teacups,4,Friday,17,0.0,0.0,0,50.0,17,34,2
+3244,Enchanted Teacups,4,Friday,16,0.0,0.0,0,37.8,14,37,2
+3244,Enchanted Teacups,4,Friday,17,0.0,0.0,0,55.8,24,43,3
 3244,Enchanted Teacups,4,Friday,18,0.0,0.0,0,79.2,42,53,7
-3244,Enchanted Teacups,4,Friday,19,0.0,0.0,0,93.4,57,61,8
-3244,Enchanted Teacups,4,Friday,20,0.0,0.0,0,72.7,32,44,5
+3244,Enchanted Teacups,4,Friday,19,0.0,0.0,0,93.9,62,66,9
+3244,Enchanted Teacups,4,Friday,20,0.0,0.0,0,76.5,39,51,6
 3244,Enchanted Teacups,4,Friday,21,0.0,0.0,0,81.2,26,32,3
-3244,Enchanted Teacups,4,Friday,22,0.0,0.0,0,52.3,34,65,5
-3244,Enchanted Teacups,4,Friday,23,0.0,0.0,0,18.2,4,22,2
+3244,Enchanted Teacups,4,Friday,22,0.0,0.0,0,56.9,41,72,6
+3244,Enchanted Teacups,4,Friday,23,0.0,0.0,0,33.3,9,27,3
 3244,Enchanted Teacups,5,Saturday,0,,,,0.0,0,23,0
 3244,Enchanted Teacups,5,Saturday,1,,,,0.0,0,13,0
 3244,Enchanted Teacups,5,Saturday,2,,,,0.0,0,10,0
-3244,Enchanted Teacups,5,Saturday,3,,,,0.0,0,33,0
-3244,Enchanted Teacups,5,Saturday,4,,,,0.0,0,22,0
+3244,Enchanted Teacups,5,Saturday,3,,,,0.0,0,39,0
+3244,Enchanted Teacups,5,Saturday,4,,,,0.0,0,28,0
 3244,Enchanted Teacups,5,Saturday,5,,,,0.0,0,9,0
 3244,Enchanted Teacups,5,Saturday,9,,,,0.0,0,8,0
 3244,Enchanted Teacups,5,Saturday,10,0.0,0.0,0,33.3,4,12,1
@@ -2885,21 +2885,21 @@ ride_id,ride_name,day_of_week,dow_name,hour_local,avg_wait_open,p90_wait_open,ma
 17769,Exile Canyon,4,Friday,3,,,,0.0,0,8,0
 17769,Exile Canyon,4,Friday,4,,,,0.0,0,33,0
 17769,Exile Canyon,4,Friday,5,,,,0.0,0,1,0
-17769,Exile Canyon,4,Friday,13,,,,0.0,0,17,0
-17769,Exile Canyon,4,Friday,14,,,,0.0,0,24,0
+17769,Exile Canyon,4,Friday,13,,,,0.0,0,22,0
+17769,Exile Canyon,4,Friday,14,,,,0.0,0,31,0
 17769,Exile Canyon,4,Friday,15,,,,0.0,0,8,0
-17769,Exile Canyon,4,Friday,16,,,,0.0,0,13,0
-17769,Exile Canyon,4,Friday,17,,,,0.0,0,10,0
+17769,Exile Canyon,4,Friday,16,,,,0.0,0,16,0
+17769,Exile Canyon,4,Friday,17,,,,0.0,0,19,0
 17769,Exile Canyon,4,Friday,18,0.0,0.0,0,42.9,6,14,2
-17769,Exile Canyon,4,Friday,19,0.0,0.0,0,100.0,26,26,4
-17769,Exile Canyon,4,Friday,20,0.0,0.0,0,100.0,10,10,2
+17769,Exile Canyon,4,Friday,19,0.0,0.0,0,100.0,31,31,5
+17769,Exile Canyon,4,Friday,20,0.0,0.0,0,100.0,17,17,3
 17769,Exile Canyon,4,Friday,21,0.0,0.0,0,100.0,19,19,2
-17769,Exile Canyon,4,Friday,22,0.0,0.0,0,100.0,21,21,3
-17769,Exile Canyon,4,Friday,23,0.0,0.0,0,33.3,2,6,1
+17769,Exile Canyon,4,Friday,22,0.0,0.0,0,100.0,28,28,4
+17769,Exile Canyon,4,Friday,23,0.0,0.0,0,63.6,7,11,2
 17769,Exile Canyon,5,Saturday,1,,,,0.0,0,10,0
 17769,Exile Canyon,5,Saturday,2,,,,0.0,0,6,0
-17769,Exile Canyon,5,Saturday,3,,,,0.0,0,15,0
-17769,Exile Canyon,5,Saturday,4,,,,0.0,0,20,0
+17769,Exile Canyon,5,Saturday,3,,,,0.0,0,21,0
+17769,Exile Canyon,5,Saturday,4,,,,0.0,0,26,0
 17769,Exile Canyon,5,Saturday,5,,,,0.0,0,9,0
 17769,Exile Canyon,5,Saturday,12,,,,0.0,0,28,0
 17769,Exile Canyon,5,Saturday,13,,,,0.0,0,26,0
@@ -3026,22 +3026,22 @@ ride_id,ride_name,day_of_week,dow_name,hour_local,avg_wait_open,p90_wait_open,ma
 3245,Fender Benders,4,Friday,10,0.0,0.0,0,25.0,3,12,1
 3245,Fender Benders,4,Friday,11,0.0,0.0,0,100.0,12,12,1
 3245,Fender Benders,4,Friday,12,0.0,0.0,0,73.9,17,23,2
-3245,Fender Benders,4,Friday,13,0.0,0.0,0,35.2,19,54,2
-3245,Fender Benders,4,Friday,14,0.0,0.0,0,33.3,12,36,1
+3245,Fender Benders,4,Friday,13,0.0,0.0,0,32.2,19,59,2
+3245,Fender Benders,4,Friday,14,0.0,0.0,0,27.9,12,43,1
 3245,Fender Benders,4,Friday,15,0.0,0.0,0,46.8,22,47,2
-3245,Fender Benders,4,Friday,16,0.0,0.0,0,41.2,14,34,2
-3245,Fender Benders,4,Friday,17,0.0,0.0,0,50.0,17,34,2
+3245,Fender Benders,4,Friday,16,0.0,0.0,0,37.8,14,37,2
+3245,Fender Benders,4,Friday,17,0.0,0.0,0,55.8,24,43,3
 3245,Fender Benders,4,Friday,18,0.0,0.0,0,79.2,42,53,7
-3245,Fender Benders,4,Friday,19,0.0,0.0,0,93.4,57,61,8
-3245,Fender Benders,4,Friday,20,0.0,0.0,0,72.7,32,44,5
+3245,Fender Benders,4,Friday,19,0.0,0.0,0,93.9,62,66,9
+3245,Fender Benders,4,Friday,20,0.0,0.0,0,76.5,39,51,6
 3245,Fender Benders,4,Friday,21,0.0,0.0,0,96.9,31,32,3
-3245,Fender Benders,4,Friday,22,0.0,0.0,0,52.3,34,65,5
-3245,Fender Benders,4,Friday,23,0.0,0.0,0,18.2,4,22,2
+3245,Fender Benders,4,Friday,22,0.0,0.0,0,56.9,41,72,6
+3245,Fender Benders,4,Friday,23,0.0,0.0,0,33.3,9,27,3
 3245,Fender Benders,5,Saturday,0,,,,0.0,0,23,0
 3245,Fender Benders,5,Saturday,1,,,,0.0,0,13,0
 3245,Fender Benders,5,Saturday,2,,,,0.0,0,10,0
-3245,Fender Benders,5,Saturday,3,,,,0.0,0,33,0
-3245,Fender Benders,5,Saturday,4,,,,0.0,0,22,0
+3245,Fender Benders,5,Saturday,3,,,,0.0,0,39,0
+3245,Fender Benders,5,Saturday,4,,,,0.0,0,28,0
 3245,Fender Benders,5,Saturday,5,,,,0.0,0,9,0
 3245,Fender Benders,5,Saturday,9,,,,0.0,0,8,0
 3245,Fender Benders,5,Saturday,10,0.0,0.0,0,33.3,4,12,1
@@ -3147,21 +3147,21 @@ ride_id,ride_name,day_of_week,dow_name,hour_local,avg_wait_open,p90_wait_open,ma
 17770,Final Destination,4,Friday,3,,,,0.0,0,8,0
 17770,Final Destination,4,Friday,4,,,,0.0,0,33,0
 17770,Final Destination,4,Friday,5,,,,0.0,0,1,0
-17770,Final Destination,4,Friday,13,,,,0.0,0,17,0
-17770,Final Destination,4,Friday,14,,,,0.0,0,24,0
+17770,Final Destination,4,Friday,13,,,,0.0,0,22,0
+17770,Final Destination,4,Friday,14,,,,0.0,0,31,0
 17770,Final Destination,4,Friday,15,,,,0.0,0,8,0
-17770,Final Destination,4,Friday,16,,,,0.0,0,13,0
-17770,Final Destination,4,Friday,17,,,,0.0,0,10,0
+17770,Final Destination,4,Friday,16,,,,0.0,0,16,0
+17770,Final Destination,4,Friday,17,,,,0.0,0,19,0
 17770,Final Destination,4,Friday,18,0.0,0.0,0,100.0,14,14,3
-17770,Final Destination,4,Friday,19,0.0,0.0,0,100.0,26,26,4
-17770,Final Destination,4,Friday,20,0.0,0.0,0,100.0,10,10,2
+17770,Final Destination,4,Friday,19,0.0,0.0,0,100.0,31,31,5
+17770,Final Destination,4,Friday,20,0.0,0.0,0,100.0,17,17,3
 17770,Final Destination,4,Friday,21,0.0,0.0,0,100.0,19,19,2
-17770,Final Destination,4,Friday,22,0.0,0.0,0,100.0,21,21,3
-17770,Final Destination,4,Friday,23,0.0,0.0,0,33.3,2,6,1
+17770,Final Destination,4,Friday,22,0.0,0.0,0,100.0,28,28,4
+17770,Final Destination,4,Friday,23,0.0,0.0,0,63.6,7,11,2
 17770,Final Destination,5,Saturday,1,,,,0.0,0,10,0
 17770,Final Destination,5,Saturday,2,,,,0.0,0,6,0
-17770,Final Destination,5,Saturday,3,,,,0.0,0,15,0
-17770,Final Destination,5,Saturday,4,,,,0.0,0,20,0
+17770,Final Destination,5,Saturday,3,,,,0.0,0,21,0
+17770,Final Destination,5,Saturday,4,,,,0.0,0,26,0
 17770,Final Destination,5,Saturday,5,,,,0.0,0,9,0
 17770,Final Destination,5,Saturday,12,,,,0.0,0,28,0
 17770,Final Destination,5,Saturday,13,,,,0.0,0,26,0
@@ -3288,22 +3288,22 @@ ride_id,ride_name,day_of_week,dow_name,hour_local,avg_wait_open,p90_wait_open,ma
 17426,Flying Scooters,4,Friday,10,0.0,0.0,0,25.0,3,12,1
 17426,Flying Scooters,4,Friday,11,0.0,0.0,0,100.0,12,12,1
 17426,Flying Scooters,4,Friday,12,0.0,0.0,0,73.9,17,23,2
-17426,Flying Scooters,4,Friday,13,0.0,0.0,0,35.2,19,54,2
-17426,Flying Scooters,4,Friday,14,0.0,0.0,0,33.3,12,36,1
+17426,Flying Scooters,4,Friday,13,0.0,0.0,0,32.2,19,59,2
+17426,Flying Scooters,4,Friday,14,0.0,0.0,0,27.9,12,43,1
 17426,Flying Scooters,4,Friday,15,0.0,0.0,0,46.8,22,47,2
-17426,Flying Scooters,4,Friday,16,0.0,0.0,0,41.2,14,34,2
-17426,Flying Scooters,4,Friday,17,0.0,0.0,0,50.0,17,34,2
+17426,Flying Scooters,4,Friday,16,0.0,0.0,0,37.8,14,37,2
+17426,Flying Scooters,4,Friday,17,0.0,0.0,0,55.8,24,43,3
 17426,Flying Scooters,4,Friday,18,0.0,0.0,0,79.2,42,53,7
-17426,Flying Scooters,4,Friday,19,0.0,0.0,0,82.0,50,61,7
-17426,Flying Scooters,4,Friday,20,0.0,0.0,0,50.0,22,44,4
+17426,Flying Scooters,4,Friday,19,0.0,0.0,0,80.3,53,66,8
+17426,Flying Scooters,4,Friday,20,0.0,0.0,0,56.9,29,51,5
 17426,Flying Scooters,4,Friday,21,0.0,0.0,0,93.8,30,32,3
-17426,Flying Scooters,4,Friday,22,0.0,0.0,0,38.5,25,65,3
-17426,Flying Scooters,4,Friday,23,0.0,0.0,0,9.1,2,22,1
+17426,Flying Scooters,4,Friday,22,0.0,0.0,0,44.4,32,72,4
+17426,Flying Scooters,4,Friday,23,0.0,0.0,0,25.9,7,27,2
 17426,Flying Scooters,5,Saturday,0,,,,0.0,0,23,0
 17426,Flying Scooters,5,Saturday,1,,,,0.0,0,13,0
 17426,Flying Scooters,5,Saturday,2,,,,0.0,0,10,0
-17426,Flying Scooters,5,Saturday,3,,,,0.0,0,33,0
-17426,Flying Scooters,5,Saturday,4,,,,0.0,0,22,0
+17426,Flying Scooters,5,Saturday,3,,,,0.0,0,39,0
+17426,Flying Scooters,5,Saturday,4,,,,0.0,0,28,0
 17426,Flying Scooters,5,Saturday,5,,,,0.0,0,9,0
 17426,Flying Scooters,5,Saturday,9,,,,0.0,0,8,0
 17426,Flying Scooters,5,Saturday,10,0.0,0.0,0,33.3,4,12,1
@@ -3436,22 +3436,22 @@ ride_id,ride_name,day_of_week,dow_name,hour_local,avg_wait_open,p90_wait_open,ma
 15604,Giant Wheel,4,Friday,10,0.0,0.0,0,25.0,3,12,1
 15604,Giant Wheel,4,Friday,11,0.0,0.0,0,100.0,12,12,1
 15604,Giant Wheel,4,Friday,12,0.0,0.0,0,73.9,17,23,2
-15604,Giant Wheel,4,Friday,13,0.0,0.0,0,35.2,19,54,2
-15604,Giant Wheel,4,Friday,14,0.0,0.0,0,33.3,12,36,1
+15604,Giant Wheel,4,Friday,13,0.0,0.0,0,32.2,19,59,2
+15604,Giant Wheel,4,Friday,14,0.0,0.0,0,27.9,12,43,1
 15604,Giant Wheel,4,Friday,15,2.7,10.0,10,46.8,22,47,2
-15604,Giant Wheel,4,Friday,16,8.6,10.0,10,41.2,14,34,2
-15604,Giant Wheel,4,Friday,17,7.1,10.0,10,50.0,17,34,2
+15604,Giant Wheel,4,Friday,16,8.6,10.0,10,37.8,14,37,2
+15604,Giant Wheel,4,Friday,17,7.1,10.0,10,39.5,17,43,2
 15604,Giant Wheel,4,Friday,18,4.6,10.0,15,52.8,28,53,4
-15604,Giant Wheel,4,Friday,19,5.8,15.0,15,50.8,31,61,4
-15604,Giant Wheel,4,Friday,20,8.2,15.0,15,50.0,22,44,3
+15604,Giant Wheel,4,Friday,19,5.8,15.0,15,47.0,31,66,4
+15604,Giant Wheel,4,Friday,20,8.2,15.0,15,43.1,22,51,3
 15604,Giant Wheel,4,Friday,21,15.0,15.0,15,37.5,12,32,1
-15604,Giant Wheel,4,Friday,22,3.5,15.0,15,20.0,13,65,2
-15604,Giant Wheel,4,Friday,23,0.0,0.0,0,9.1,2,22,1
+15604,Giant Wheel,4,Friday,22,3.5,15.0,15,18.1,13,72,2
+15604,Giant Wheel,4,Friday,23,0.0,0.0,0,7.4,2,27,1
 15604,Giant Wheel,5,Saturday,0,,,,0.0,0,23,0
 15604,Giant Wheel,5,Saturday,1,,,,0.0,0,13,0
 15604,Giant Wheel,5,Saturday,2,,,,0.0,0,10,0
-15604,Giant Wheel,5,Saturday,3,,,,0.0,0,33,0
-15604,Giant Wheel,5,Saturday,4,,,,0.0,0,22,0
+15604,Giant Wheel,5,Saturday,3,,,,0.0,0,39,0
+15604,Giant Wheel,5,Saturday,4,,,,0.0,0,28,0
 15604,Giant Wheel,5,Saturday,5,,,,0.0,0,9,0
 15604,Giant Wheel,5,Saturday,9,,,,0.0,0,8,0
 15604,Giant Wheel,5,Saturday,10,0.0,0.0,0,33.3,4,12,1
@@ -3584,22 +3584,22 @@ ride_id,ride_name,day_of_week,dow_name,hour_local,avg_wait_open,p90_wait_open,ma
 3236,HARLEY QUINN™ Crazy Train,4,Friday,10,0.0,0.0,0,25.0,3,12,1
 3236,HARLEY QUINN™ Crazy Train,4,Friday,11,0.0,0.0,0,100.0,12,12,1
 3236,HARLEY QUINN™ Crazy Train,4,Friday,12,0.0,0.0,0,73.9,17,23,2
-3236,HARLEY QUINN™ Crazy Train,4,Friday,13,7.9,30.0,30,35.2,19,54,2
-3236,HARLEY QUINN™ Crazy Train,4,Friday,14,30.0,30.0,30,33.3,12,36,1
+3236,HARLEY QUINN™ Crazy Train,4,Friday,13,7.9,30.0,30,32.2,19,59,2
+3236,HARLEY QUINN™ Crazy Train,4,Friday,14,30.0,30.0,30,27.9,12,43,1
 3236,HARLEY QUINN™ Crazy Train,4,Friday,15,16.4,30.0,30,46.8,22,47,2
-3236,HARLEY QUINN™ Crazy Train,4,Friday,16,25.7,30.0,30,41.2,14,34,2
-3236,HARLEY QUINN™ Crazy Train,4,Friday,17,21.2,30.0,30,50.0,17,34,2
+3236,HARLEY QUINN™ Crazy Train,4,Friday,16,25.7,30.0,30,37.8,14,37,2
+3236,HARLEY QUINN™ Crazy Train,4,Friday,17,15.0,30.0,30,55.8,24,43,3
 3236,HARLEY QUINN™ Crazy Train,4,Friday,18,9.6,30.0,30,67.9,36,53,7
-3236,HARLEY QUINN™ Crazy Train,4,Friday,19,8.5,30.0,30,90.2,55,61,8
-3236,HARLEY QUINN™ Crazy Train,4,Friday,20,11.2,30.0,30,72.7,32,44,5
+3236,HARLEY QUINN™ Crazy Train,4,Friday,19,11.5,30.0,45,90.9,60,66,9
+3236,HARLEY QUINN™ Crazy Train,4,Friday,20,17.3,45.0,45,76.5,39,51,6
 3236,HARLEY QUINN™ Crazy Train,4,Friday,21,12.1,30.0,30,96.9,31,32,3
-3236,HARLEY QUINN™ Crazy Train,4,Friday,22,3.1,30.0,30,44.6,29,65,5
-3236,HARLEY QUINN™ Crazy Train,4,Friday,23,0.0,0.0,0,18.2,4,22,2
+3236,HARLEY QUINN™ Crazy Train,4,Friday,22,3.1,30.0,30,40.3,29,72,5
+3236,HARLEY QUINN™ Crazy Train,4,Friday,23,0.0,0.0,0,14.8,4,27,2
 3236,HARLEY QUINN™ Crazy Train,5,Saturday,0,,,,0.0,0,23,0
 3236,HARLEY QUINN™ Crazy Train,5,Saturday,1,,,,0.0,0,13,0
 3236,HARLEY QUINN™ Crazy Train,5,Saturday,2,,,,0.0,0,10,0
-3236,HARLEY QUINN™ Crazy Train,5,Saturday,3,,,,0.0,0,33,0
-3236,HARLEY QUINN™ Crazy Train,5,Saturday,4,,,,0.0,0,22,0
+3236,HARLEY QUINN™ Crazy Train,5,Saturday,3,,,,0.0,0,39,0
+3236,HARLEY QUINN™ Crazy Train,5,Saturday,4,,,,0.0,0,28,0
 3236,HARLEY QUINN™ Crazy Train,5,Saturday,5,,,,0.0,0,9,0
 3236,HARLEY QUINN™ Crazy Train,5,Saturday,9,,,,0.0,0,8,0
 3236,HARLEY QUINN™ Crazy Train,5,Saturday,10,0.0,0.0,0,33.3,4,12,1
@@ -3732,22 +3732,22 @@ ride_id,ride_name,day_of_week,dow_name,hour_local,avg_wait_open,p90_wait_open,ma
 3249,Houdini’s Great Escape,4,Friday,10,0.0,0.0,0,25.0,3,12,1
 3249,Houdini’s Great Escape,4,Friday,11,0.0,0.0,0,100.0,12,12,1
 3249,Houdini’s Great Escape,4,Friday,12,0.0,0.0,0,73.9,17,23,2
-3249,Houdini’s Great Escape,4,Friday,13,0.0,0.0,0,35.2,19,54,2
-3249,Houdini’s Great Escape,4,Friday,14,0.0,0.0,0,33.3,12,36,1
+3249,Houdini’s Great Escape,4,Friday,13,0.0,0.0,0,32.2,19,59,2
+3249,Houdini’s Great Escape,4,Friday,14,0.0,0.0,0,27.9,12,43,1
 3249,Houdini’s Great Escape,4,Friday,15,13.6,30.0,30,46.8,22,47,2
-3249,Houdini’s Great Escape,4,Friday,16,25.7,30.0,30,41.2,14,34,2
-3249,Houdini’s Great Escape,4,Friday,17,22.4,30.0,30,50.0,17,34,2
+3249,Houdini’s Great Escape,4,Friday,16,25.7,30.0,30,37.8,14,37,2
+3249,Houdini’s Great Escape,4,Friday,17,15.8,30.0,30,55.8,24,43,3
 3249,Houdini’s Great Escape,4,Friday,18,9.6,30.0,30,73.6,39,53,7
-3249,Houdini’s Great Escape,4,Friday,19,7.6,30.0,30,86.9,53,61,7
-3249,Houdini’s Great Escape,4,Friday,20,15.0,30.0,30,54.5,24,44,4
+3249,Houdini’s Great Escape,4,Friday,19,7.0,30.0,30,87.9,58,66,8
+3249,Houdini’s Great Escape,4,Friday,20,11.6,30.0,30,60.8,31,51,5
 3249,Houdini’s Great Escape,4,Friday,21,11.6,30.0,30,96.9,31,32,3
-3249,Houdini’s Great Escape,4,Friday,22,3.8,30.0,30,36.9,24,65,4
-3249,Houdini’s Great Escape,4,Friday,23,0.0,0.0,0,9.1,2,22,1
+3249,Houdini’s Great Escape,4,Friday,22,16.5,60.0,60,43.1,31,72,5
+3249,Houdini’s Great Escape,4,Friday,23,42.9,60.0,60,25.9,7,27,2
 3249,Houdini’s Great Escape,5,Saturday,0,,,,0.0,0,23,0
 3249,Houdini’s Great Escape,5,Saturday,1,,,,0.0,0,13,0
 3249,Houdini’s Great Escape,5,Saturday,2,,,,0.0,0,10,0
-3249,Houdini’s Great Escape,5,Saturday,3,,,,0.0,0,33,0
-3249,Houdini’s Great Escape,5,Saturday,4,,,,0.0,0,22,0
+3249,Houdini’s Great Escape,5,Saturday,3,,,,0.0,0,39,0
+3249,Houdini’s Great Escape,5,Saturday,4,,,,0.0,0,28,0
 3249,Houdini’s Great Escape,5,Saturday,5,,,,0.0,0,9,0
 3249,Houdini’s Great Escape,5,Saturday,9,,,,0.0,0,8,0
 3249,Houdini’s Great Escape,5,Saturday,10,0.0,0.0,0,33.3,4,12,1
@@ -3880,22 +3880,22 @@ ride_id,ride_name,day_of_week,dow_name,hour_local,avg_wait_open,p90_wait_open,ma
 17427,Hypno Twister,4,Friday,10,,,,0.0,0,12,0
 17427,Hypno Twister,4,Friday,11,,,,0.0,0,12,0
 17427,Hypno Twister,4,Friday,12,0.0,0.0,0,21.7,5,23,1
-17427,Hypno Twister,4,Friday,13,0.0,0.0,0,13.0,7,54,1
-17427,Hypno Twister,4,Friday,14,,,,0.0,0,36,0
+17427,Hypno Twister,4,Friday,13,0.0,0.0,0,11.9,7,59,1
+17427,Hypno Twister,4,Friday,14,,,,0.0,0,43,0
 17427,Hypno Twister,4,Friday,15,0.0,0.0,0,21.3,10,47,1
-17427,Hypno Twister,4,Friday,16,0.0,0.0,0,5.9,2,34,1
-17427,Hypno Twister,4,Friday,17,13.0,15.0,15,14.7,5,34,1
+17427,Hypno Twister,4,Friday,16,0.0,0.0,0,5.4,2,37,1
+17427,Hypno Twister,4,Friday,17,5.4,15.0,15,27.9,12,43,2
 17427,Hypno Twister,4,Friday,18,1.6,5.0,10,52.8,28,53,6
-17427,Hypno Twister,4,Friday,19,2.7,10.0,10,72.1,44,61,7
-17427,Hypno Twister,4,Friday,20,0.5,0.0,5,45.5,20,44,4
+17427,Hypno Twister,4,Friday,19,2.7,10.0,10,66.7,44,66,7
+17427,Hypno Twister,4,Friday,20,0.5,0.0,5,39.2,20,51,4
 17427,Hypno Twister,4,Friday,21,3.8,30.0,30,50.0,16,32,2
-17427,Hypno Twister,4,Friday,22,3.0,0.0,30,46.2,30,65,4
-17427,Hypno Twister,4,Friday,23,0.0,0.0,0,18.2,4,22,2
+17427,Hypno Twister,4,Friday,22,3.0,0.0,30,41.7,30,72,4
+17427,Hypno Twister,4,Friday,23,0.0,0.0,0,14.8,4,27,2
 17427,Hypno Twister,5,Saturday,0,,,,0.0,0,23,0
 17427,Hypno Twister,5,Saturday,1,,,,0.0,0,13,0
 17427,Hypno Twister,5,Saturday,2,,,,0.0,0,10,0
-17427,Hypno Twister,5,Saturday,3,,,,0.0,0,33,0
-17427,Hypno Twister,5,Saturday,4,,,,0.0,0,22,0
+17427,Hypno Twister,5,Saturday,3,,,,0.0,0,39,0
+17427,Hypno Twister,5,Saturday,4,,,,0.0,0,28,0
 17427,Hypno Twister,5,Saturday,5,,,,0.0,0,9,0
 17427,Hypno Twister,5,Saturday,9,,,,0.0,0,8,0
 17427,Hypno Twister,5,Saturday,10,0.0,0.0,0,16.7,2,12,1
@@ -4001,21 +4001,21 @@ ride_id,ride_name,day_of_week,dow_name,hour_local,avg_wait_open,p90_wait_open,ma
 17771,JASON: Blood Reign,4,Friday,3,,,,0.0,0,8,0
 17771,JASON: Blood Reign,4,Friday,4,,,,0.0,0,33,0
 17771,JASON: Blood Reign,4,Friday,5,,,,0.0,0,1,0
-17771,JASON: Blood Reign,4,Friday,13,,,,0.0,0,17,0
-17771,JASON: Blood Reign,4,Friday,14,,,,0.0,0,24,0
+17771,JASON: Blood Reign,4,Friday,13,,,,0.0,0,22,0
+17771,JASON: Blood Reign,4,Friday,14,,,,0.0,0,31,0
 17771,JASON: Blood Reign,4,Friday,15,,,,0.0,0,8,0
-17771,JASON: Blood Reign,4,Friday,16,,,,0.0,0,13,0
-17771,JASON: Blood Reign,4,Friday,17,,,,0.0,0,10,0
+17771,JASON: Blood Reign,4,Friday,16,,,,0.0,0,16,0
+17771,JASON: Blood Reign,4,Friday,17,,,,0.0,0,19,0
 17771,JASON: Blood Reign,4,Friday,18,0.0,0.0,0,100.0,14,14,3
-17771,JASON: Blood Reign,4,Friday,19,0.0,0.0,0,100.0,26,26,4
-17771,JASON: Blood Reign,4,Friday,20,0.0,0.0,0,100.0,10,10,2
+17771,JASON: Blood Reign,4,Friday,19,0.0,0.0,0,100.0,31,31,5
+17771,JASON: Blood Reign,4,Friday,20,0.0,0.0,0,100.0,17,17,3
 17771,JASON: Blood Reign,4,Friday,21,0.0,0.0,0,100.0,19,19,2
-17771,JASON: Blood Reign,4,Friday,22,0.0,0.0,0,100.0,21,21,3
-17771,JASON: Blood Reign,4,Friday,23,0.0,0.0,0,33.3,2,6,1
+17771,JASON: Blood Reign,4,Friday,22,0.0,0.0,0,100.0,28,28,4
+17771,JASON: Blood Reign,4,Friday,23,0.0,0.0,0,63.6,7,11,2
 17771,JASON: Blood Reign,5,Saturday,1,,,,0.0,0,10,0
 17771,JASON: Blood Reign,5,Saturday,2,,,,0.0,0,6,0
-17771,JASON: Blood Reign,5,Saturday,3,,,,0.0,0,15,0
-17771,JASON: Blood Reign,5,Saturday,4,,,,0.0,0,20,0
+17771,JASON: Blood Reign,5,Saturday,3,,,,0.0,0,21,0
+17771,JASON: Blood Reign,5,Saturday,4,,,,0.0,0,26,0
 17771,JASON: Blood Reign,5,Saturday,5,,,,0.0,0,9,0
 17771,JASON: Blood Reign,5,Saturday,12,,,,0.0,0,28,0
 17771,JASON: Blood Reign,5,Saturday,13,,,,0.0,0,26,0
@@ -4142,22 +4142,22 @@ ride_id,ride_name,day_of_week,dow_name,hour_local,avg_wait_open,p90_wait_open,ma
 8539,Jersey Devil Coaster,4,Friday,10,0.0,0.0,0,16.7,2,12,1
 8539,Jersey Devil Coaster,4,Friday,11,0.0,0.0,0,33.3,4,12,1
 8539,Jersey Devil Coaster,4,Friday,12,0.0,0.0,0,21.7,5,23,1
-8539,Jersey Devil Coaster,4,Friday,13,11.9,60.0,60,29.6,16,54,2
-8539,Jersey Devil Coaster,4,Friday,14,60.0,60.0,60,27.8,10,36,1
+8539,Jersey Devil Coaster,4,Friday,13,11.9,60.0,60,27.1,16,59,2
+8539,Jersey Devil Coaster,4,Friday,14,60.0,60.0,60,23.3,10,43,1
 8539,Jersey Devil Coaster,4,Friday,15,32.7,60.0,60,46.8,22,47,2
-8539,Jersey Devil Coaster,4,Friday,16,50.0,60.0,60,35.3,12,34,2
-8539,Jersey Devil Coaster,4,Friday,17,40.0,60.0,60,44.1,15,34,2
+8539,Jersey Devil Coaster,4,Friday,16,50.0,60.0,60,32.4,12,37,2
+8539,Jersey Devil Coaster,4,Friday,17,27.3,60.0,60,51.2,22,43,3
 8539,Jersey Devil Coaster,4,Friday,18,6.9,20.0,20,24.5,13,53,4
-8539,Jersey Devil Coaster,4,Friday,19,8.3,20.0,20,47.5,29,61,4
-8539,Jersey Devil Coaster,4,Friday,20,36.6,60.0,60,36.4,16,44,3
+8539,Jersey Devil Coaster,4,Friday,19,13.7,45.0,45,51.5,34,66,5
+8539,Jersey Devil Coaster,4,Friday,20,39.1,60.0,60,45.1,23,51,4
 8539,Jersey Devil Coaster,4,Friday,21,42.4,60.0,60,53.1,17,32,2
-8539,Jersey Devil Coaster,4,Friday,22,31.2,45.0,45,38.5,25,65,3
-8539,Jersey Devil Coaster,4,Friday,23,15.0,15.0,15,9.1,2,22,1
+8539,Jersey Devil Coaster,4,Friday,22,44.1,90.0,90,44.4,32,72,4
+8539,Jersey Devil Coaster,4,Friday,23,68.6,90.0,90,25.9,7,27,2
 8539,Jersey Devil Coaster,5,Saturday,0,,,,0.0,0,23,0
 8539,Jersey Devil Coaster,5,Saturday,1,,,,0.0,0,13,0
 8539,Jersey Devil Coaster,5,Saturday,2,,,,0.0,0,10,0
-8539,Jersey Devil Coaster,5,Saturday,3,,,,0.0,0,33,0
-8539,Jersey Devil Coaster,5,Saturday,4,,,,0.0,0,22,0
+8539,Jersey Devil Coaster,5,Saturday,3,,,,0.0,0,39,0
+8539,Jersey Devil Coaster,5,Saturday,4,,,,0.0,0,28,0
 8539,Jersey Devil Coaster,5,Saturday,5,,,,0.0,0,9,0
 8539,Jersey Devil Coaster,5,Saturday,9,,,,0.0,0,8,0
 8539,Jersey Devil Coaster,5,Saturday,10,0.0,0.0,0,25.0,3,12,1
@@ -4290,22 +4290,22 @@ ride_id,ride_name,day_of_week,dow_name,hour_local,avg_wait_open,p90_wait_open,ma
 3250,Jolly Roger,4,Friday,10,0.0,0.0,0,25.0,3,12,1
 3250,Jolly Roger,4,Friday,11,0.0,0.0,0,100.0,12,12,1
 3250,Jolly Roger,4,Friday,12,0.0,0.0,0,52.2,12,23,1
-3250,Jolly Roger,4,Friday,13,0.0,0.0,0,22.2,12,54,1
-3250,Jolly Roger,4,Friday,14,0.0,0.0,0,33.3,12,36,1
+3250,Jolly Roger,4,Friday,13,0.0,0.0,0,20.3,12,59,1
+3250,Jolly Roger,4,Friday,14,0.0,0.0,0,27.9,12,43,1
 3250,Jolly Roger,4,Friday,15,0.0,0.0,0,46.8,22,47,2
-3250,Jolly Roger,4,Friday,16,0.0,0.0,0,41.2,14,34,2
-3250,Jolly Roger,4,Friday,17,0.0,0.0,0,50.0,17,34,2
+3250,Jolly Roger,4,Friday,16,0.0,0.0,0,37.8,14,37,2
+3250,Jolly Roger,4,Friday,17,0.0,0.0,0,55.8,24,43,3
 3250,Jolly Roger,4,Friday,18,0.0,0.0,0,79.2,42,53,7
-3250,Jolly Roger,4,Friday,19,0.0,0.0,0,86.9,53,61,8
-3250,Jolly Roger,4,Friday,20,0.0,0.0,0,72.7,32,44,5
+3250,Jolly Roger,4,Friday,19,0.0,0.0,0,87.9,58,66,9
+3250,Jolly Roger,4,Friday,20,0.0,0.0,0,76.5,39,51,6
 3250,Jolly Roger,4,Friday,21,0.0,0.0,0,96.9,31,32,3
-3250,Jolly Roger,4,Friday,22,0.0,0.0,0,52.3,34,65,5
-3250,Jolly Roger,4,Friday,23,0.0,0.0,0,18.2,4,22,2
+3250,Jolly Roger,4,Friday,22,0.0,0.0,0,56.9,41,72,6
+3250,Jolly Roger,4,Friday,23,0.0,0.0,0,33.3,9,27,3
 3250,Jolly Roger,5,Saturday,0,,,,0.0,0,23,0
 3250,Jolly Roger,5,Saturday,1,,,,0.0,0,13,0
 3250,Jolly Roger,5,Saturday,2,,,,0.0,0,10,0
-3250,Jolly Roger,5,Saturday,3,,,,0.0,0,33,0
-3250,Jolly Roger,5,Saturday,4,,,,0.0,0,22,0
+3250,Jolly Roger,5,Saturday,3,,,,0.0,0,39,0
+3250,Jolly Roger,5,Saturday,4,,,,0.0,0,28,0
 3250,Jolly Roger,5,Saturday,5,,,,0.0,0,9,0
 3250,Jolly Roger,5,Saturday,9,,,,0.0,0,8,0
 3250,Jolly Roger,5,Saturday,10,0.0,0.0,0,33.3,4,12,1
@@ -4438,22 +4438,22 @@ ride_id,ride_name,day_of_week,dow_name,hour_local,avg_wait_open,p90_wait_open,ma
 3916,JUSTICE LEAGUE™: Battle for METROPOLIS,4,Friday,10,0.0,0.0,0,25.0,3,12,1
 3916,JUSTICE LEAGUE™: Battle for METROPOLIS,4,Friday,11,0.0,0.0,0,100.0,12,12,1
 3916,JUSTICE LEAGUE™: Battle for METROPOLIS,4,Friday,12,2.9,10.0,10,73.9,17,23,2
-3916,JUSTICE LEAGUE™: Battle for METROPOLIS,4,Friday,13,5.0,15.0,15,35.2,19,54,2
-3916,JUSTICE LEAGUE™: Battle for METROPOLIS,4,Friday,14,26.2,30.0,45,33.3,12,36,1
+3916,JUSTICE LEAGUE™: Battle for METROPOLIS,4,Friday,13,5.0,15.0,15,32.2,19,59,2
+3916,JUSTICE LEAGUE™: Battle for METROPOLIS,4,Friday,14,26.2,30.0,45,27.9,12,43,1
 3916,JUSTICE LEAGUE™: Battle for METROPOLIS,4,Friday,15,30.0,45.0,45,46.8,22,47,2
-3916,JUSTICE LEAGUE™: Battle for METROPOLIS,4,Friday,16,39.3,45.0,45,41.2,14,34,2
-3916,JUSTICE LEAGUE™: Battle for METROPOLIS,4,Friday,17,34.7,45.0,45,50.0,17,34,2
+3916,JUSTICE LEAGUE™: Battle for METROPOLIS,4,Friday,16,39.3,45.0,45,37.8,14,37,2
+3916,JUSTICE LEAGUE™: Battle for METROPOLIS,4,Friday,17,24.6,45.0,45,55.8,24,43,3
 3916,JUSTICE LEAGUE™: Battle for METROPOLIS,4,Friday,18,13.9,45.0,45,71.7,38,53,7
-3916,JUSTICE LEAGUE™: Battle for METROPOLIS,4,Friday,19,16.2,45.0,45,90.2,55,61,8
-3916,JUSTICE LEAGUE™: Battle for METROPOLIS,4,Friday,20,15.9,45.0,45,50.0,22,44,5
+3916,JUSTICE LEAGUE™: Battle for METROPOLIS,4,Friday,19,14.8,45.0,45,90.9,60,66,9
+3916,JUSTICE LEAGUE™: Battle for METROPOLIS,4,Friday,20,22.9,45.0,45,56.9,29,51,6
 3916,JUSTICE LEAGUE™: Battle for METROPOLIS,4,Friday,21,17.7,30.0,45,68.8,22,32,3
-3916,JUSTICE LEAGUE™: Battle for METROPOLIS,4,Friday,22,7.1,15.0,15,52.3,34,65,5
-3916,JUSTICE LEAGUE™: Battle for METROPOLIS,4,Friday,23,0.0,0.0,0,18.2,4,22,2
+3916,JUSTICE LEAGUE™: Battle for METROPOLIS,4,Friday,22,13.5,45.0,45,56.9,41,72,6
+3916,JUSTICE LEAGUE™: Battle for METROPOLIS,4,Friday,23,25.0,45.0,45,33.3,9,27,3
 3916,JUSTICE LEAGUE™: Battle for METROPOLIS,5,Saturday,0,,,,0.0,0,23,0
 3916,JUSTICE LEAGUE™: Battle for METROPOLIS,5,Saturday,1,,,,0.0,0,13,0
 3916,JUSTICE LEAGUE™: Battle for METROPOLIS,5,Saturday,2,,,,0.0,0,10,0
-3916,JUSTICE LEAGUE™: Battle for METROPOLIS,5,Saturday,3,,,,0.0,0,33,0
-3916,JUSTICE LEAGUE™: Battle for METROPOLIS,5,Saturday,4,,,,0.0,0,22,0
+3916,JUSTICE LEAGUE™: Battle for METROPOLIS,5,Saturday,3,,,,0.0,0,39,0
+3916,JUSTICE LEAGUE™: Battle for METROPOLIS,5,Saturday,4,,,,0.0,0,28,0
 3916,JUSTICE LEAGUE™: Battle for METROPOLIS,5,Saturday,5,,,,0.0,0,9,0
 3916,JUSTICE LEAGUE™: Battle for METROPOLIS,5,Saturday,9,,,,0.0,0,8,0
 3916,JUSTICE LEAGUE™: Battle for METROPOLIS,5,Saturday,10,0.0,0.0,0,33.3,4,12,1
@@ -4586,22 +4586,22 @@ ride_id,ride_name,day_of_week,dow_name,hour_local,avg_wait_open,p90_wait_open,ma
 10077,Lil' Devil Coaster,4,Friday,10,0.0,0.0,0,25.0,3,12,1
 10077,Lil' Devil Coaster,4,Friday,11,0.0,0.0,0,100.0,12,12,1
 10077,Lil' Devil Coaster,4,Friday,12,0.0,0.0,0,73.9,17,23,2
-10077,Lil' Devil Coaster,4,Friday,13,0.0,0.0,0,35.2,19,54,2
-10077,Lil' Devil Coaster,4,Friday,14,0.0,0.0,0,33.3,12,36,1
+10077,Lil' Devil Coaster,4,Friday,13,0.0,0.0,0,32.2,19,59,2
+10077,Lil' Devil Coaster,4,Friday,14,0.0,0.0,0,27.9,12,43,1
 10077,Lil' Devil Coaster,4,Friday,15,0.0,0.0,0,46.8,22,47,2
-10077,Lil' Devil Coaster,4,Friday,16,0.0,0.0,0,41.2,14,34,2
-10077,Lil' Devil Coaster,4,Friday,17,0.0,0.0,0,50.0,17,34,2
+10077,Lil' Devil Coaster,4,Friday,16,0.0,0.0,0,37.8,14,37,2
+10077,Lil' Devil Coaster,4,Friday,17,0.0,0.0,0,55.8,24,43,3
 10077,Lil' Devil Coaster,4,Friday,18,0.0,0.0,0,79.2,42,53,7
-10077,Lil' Devil Coaster,4,Friday,19,0.0,0.0,0,90.2,55,61,8
-10077,Lil' Devil Coaster,4,Friday,20,0.0,0.0,0,72.7,32,44,5
+10077,Lil' Devil Coaster,4,Friday,19,0.0,0.0,0,90.9,60,66,9
+10077,Lil' Devil Coaster,4,Friday,20,0.0,0.0,0,76.5,39,51,6
 10077,Lil' Devil Coaster,4,Friday,21,0.0,0.0,0,96.9,31,32,3
-10077,Lil' Devil Coaster,4,Friday,22,0.0,0.0,0,43.1,28,65,4
-10077,Lil' Devil Coaster,4,Friday,23,0.0,0.0,0,9.1,2,22,1
+10077,Lil' Devil Coaster,4,Friday,22,0.0,0.0,0,44.4,32,72,5
+10077,Lil' Devil Coaster,4,Friday,23,0.0,0.0,0,25.9,7,27,2
 10077,Lil' Devil Coaster,5,Saturday,0,,,,0.0,0,23,0
 10077,Lil' Devil Coaster,5,Saturday,1,,,,0.0,0,13,0
 10077,Lil' Devil Coaster,5,Saturday,2,,,,0.0,0,10,0
-10077,Lil' Devil Coaster,5,Saturday,3,,,,0.0,0,33,0
-10077,Lil' Devil Coaster,5,Saturday,4,,,,0.0,0,22,0
+10077,Lil' Devil Coaster,5,Saturday,3,,,,0.0,0,39,0
+10077,Lil' Devil Coaster,5,Saturday,4,,,,0.0,0,28,0
 10077,Lil' Devil Coaster,5,Saturday,5,,,,0.0,0,9,0
 10077,Lil' Devil Coaster,5,Saturday,9,,,,0.0,0,8,0
 10077,Lil' Devil Coaster,5,Saturday,10,0.0,0.0,0,33.3,4,12,1
@@ -4734,22 +4734,22 @@ ride_id,ride_name,day_of_week,dow_name,hour_local,avg_wait_open,p90_wait_open,ma
 10533,Medusa,4,Friday,10,0.0,0.0,0,25.0,3,12,1
 10533,Medusa,4,Friday,11,0.0,0.0,0,100.0,12,12,1
 10533,Medusa,4,Friday,12,0.0,0.0,0,73.9,17,23,2
-10533,Medusa,4,Friday,13,0.0,0.0,0,31.5,17,54,2
-10533,Medusa,4,Friday,14,10.0,20.0,20,33.3,12,36,1
+10533,Medusa,4,Friday,13,0.0,0.0,0,28.8,17,59,2
+10533,Medusa,4,Friday,14,10.0,20.0,20,27.9,12,43,1
 10533,Medusa,4,Friday,15,13.6,35.0,35,46.8,22,47,2
-10533,Medusa,4,Friday,16,30.0,35.0,35,41.2,14,34,2
-10533,Medusa,4,Friday,17,26.2,35.0,35,50.0,17,34,2
+10533,Medusa,4,Friday,16,30.0,35.0,35,37.8,14,37,2
+10533,Medusa,4,Friday,17,19.3,35.0,35,53.5,23,43,3
 10533,Medusa,4,Friday,18,13.2,35.0,35,71.7,38,53,7
-10533,Medusa,4,Friday,19,11.5,35.0,35,80.3,49,61,8
-10533,Medusa,4,Friday,20,15.5,35.0,35,72.7,32,44,5
+10533,Medusa,4,Friday,19,10.5,35.0,35,81.8,54,66,9
+10533,Medusa,4,Friday,20,18.1,35.0,35,76.5,39,51,6
 10533,Medusa,4,Friday,21,17.2,35.0,35,93.8,30,32,3
-10533,Medusa,4,Friday,22,25.0,45.0,45,47.7,31,65,4
-10533,Medusa,4,Friday,23,7.5,10.0,10,18.2,4,22,2
+10533,Medusa,4,Friday,22,25.0,45.0,45,43.1,31,72,4
+10533,Medusa,4,Friday,23,7.5,10.0,10,14.8,4,27,2
 10533,Medusa,5,Saturday,0,,,,0.0,0,23,0
 10533,Medusa,5,Saturday,1,,,,0.0,0,13,0
 10533,Medusa,5,Saturday,2,,,,0.0,0,10,0
-10533,Medusa,5,Saturday,3,,,,0.0,0,33,0
-10533,Medusa,5,Saturday,4,,,,0.0,0,22,0
+10533,Medusa,5,Saturday,3,,,,0.0,0,39,0
+10533,Medusa,5,Saturday,4,,,,0.0,0,28,0
 10533,Medusa,5,Saturday,5,,,,0.0,0,9,0
 10533,Medusa,5,Saturday,9,,,,0.0,0,8,0
 10533,Medusa,5,Saturday,10,0.0,0.0,0,33.3,4,12,1
@@ -4882,22 +4882,22 @@ ride_id,ride_name,day_of_week,dow_name,hour_local,avg_wait_open,p90_wait_open,ma
 3253,Nitro,4,Friday,10,,,,0.0,0,12,0
 3253,Nitro,4,Friday,11,,,,0.0,0,12,0
 3253,Nitro,4,Friday,12,0.0,0.0,0,21.7,5,23,1
-3253,Nitro,4,Friday,13,0.0,0.0,0,13.0,7,54,1
-3253,Nitro,4,Friday,14,,,,0.0,0,36,0
+3253,Nitro,4,Friday,13,0.0,0.0,0,11.9,7,59,1
+3253,Nitro,4,Friday,14,,,,0.0,0,43,0
 3253,Nitro,4,Friday,15,0.0,0.0,0,21.3,10,47,1
-3253,Nitro,4,Friday,16,18.0,60.0,60,29.4,10,34,2
-3253,Nitro,4,Friday,17,37.1,60.0,60,50.0,17,34,2
+3253,Nitro,4,Friday,16,18.0,60.0,60,27.0,10,37,2
+3253,Nitro,4,Friday,17,37.1,60.0,60,39.5,17,43,2
 3253,Nitro,4,Friday,18,18.3,45.0,45,66.0,35,53,6
-3253,Nitro,4,Friday,19,17.8,45.0,45,82.0,50,61,7
-3253,Nitro,4,Friday,20,4.3,25.0,25,63.6,28,44,4
+3253,Nitro,4,Friday,19,17.8,45.0,45,75.8,50,66,7
+3253,Nitro,4,Friday,20,4.3,25.0,25,54.9,28,51,4
 3253,Nitro,4,Friday,21,15.2,25.0,60,65.6,21,32,2
-3253,Nitro,4,Friday,22,10.6,20.0,45,52.3,34,65,5
-3253,Nitro,4,Friday,23,0.0,0.0,0,18.2,4,22,2
+3253,Nitro,4,Friday,22,10.6,20.0,45,47.2,34,72,5
+3253,Nitro,4,Friday,23,0.0,0.0,0,14.8,4,27,2
 3253,Nitro,5,Saturday,0,,,,0.0,0,23,0
 3253,Nitro,5,Saturday,1,,,,0.0,0,13,0
 3253,Nitro,5,Saturday,2,,,,0.0,0,10,0
-3253,Nitro,5,Saturday,3,,,,0.0,0,33,0
-3253,Nitro,5,Saturday,4,,,,0.0,0,22,0
+3253,Nitro,5,Saturday,3,,,,0.0,0,39,0
+3253,Nitro,5,Saturday,4,,,,0.0,0,28,0
 3253,Nitro,5,Saturday,5,,,,0.0,0,9,0
 3253,Nitro,5,Saturday,9,,,,0.0,0,8,0
 3253,Nitro,5,Saturday,10,0.0,0.0,0,33.3,4,12,1
@@ -5003,21 +5003,21 @@ ride_id,ride_name,day_of_week,dow_name,hour_local,avg_wait_open,p90_wait_open,ma
 17772,Plaza De La Muerte,4,Friday,3,,,,0.0,0,8,0
 17772,Plaza De La Muerte,4,Friday,4,,,,0.0,0,33,0
 17772,Plaza De La Muerte,4,Friday,5,,,,0.0,0,1,0
-17772,Plaza De La Muerte,4,Friday,13,,,,0.0,0,17,0
-17772,Plaza De La Muerte,4,Friday,14,,,,0.0,0,24,0
+17772,Plaza De La Muerte,4,Friday,13,,,,0.0,0,22,0
+17772,Plaza De La Muerte,4,Friday,14,,,,0.0,0,31,0
 17772,Plaza De La Muerte,4,Friday,15,,,,0.0,0,8,0
-17772,Plaza De La Muerte,4,Friday,16,,,,0.0,0,13,0
-17772,Plaza De La Muerte,4,Friday,17,,,,0.0,0,10,0
+17772,Plaza De La Muerte,4,Friday,16,,,,0.0,0,16,0
+17772,Plaza De La Muerte,4,Friday,17,,,,0.0,0,19,0
 17772,Plaza De La Muerte,4,Friday,18,0.0,0.0,0,42.9,6,14,2
-17772,Plaza De La Muerte,4,Friday,19,0.0,0.0,0,100.0,26,26,4
-17772,Plaza De La Muerte,4,Friday,20,0.0,0.0,0,100.0,10,10,2
+17772,Plaza De La Muerte,4,Friday,19,0.0,0.0,0,100.0,31,31,5
+17772,Plaza De La Muerte,4,Friday,20,0.0,0.0,0,100.0,17,17,3
 17772,Plaza De La Muerte,4,Friday,21,0.0,0.0,0,100.0,19,19,2
-17772,Plaza De La Muerte,4,Friday,22,0.0,0.0,0,100.0,21,21,3
-17772,Plaza De La Muerte,4,Friday,23,0.0,0.0,0,33.3,2,6,1
+17772,Plaza De La Muerte,4,Friday,22,0.0,0.0,0,100.0,28,28,4
+17772,Plaza De La Muerte,4,Friday,23,0.0,0.0,0,63.6,7,11,2
 17772,Plaza De La Muerte,5,Saturday,1,,,,0.0,0,10,0
 17772,Plaza De La Muerte,5,Saturday,2,,,,0.0,0,6,0
-17772,Plaza De La Muerte,5,Saturday,3,,,,0.0,0,15,0
-17772,Plaza De La Muerte,5,Saturday,4,,,,0.0,0,20,0
+17772,Plaza De La Muerte,5,Saturday,3,,,,0.0,0,21,0
+17772,Plaza De La Muerte,5,Saturday,4,,,,0.0,0,26,0
 17772,Plaza De La Muerte,5,Saturday,5,,,,0.0,0,9,0
 17772,Plaza De La Muerte,5,Saturday,12,,,,0.0,0,28,0
 17772,Plaza De La Muerte,5,Saturday,13,,,,0.0,0,26,0
@@ -5144,22 +5144,22 @@ ride_id,ride_name,day_of_week,dow_name,hour_local,avg_wait_open,p90_wait_open,ma
 15617,Porky Pig Camp Wagons,4,Friday,10,0.0,0.0,0,25.0,3,12,1
 15617,Porky Pig Camp Wagons,4,Friday,11,0.0,0.0,0,100.0,12,12,1
 15617,Porky Pig Camp Wagons,4,Friday,12,0.0,0.0,0,73.9,17,23,2
-15617,Porky Pig Camp Wagons,4,Friday,13,0.0,0.0,0,35.2,19,54,2
-15617,Porky Pig Camp Wagons,4,Friday,14,0.0,0.0,0,33.3,12,36,1
+15617,Porky Pig Camp Wagons,4,Friday,13,0.0,0.0,0,32.2,19,59,2
+15617,Porky Pig Camp Wagons,4,Friday,14,0.0,0.0,0,27.9,12,43,1
 15617,Porky Pig Camp Wagons,4,Friday,15,0.0,0.0,0,46.8,22,47,2
-15617,Porky Pig Camp Wagons,4,Friday,16,0.0,0.0,0,41.2,14,34,2
-15617,Porky Pig Camp Wagons,4,Friday,17,0.0,0.0,0,50.0,17,34,2
+15617,Porky Pig Camp Wagons,4,Friday,16,0.0,0.0,0,37.8,14,37,2
+15617,Porky Pig Camp Wagons,4,Friday,17,0.0,0.0,0,39.5,17,43,2
 15617,Porky Pig Camp Wagons,4,Friday,18,0.0,0.0,0,41.5,22,53,3
-15617,Porky Pig Camp Wagons,4,Friday,19,0.0,0.0,0,44.3,27,61,3
-15617,Porky Pig Camp Wagons,4,Friday,20,0.0,0.0,0,31.8,14,44,2
+15617,Porky Pig Camp Wagons,4,Friday,19,0.0,0.0,0,40.9,27,66,3
+15617,Porky Pig Camp Wagons,4,Friday,20,0.0,0.0,0,27.5,14,51,2
 15617,Porky Pig Camp Wagons,4,Friday,21,0.0,0.0,0,37.5,12,32,1
-15617,Porky Pig Camp Wagons,4,Friday,22,0.0,0.0,0,4.6,3,65,1
-15617,Porky Pig Camp Wagons,4,Friday,23,,,,0.0,0,22,0
+15617,Porky Pig Camp Wagons,4,Friday,22,0.0,0.0,0,4.2,3,72,1
+15617,Porky Pig Camp Wagons,4,Friday,23,,,,0.0,0,27,0
 15617,Porky Pig Camp Wagons,5,Saturday,0,,,,0.0,0,23,0
 15617,Porky Pig Camp Wagons,5,Saturday,1,,,,0.0,0,13,0
 15617,Porky Pig Camp Wagons,5,Saturday,2,,,,0.0,0,10,0
-15617,Porky Pig Camp Wagons,5,Saturday,3,,,,0.0,0,33,0
-15617,Porky Pig Camp Wagons,5,Saturday,4,,,,0.0,0,22,0
+15617,Porky Pig Camp Wagons,5,Saturday,3,,,,0.0,0,39,0
+15617,Porky Pig Camp Wagons,5,Saturday,4,,,,0.0,0,28,0
 15617,Porky Pig Camp Wagons,5,Saturday,5,,,,0.0,0,9,0
 15617,Porky Pig Camp Wagons,5,Saturday,9,,,,0.0,0,8,0
 15617,Porky Pig Camp Wagons,5,Saturday,10,0.0,0.0,0,33.3,4,12,1
@@ -5292,22 +5292,22 @@ ride_id,ride_name,day_of_week,dow_name,hour_local,avg_wait_open,p90_wait_open,ma
 3257,Raja’s Rickshaws,4,Friday,10,0.0,0.0,0,25.0,3,12,1
 3257,Raja’s Rickshaws,4,Friday,11,0.0,0.0,0,100.0,12,12,1
 3257,Raja’s Rickshaws,4,Friday,12,0.0,0.0,0,73.9,17,23,2
-3257,Raja’s Rickshaws,4,Friday,13,0.0,0.0,0,35.2,19,54,2
-3257,Raja’s Rickshaws,4,Friday,14,0.0,0.0,0,33.3,12,36,1
+3257,Raja’s Rickshaws,4,Friday,13,0.0,0.0,0,32.2,19,59,2
+3257,Raja’s Rickshaws,4,Friday,14,0.0,0.0,0,27.9,12,43,1
 3257,Raja’s Rickshaws,4,Friday,15,0.0,0.0,0,46.8,22,47,2
-3257,Raja’s Rickshaws,4,Friday,16,0.0,0.0,0,41.2,14,34,2
-3257,Raja’s Rickshaws,4,Friday,17,0.0,0.0,0,50.0,17,34,2
+3257,Raja’s Rickshaws,4,Friday,16,0.0,0.0,0,37.8,14,37,2
+3257,Raja’s Rickshaws,4,Friday,17,0.0,0.0,0,55.8,24,43,3
 3257,Raja’s Rickshaws,4,Friday,18,0.0,0.0,0,79.2,42,53,7
-3257,Raja’s Rickshaws,4,Friday,19,0.0,0.0,0,93.4,57,61,8
-3257,Raja’s Rickshaws,4,Friday,20,0.0,0.0,0,72.7,32,44,5
+3257,Raja’s Rickshaws,4,Friday,19,0.0,0.0,0,93.9,62,66,9
+3257,Raja’s Rickshaws,4,Friday,20,0.0,0.0,0,76.5,39,51,6
 3257,Raja’s Rickshaws,4,Friday,21,0.0,0.0,0,96.9,31,32,3
-3257,Raja’s Rickshaws,4,Friday,22,0.0,0.0,0,52.3,34,65,5
-3257,Raja’s Rickshaws,4,Friday,23,0.0,0.0,0,18.2,4,22,2
+3257,Raja’s Rickshaws,4,Friday,22,0.0,0.0,0,56.9,41,72,6
+3257,Raja’s Rickshaws,4,Friday,23,0.0,0.0,0,33.3,9,27,3
 3257,Raja’s Rickshaws,5,Saturday,0,,,,0.0,0,23,0
 3257,Raja’s Rickshaws,5,Saturday,1,,,,0.0,0,13,0
 3257,Raja’s Rickshaws,5,Saturday,2,,,,0.0,0,10,0
-3257,Raja’s Rickshaws,5,Saturday,3,,,,0.0,0,33,0
-3257,Raja’s Rickshaws,5,Saturday,4,,,,0.0,0,22,0
+3257,Raja’s Rickshaws,5,Saturday,3,,,,0.0,0,39,0
+3257,Raja’s Rickshaws,5,Saturday,4,,,,0.0,0,28,0
 3257,Raja’s Rickshaws,5,Saturday,5,,,,0.0,0,9,0
 3257,Raja’s Rickshaws,5,Saturday,9,,,,0.0,0,8,0
 3257,Raja’s Rickshaws,5,Saturday,10,0.0,0.0,0,33.3,4,12,1
@@ -5440,22 +5440,22 @@ ride_id,ride_name,day_of_week,dow_name,hour_local,avg_wait_open,p90_wait_open,ma
 15829,Roaring Rapids,4,Friday,10,,,,0.0,0,12,0
 15829,Roaring Rapids,4,Friday,11,0.0,0.0,0,16.7,2,12,1
 15829,Roaring Rapids,4,Friday,12,0.0,0.0,0,52.2,12,23,1
-15829,Roaring Rapids,4,Friday,13,0.0,0.0,0,20.4,11,54,1
-15829,Roaring Rapids,4,Friday,14,0.0,0.0,0,19.4,7,36,1
+15829,Roaring Rapids,4,Friday,13,0.0,0.0,0,18.6,11,59,1
+15829,Roaring Rapids,4,Friday,14,0.0,0.0,0,16.3,7,43,1
 15829,Roaring Rapids,4,Friday,15,0.0,0.0,0,25.5,12,47,1
-15829,Roaring Rapids,4,Friday,16,0.0,0.0,0,26.5,9,34,1
-15829,Roaring Rapids,4,Friday,17,12.5,15.0,15,35.3,12,34,1
+15829,Roaring Rapids,4,Friday,16,0.0,0.0,0,24.3,9,37,1
+15829,Roaring Rapids,4,Friday,17,12.5,15.0,15,27.9,12,43,1
 15829,Roaring Rapids,4,Friday,18,15.0,15.0,15,22.6,12,53,1
-15829,Roaring Rapids,4,Friday,19,15.0,15.0,15,19.7,12,61,1
-15829,Roaring Rapids,4,Friday,20,15.0,15.0,15,4.5,2,44,1
+15829,Roaring Rapids,4,Friday,19,15.0,15.0,15,18.2,12,66,1
+15829,Roaring Rapids,4,Friday,20,15.0,15.0,15,3.9,2,51,1
 15829,Roaring Rapids,4,Friday,21,,,,0.0,0,32,0
-15829,Roaring Rapids,4,Friday,22,,,,0.0,0,65,0
-15829,Roaring Rapids,4,Friday,23,,,,0.0,0,22,0
+15829,Roaring Rapids,4,Friday,22,,,,0.0,0,72,0
+15829,Roaring Rapids,4,Friday,23,,,,0.0,0,27,0
 15829,Roaring Rapids,5,Saturday,0,,,,0.0,0,23,0
 15829,Roaring Rapids,5,Saturday,1,,,,0.0,0,13,0
 15829,Roaring Rapids,5,Saturday,2,,,,0.0,0,10,0
-15829,Roaring Rapids,5,Saturday,3,,,,0.0,0,33,0
-15829,Roaring Rapids,5,Saturday,4,,,,0.0,0,22,0
+15829,Roaring Rapids,5,Saturday,3,,,,0.0,0,39,0
+15829,Roaring Rapids,5,Saturday,4,,,,0.0,0,28,0
 15829,Roaring Rapids,5,Saturday,5,,,,0.0,0,9,0
 15829,Roaring Rapids,5,Saturday,9,,,,0.0,0,8,0
 15829,Roaring Rapids,5,Saturday,10,,,,0.0,0,12,0
@@ -5588,22 +5588,22 @@ ride_id,ride_name,day_of_week,dow_name,hour_local,avg_wait_open,p90_wait_open,ma
 3261,Runaway Train,4,Friday,10,,,,0.0,0,12,0
 3261,Runaway Train,4,Friday,11,,,,0.0,0,12,0
 3261,Runaway Train,4,Friday,12,,,,0.0,0,23,0
-3261,Runaway Train,4,Friday,13,,,,0.0,0,54,0
-3261,Runaway Train,4,Friday,14,,,,0.0,0,36,0
+3261,Runaway Train,4,Friday,13,,,,0.0,0,59,0
+3261,Runaway Train,4,Friday,14,,,,0.0,0,43,0
 3261,Runaway Train,4,Friday,15,,,,0.0,0,47,0
-3261,Runaway Train,4,Friday,16,,,,0.0,0,34,0
-3261,Runaway Train,4,Friday,17,,,,0.0,0,34,0
+3261,Runaway Train,4,Friday,16,,,,0.0,0,37,0
+3261,Runaway Train,4,Friday,17,,,,0.0,0,43,0
 3261,Runaway Train,4,Friday,18,,,,0.0,0,53,0
-3261,Runaway Train,4,Friday,19,,,,0.0,0,61,0
-3261,Runaway Train,4,Friday,20,,,,0.0,0,44,0
+3261,Runaway Train,4,Friday,19,,,,0.0,0,66,0
+3261,Runaway Train,4,Friday,20,,,,0.0,0,51,0
 3261,Runaway Train,4,Friday,21,,,,0.0,0,32,0
-3261,Runaway Train,4,Friday,22,,,,0.0,0,65,0
-3261,Runaway Train,4,Friday,23,,,,0.0,0,22,0
+3261,Runaway Train,4,Friday,22,,,,0.0,0,72,0
+3261,Runaway Train,4,Friday,23,,,,0.0,0,27,0
 3261,Runaway Train,5,Saturday,0,,,,0.0,0,23,0
 3261,Runaway Train,5,Saturday,1,,,,0.0,0,13,0
 3261,Runaway Train,5,Saturday,2,,,,0.0,0,10,0
-3261,Runaway Train,5,Saturday,3,,,,0.0,0,33,0
-3261,Runaway Train,5,Saturday,4,,,,0.0,0,22,0
+3261,Runaway Train,5,Saturday,3,,,,0.0,0,39,0
+3261,Runaway Train,5,Saturday,4,,,,0.0,0,28,0
 3261,Runaway Train,5,Saturday,5,,,,0.0,0,9,0
 3261,Runaway Train,5,Saturday,9,,,,0.0,0,8,0
 3261,Runaway Train,5,Saturday,10,0.0,0.0,0,16.7,2,12,1
@@ -5736,22 +5736,22 @@ ride_id,ride_name,day_of_week,dow_name,hour_local,avg_wait_open,p90_wait_open,ma
 3274,Safari Off-Road Adventure,4,Friday,10,,,,0.0,0,12,0
 3274,Safari Off-Road Adventure,4,Friday,11,0.0,0.0,0,83.3,10,12,1
 3274,Safari Off-Road Adventure,4,Friday,12,0.0,0.0,0,52.2,12,23,1
-3274,Safari Off-Road Adventure,4,Friday,13,15.0,30.0,30,22.2,12,54,1
-3274,Safari Off-Road Adventure,4,Friday,14,45.0,60.0,60,33.3,12,36,1
+3274,Safari Off-Road Adventure,4,Friday,13,15.0,30.0,30,20.3,12,59,1
+3274,Safari Off-Road Adventure,4,Friday,14,45.0,60.0,60,27.9,12,43,1
 3274,Safari Off-Road Adventure,4,Friday,15,60.0,60.0,60,25.5,12,47,1
-3274,Safari Off-Road Adventure,4,Friday,16,60.0,60.0,60,5.9,2,34,1
-3274,Safari Off-Road Adventure,4,Friday,17,,,,0.0,0,34,0
+3274,Safari Off-Road Adventure,4,Friday,16,60.0,60.0,60,5.4,2,37,1
+3274,Safari Off-Road Adventure,4,Friday,17,,,,0.0,0,43,0
 3274,Safari Off-Road Adventure,4,Friday,18,,,,0.0,0,53,0
-3274,Safari Off-Road Adventure,4,Friday,19,,,,0.0,0,61,0
-3274,Safari Off-Road Adventure,4,Friday,20,,,,0.0,0,44,0
+3274,Safari Off-Road Adventure,4,Friday,19,,,,0.0,0,66,0
+3274,Safari Off-Road Adventure,4,Friday,20,,,,0.0,0,51,0
 3274,Safari Off-Road Adventure,4,Friday,21,,,,0.0,0,32,0
-3274,Safari Off-Road Adventure,4,Friday,22,,,,0.0,0,65,0
-3274,Safari Off-Road Adventure,4,Friday,23,,,,0.0,0,22,0
+3274,Safari Off-Road Adventure,4,Friday,22,,,,0.0,0,72,0
+3274,Safari Off-Road Adventure,4,Friday,23,,,,0.0,0,27,0
 3274,Safari Off-Road Adventure,5,Saturday,0,,,,0.0,0,23,0
 3274,Safari Off-Road Adventure,5,Saturday,1,,,,0.0,0,13,0
 3274,Safari Off-Road Adventure,5,Saturday,2,,,,0.0,0,10,0
-3274,Safari Off-Road Adventure,5,Saturday,3,,,,0.0,0,33,0
-3274,Safari Off-Road Adventure,5,Saturday,4,,,,0.0,0,22,0
+3274,Safari Off-Road Adventure,5,Saturday,3,,,,0.0,0,39,0
+3274,Safari Off-Road Adventure,5,Saturday,4,,,,0.0,0,28,0
 3274,Safari Off-Road Adventure,5,Saturday,5,,,,0.0,0,9,0
 3274,Safari Off-Road Adventure,5,Saturday,9,,,,0.0,0,8,0
 3274,Safari Off-Road Adventure,5,Saturday,10,,,,0.0,0,12,0
@@ -5884,22 +5884,22 @@ ride_id,ride_name,day_of_week,dow_name,hour_local,avg_wait_open,p90_wait_open,ma
 3283,Saw Mill Log Flume,4,Friday,10,0.0,0.0,0,25.0,3,12,1
 3283,Saw Mill Log Flume,4,Friday,11,0.0,0.0,0,100.0,12,12,1
 3283,Saw Mill Log Flume,4,Friday,12,0.9,0.0,15,73.9,17,23,2
-3283,Saw Mill Log Flume,4,Friday,13,9.5,15.0,15,35.2,19,54,2
-3283,Saw Mill Log Flume,4,Friday,14,45.0,60.0,60,33.3,12,36,1
+3283,Saw Mill Log Flume,4,Friday,13,9.5,15.0,15,32.2,19,59,2
+3283,Saw Mill Log Flume,4,Friday,14,45.0,60.0,60,27.9,12,43,1
 3283,Saw Mill Log Flume,4,Friday,15,32.7,60.0,60,46.8,22,47,2
-3283,Saw Mill Log Flume,4,Friday,16,53.6,60.0,60,41.2,14,34,2
-3283,Saw Mill Log Flume,4,Friday,17,33.5,60.0,60,50.0,17,34,2
+3283,Saw Mill Log Flume,4,Friday,16,53.6,60.0,60,37.8,14,37,2
+3283,Saw Mill Log Flume,4,Friday,17,33.5,60.0,60,39.5,17,43,2
 3283,Saw Mill Log Flume,4,Friday,18,32.0,45.0,45,41.5,22,53,3
-3283,Saw Mill Log Flume,4,Friday,19,25.7,45.0,45,44.3,27,61,3
-3283,Saw Mill Log Flume,4,Friday,20,5.0,5.0,5,31.8,14,44,2
+3283,Saw Mill Log Flume,4,Friday,19,25.7,45.0,45,40.9,27,66,3
+3283,Saw Mill Log Flume,4,Friday,20,5.0,5.0,5,27.5,14,51,2
 3283,Saw Mill Log Flume,4,Friday,21,5.0,5.0,5,37.5,12,32,1
-3283,Saw Mill Log Flume,4,Friday,22,5.0,5.0,5,4.6,3,65,1
-3283,Saw Mill Log Flume,4,Friday,23,,,,0.0,0,22,0
+3283,Saw Mill Log Flume,4,Friday,22,5.0,5.0,5,4.2,3,72,1
+3283,Saw Mill Log Flume,4,Friday,23,,,,0.0,0,27,0
 3283,Saw Mill Log Flume,5,Saturday,0,,,,0.0,0,23,0
 3283,Saw Mill Log Flume,5,Saturday,1,,,,0.0,0,13,0
 3283,Saw Mill Log Flume,5,Saturday,2,,,,0.0,0,10,0
-3283,Saw Mill Log Flume,5,Saturday,3,,,,0.0,0,33,0
-3283,Saw Mill Log Flume,5,Saturday,4,,,,0.0,0,22,0
+3283,Saw Mill Log Flume,5,Saturday,3,,,,0.0,0,39,0
+3283,Saw Mill Log Flume,5,Saturday,4,,,,0.0,0,28,0
 3283,Saw Mill Log Flume,5,Saturday,5,,,,0.0,0,9,0
 3283,Saw Mill Log Flume,5,Saturday,9,,,,0.0,0,8,0
 3283,Saw Mill Log Flume,5,Saturday,10,0.0,0.0,0,33.3,4,12,1
@@ -6032,22 +6032,22 @@ ride_id,ride_name,day_of_week,dow_name,hour_local,avg_wait_open,p90_wait_open,ma
 15727,Scrambler,4,Friday,10,0.0,0.0,0,25.0,3,12,1
 15727,Scrambler,4,Friday,11,0.0,0.0,0,100.0,12,12,1
 15727,Scrambler,4,Friday,12,0.0,0.0,0,73.9,17,23,2
-15727,Scrambler,4,Friday,13,0.0,0.0,0,35.2,19,54,2
-15727,Scrambler,4,Friday,14,0.0,0.0,0,33.3,12,36,1
+15727,Scrambler,4,Friday,13,0.0,0.0,0,32.2,19,59,2
+15727,Scrambler,4,Friday,14,0.0,0.0,0,27.9,12,43,1
 15727,Scrambler,4,Friday,15,0.0,0.0,0,46.8,22,47,2
-15727,Scrambler,4,Friday,16,0.0,0.0,0,41.2,14,34,2
-15727,Scrambler,4,Friday,17,0.0,0.0,0,50.0,17,34,2
+15727,Scrambler,4,Friday,16,0.0,0.0,0,37.8,14,37,2
+15727,Scrambler,4,Friday,17,0.0,0.0,0,55.8,24,43,3
 15727,Scrambler,4,Friday,18,0.0,0.0,0,79.2,42,53,7
-15727,Scrambler,4,Friday,19,0.0,0.0,0,93.4,57,61,8
-15727,Scrambler,4,Friday,20,0.0,0.0,0,72.7,32,44,5
+15727,Scrambler,4,Friday,19,0.0,0.0,0,93.9,62,66,9
+15727,Scrambler,4,Friday,20,0.0,0.0,0,76.5,39,51,6
 15727,Scrambler,4,Friday,21,0.0,0.0,0,96.9,31,32,3
-15727,Scrambler,4,Friday,22,0.0,0.0,0,52.3,34,65,5
-15727,Scrambler,4,Friday,23,0.0,0.0,0,18.2,4,22,2
+15727,Scrambler,4,Friday,22,0.0,0.0,0,51.4,37,72,6
+15727,Scrambler,4,Friday,23,0.0,0.0,0,33.3,9,27,3
 15727,Scrambler,5,Saturday,0,,,,0.0,0,23,0
 15727,Scrambler,5,Saturday,1,,,,0.0,0,13,0
 15727,Scrambler,5,Saturday,2,,,,0.0,0,10,0
-15727,Scrambler,5,Saturday,3,,,,0.0,0,33,0
-15727,Scrambler,5,Saturday,4,,,,0.0,0,22,0
+15727,Scrambler,5,Saturday,3,,,,0.0,0,39,0
+15727,Scrambler,5,Saturday,4,,,,0.0,0,28,0
 15727,Scrambler,5,Saturday,5,,,,0.0,0,9,0
 15727,Scrambler,5,Saturday,9,,,,0.0,0,8,0
 15727,Scrambler,5,Saturday,10,0.0,0.0,0,33.3,4,12,1
@@ -6180,22 +6180,22 @@ ride_id,ride_name,day_of_week,dow_name,hour_local,avg_wait_open,p90_wait_open,ma
 3262,Skull Mountain,4,Friday,10,0.0,0.0,0,25.0,3,12,1
 3262,Skull Mountain,4,Friday,11,0.0,0.0,0,100.0,12,12,1
 3262,Skull Mountain,4,Friday,12,0.0,0.0,0,73.9,17,23,2
-3262,Skull Mountain,4,Friday,13,0.0,0.0,0,35.2,19,54,2
-3262,Skull Mountain,4,Friday,14,0.0,0.0,0,33.3,12,36,1
+3262,Skull Mountain,4,Friday,13,0.0,0.0,0,32.2,19,59,2
+3262,Skull Mountain,4,Friday,14,0.0,0.0,0,27.9,12,43,1
 3262,Skull Mountain,4,Friday,15,0.0,0.0,0,34.0,16,47,2
-3262,Skull Mountain,4,Friday,16,0.0,0.0,0,41.2,14,34,2
-3262,Skull Mountain,4,Friday,17,17.6,30.0,30,50.0,17,34,2
+3262,Skull Mountain,4,Friday,16,0.0,0.0,0,37.8,14,37,2
+3262,Skull Mountain,4,Friday,17,12.5,30.0,30,55.8,24,43,3
 3262,Skull Mountain,4,Friday,18,10.7,30.0,30,79.2,42,53,7
-3262,Skull Mountain,4,Friday,19,12.5,35.0,35,90.2,55,61,8
-3262,Skull Mountain,4,Friday,20,14.7,35.0,35,72.7,32,44,5
+3262,Skull Mountain,4,Friday,19,19.0,35.0,90,90.9,60,66,9
+3262,Skull Mountain,4,Friday,20,28.2,90.0,90,76.5,39,51,6
 3262,Skull Mountain,4,Friday,21,26.0,35.0,35,90.6,29,32,3
-3262,Skull Mountain,4,Friday,22,11.6,45.0,45,52.3,34,65,5
-3262,Skull Mountain,4,Friday,23,0.0,0.0,0,18.2,4,22,2
+3262,Skull Mountain,4,Friday,22,11.6,45.0,45,47.2,34,72,5
+3262,Skull Mountain,4,Friday,23,0.0,0.0,0,14.8,4,27,2
 3262,Skull Mountain,5,Saturday,0,,,,0.0,0,23,0
 3262,Skull Mountain,5,Saturday,1,,,,0.0,0,13,0
 3262,Skull Mountain,5,Saturday,2,,,,0.0,0,10,0
-3262,Skull Mountain,5,Saturday,3,,,,0.0,0,33,0
-3262,Skull Mountain,5,Saturday,4,,,,0.0,0,22,0
+3262,Skull Mountain,5,Saturday,3,,,,0.0,0,39,0
+3262,Skull Mountain,5,Saturday,4,,,,0.0,0,28,0
 3262,Skull Mountain,5,Saturday,5,,,,0.0,0,9,0
 3262,Skull Mountain,5,Saturday,9,,,,0.0,0,8,0
 3262,Skull Mountain,5,Saturday,10,0.0,0.0,0,33.3,4,12,1
@@ -6328,22 +6328,22 @@ ride_id,ride_name,day_of_week,dow_name,hour_local,avg_wait_open,p90_wait_open,ma
 3281,Sky Zooma,4,Friday,10,0.0,0.0,0,25.0,3,12,1
 3281,Sky Zooma,4,Friday,11,0.0,0.0,0,100.0,12,12,1
 3281,Sky Zooma,4,Friday,12,0.0,0.0,0,73.9,17,23,2
-3281,Sky Zooma,4,Friday,13,0.0,0.0,0,35.2,19,54,2
-3281,Sky Zooma,4,Friday,14,0.0,0.0,0,33.3,12,36,1
+3281,Sky Zooma,4,Friday,13,0.0,0.0,0,32.2,19,59,2
+3281,Sky Zooma,4,Friday,14,0.0,0.0,0,27.9,12,43,1
 3281,Sky Zooma,4,Friday,15,0.0,0.0,0,46.8,22,47,2
-3281,Sky Zooma,4,Friday,16,0.0,0.0,0,41.2,14,34,2
-3281,Sky Zooma,4,Friday,17,0.0,0.0,0,50.0,17,34,2
+3281,Sky Zooma,4,Friday,16,0.0,0.0,0,37.8,14,37,2
+3281,Sky Zooma,4,Friday,17,0.0,0.0,0,55.8,24,43,3
 3281,Sky Zooma,4,Friday,18,0.0,0.0,0,79.2,42,53,7
-3281,Sky Zooma,4,Friday,19,0.0,0.0,0,93.4,57,61,8
-3281,Sky Zooma,4,Friday,20,0.0,0.0,0,72.7,32,44,5
+3281,Sky Zooma,4,Friday,19,0.0,0.0,0,93.9,62,66,9
+3281,Sky Zooma,4,Friday,20,0.0,0.0,0,76.5,39,51,6
 3281,Sky Zooma,4,Friday,21,0.0,0.0,0,96.9,31,32,3
-3281,Sky Zooma,4,Friday,22,0.0,0.0,0,52.3,34,65,5
-3281,Sky Zooma,4,Friday,23,0.0,0.0,0,18.2,4,22,2
+3281,Sky Zooma,4,Friday,22,0.0,0.0,0,56.9,41,72,6
+3281,Sky Zooma,4,Friday,23,0.0,0.0,0,33.3,9,27,3
 3281,Sky Zooma,5,Saturday,0,,,,0.0,0,23,0
 3281,Sky Zooma,5,Saturday,1,,,,0.0,0,13,0
 3281,Sky Zooma,5,Saturday,2,,,,0.0,0,10,0
-3281,Sky Zooma,5,Saturday,3,,,,0.0,0,33,0
-3281,Sky Zooma,5,Saturday,4,,,,0.0,0,22,0
+3281,Sky Zooma,5,Saturday,3,,,,0.0,0,39,0
+3281,Sky Zooma,5,Saturday,4,,,,0.0,0,28,0
 3281,Sky Zooma,5,Saturday,5,,,,0.0,0,9,0
 3281,Sky Zooma,5,Saturday,9,,,,0.0,0,8,0
 3281,Sky Zooma,5,Saturday,10,0.0,0.0,0,33.3,4,12,1
@@ -6476,22 +6476,22 @@ ride_id,ride_name,day_of_week,dow_name,hour_local,avg_wait_open,p90_wait_open,ma
 3263,SkyScreamer,4,Friday,10,0.0,0.0,0,25.0,3,12,1
 3263,SkyScreamer,4,Friday,11,0.0,0.0,0,100.0,12,12,1
 3263,SkyScreamer,4,Friday,12,0.0,0.0,0,73.9,17,23,2
-3263,SkyScreamer,4,Friday,13,0.0,0.0,0,31.5,17,54,2
-3263,SkyScreamer,4,Friday,14,0.0,0.0,0,33.3,12,36,1
+3263,SkyScreamer,4,Friday,13,0.0,0.0,0,28.8,17,59,2
+3263,SkyScreamer,4,Friday,14,0.0,0.0,0,27.9,12,43,1
 3263,SkyScreamer,4,Friday,15,0.9,0.0,20,46.8,22,47,2
-3263,SkyScreamer,4,Friday,16,17.1,20.0,20,41.2,14,34,2
-3263,SkyScreamer,4,Friday,17,14.1,20.0,20,50.0,17,34,2
+3263,SkyScreamer,4,Friday,16,17.1,20.0,20,37.8,14,37,2
+3263,SkyScreamer,4,Friday,17,10.0,20.0,20,55.8,24,43,3
 3263,SkyScreamer,4,Friday,18,6.4,20.0,35,79.2,42,53,7
-3263,SkyScreamer,4,Friday,19,8.1,35.0,35,85.2,52,61,8
-3263,SkyScreamer,4,Friday,20,13.4,35.0,35,72.7,32,44,5
+3263,SkyScreamer,4,Friday,19,9.6,35.0,35,84.8,56,66,9
+3263,SkyScreamer,4,Friday,20,13.4,35.0,35,62.7,32,51,5
 3263,SkyScreamer,4,Friday,21,9.4,15.0,35,96.9,31,32,3
-3263,SkyScreamer,4,Friday,22,2.5,15.0,15,36.9,24,65,4
-3263,SkyScreamer,4,Friday,23,0.0,0.0,0,9.1,2,22,1
+3263,SkyScreamer,4,Friday,22,2.5,15.0,15,33.3,24,72,4
+3263,SkyScreamer,4,Friday,23,0.0,0.0,0,7.4,2,27,1
 3263,SkyScreamer,5,Saturday,0,,,,0.0,0,23,0
 3263,SkyScreamer,5,Saturday,1,,,,0.0,0,13,0
 3263,SkyScreamer,5,Saturday,2,,,,0.0,0,10,0
-3263,SkyScreamer,5,Saturday,3,,,,0.0,0,33,0
-3263,SkyScreamer,5,Saturday,4,,,,0.0,0,22,0
+3263,SkyScreamer,5,Saturday,3,,,,0.0,0,39,0
+3263,SkyScreamer,5,Saturday,4,,,,0.0,0,28,0
 3263,SkyScreamer,5,Saturday,5,,,,0.0,0,9,0
 3263,SkyScreamer,5,Saturday,9,,,,0.0,0,8,0
 3263,SkyScreamer,5,Saturday,10,0.0,0.0,0,33.3,4,12,1
@@ -6624,22 +6624,22 @@ ride_id,ride_name,day_of_week,dow_name,hour_local,avg_wait_open,p90_wait_open,ma
 3282,Slingshot,4,Friday,10,,,,0.0,0,12,0
 3282,Slingshot,4,Friday,11,,,,0.0,0,12,0
 3282,Slingshot,4,Friday,12,0.0,0.0,0,47.8,11,23,1
-3282,Slingshot,4,Friday,13,0.0,0.0,0,22.2,12,54,1
-3282,Slingshot,4,Friday,14,0.0,0.0,0,33.3,12,36,1
+3282,Slingshot,4,Friday,13,0.0,0.0,0,20.3,12,59,1
+3282,Slingshot,4,Friday,14,0.0,0.0,0,27.9,12,43,1
 3282,Slingshot,4,Friday,15,0.0,0.0,0,25.5,12,47,1
-3282,Slingshot,4,Friday,16,0.0,0.0,0,35.3,12,34,1
-3282,Slingshot,4,Friday,17,0.0,0.0,0,23.5,8,34,1
+3282,Slingshot,4,Friday,16,0.0,0.0,0,32.4,12,37,1
+3282,Slingshot,4,Friday,17,0.0,0.0,0,34.9,15,43,2
 3282,Slingshot,4,Friday,18,0.0,0.0,0,45.3,24,53,4
-3282,Slingshot,4,Friday,19,0.0,0.0,0,65.6,40,61,5
-3282,Slingshot,4,Friday,20,0.0,0.0,0,54.5,24,44,4
+3282,Slingshot,4,Friday,19,0.0,0.0,0,68.2,45,66,6
+3282,Slingshot,4,Friday,20,0.0,0.0,0,60.8,31,51,5
 3282,Slingshot,4,Friday,21,0.0,0.0,0,68.8,22,32,2
-3282,Slingshot,4,Friday,22,0.0,0.0,0,38.5,25,65,3
-3282,Slingshot,4,Friday,23,0.0,0.0,0,9.1,2,22,1
+3282,Slingshot,4,Friday,22,0.0,0.0,0,44.4,32,72,4
+3282,Slingshot,4,Friday,23,0.0,0.0,0,25.9,7,27,2
 3282,Slingshot,5,Saturday,0,,,,0.0,0,23,0
 3282,Slingshot,5,Saturday,1,,,,0.0,0,13,0
 3282,Slingshot,5,Saturday,2,,,,0.0,0,10,0
-3282,Slingshot,5,Saturday,3,,,,0.0,0,33,0
-3282,Slingshot,5,Saturday,4,,,,0.0,0,22,0
+3282,Slingshot,5,Saturday,3,,,,0.0,0,39,0
+3282,Slingshot,5,Saturday,4,,,,0.0,0,28,0
 3282,Slingshot,5,Saturday,5,,,,0.0,0,9,0
 3282,Slingshot,5,Saturday,9,,,,0.0,0,8,0
 3282,Slingshot,5,Saturday,10,,,,0.0,0,12,0
@@ -6772,22 +6772,22 @@ ride_id,ride_name,day_of_week,dow_name,hour_local,avg_wait_open,p90_wait_open,ma
 15789,Storm Chaser,4,Friday,10,0.0,0.0,0,25.0,3,12,1
 15789,Storm Chaser,4,Friday,11,0.0,0.0,0,100.0,12,12,1
 15789,Storm Chaser,4,Friday,12,0.0,0.0,0,73.9,17,23,2
-15789,Storm Chaser,4,Friday,13,0.0,0.0,0,35.2,19,54,2
-15789,Storm Chaser,4,Friday,14,0.0,0.0,0,33.3,12,36,1
+15789,Storm Chaser,4,Friday,13,0.0,0.0,0,32.2,19,59,2
+15789,Storm Chaser,4,Friday,14,0.0,0.0,0,27.9,12,43,1
 15789,Storm Chaser,4,Friday,15,0.0,0.0,0,46.8,22,47,2
-15789,Storm Chaser,4,Friday,16,0.0,0.0,0,41.2,14,34,2
-15789,Storm Chaser,4,Friday,17,0.0,0.0,0,50.0,17,34,2
+15789,Storm Chaser,4,Friday,16,0.0,0.0,0,37.8,14,37,2
+15789,Storm Chaser,4,Friday,17,0.0,0.0,0,55.8,24,43,3
 15789,Storm Chaser,4,Friday,18,0.0,0.0,0,79.2,42,53,7
-15789,Storm Chaser,4,Friday,19,0.0,0.0,0,93.4,57,61,8
-15789,Storm Chaser,4,Friday,20,0.0,0.0,0,72.7,32,44,5
+15789,Storm Chaser,4,Friday,19,0.0,0.0,0,93.9,62,66,9
+15789,Storm Chaser,4,Friday,20,0.0,0.0,0,76.5,39,51,6
 15789,Storm Chaser,4,Friday,21,0.0,0.0,0,96.9,31,32,3
-15789,Storm Chaser,4,Friday,22,0.0,0.0,0,52.3,34,65,5
-15789,Storm Chaser,4,Friday,23,0.0,0.0,0,18.2,4,22,2
+15789,Storm Chaser,4,Friday,22,0.0,0.0,0,56.9,41,72,6
+15789,Storm Chaser,4,Friday,23,0.0,0.0,0,33.3,9,27,3
 15789,Storm Chaser,5,Saturday,0,,,,0.0,0,23,0
 15789,Storm Chaser,5,Saturday,1,,,,0.0,0,13,0
 15789,Storm Chaser,5,Saturday,2,,,,0.0,0,10,0
-15789,Storm Chaser,5,Saturday,3,,,,0.0,0,33,0
-15789,Storm Chaser,5,Saturday,4,,,,0.0,0,22,0
+15789,Storm Chaser,5,Saturday,3,,,,0.0,0,39,0
+15789,Storm Chaser,5,Saturday,4,,,,0.0,0,28,0
 15789,Storm Chaser,5,Saturday,5,,,,0.0,0,9,0
 15789,Storm Chaser,5,Saturday,9,,,,0.0,0,8,0
 15789,Storm Chaser,5,Saturday,10,0.0,0.0,0,33.3,4,12,1
@@ -6920,22 +6920,22 @@ ride_id,ride_name,day_of_week,dow_name,hour_local,avg_wait_open,p90_wait_open,ma
 3267,Super Round Up,4,Friday,10,0.0,0.0,0,25.0,3,12,1
 3267,Super Round Up,4,Friday,11,0.0,0.0,0,100.0,12,12,1
 3267,Super Round Up,4,Friday,12,0.0,0.0,0,73.9,17,23,2
-3267,Super Round Up,4,Friday,13,0.0,0.0,0,35.2,19,54,2
-3267,Super Round Up,4,Friday,14,0.0,0.0,0,33.3,12,36,1
+3267,Super Round Up,4,Friday,13,0.0,0.0,0,32.2,19,59,2
+3267,Super Round Up,4,Friday,14,0.0,0.0,0,27.9,12,43,1
 3267,Super Round Up,4,Friday,15,0.0,0.0,0,40.4,19,47,2
-3267,Super Round Up,4,Friday,16,0.0,0.0,0,5.9,2,34,1
-3267,Super Round Up,4,Friday,17,0.0,0.0,0,14.7,5,34,1
+3267,Super Round Up,4,Friday,16,0.0,0.0,0,5.4,2,37,1
+3267,Super Round Up,4,Friday,17,0.0,0.0,0,27.9,12,43,2
 3267,Super Round Up,4,Friday,18,0.0,0.0,0,50.9,27,53,5
-3267,Super Round Up,4,Friday,19,0.0,0.0,0,59.0,36,61,7
-3267,Super Round Up,4,Friday,20,0.0,0.0,0,68.2,30,44,4
+3267,Super Round Up,4,Friday,19,0.0,0.0,0,62.1,41,66,8
+3267,Super Round Up,4,Friday,20,0.0,0.0,0,72.5,37,51,5
 3267,Super Round Up,4,Friday,21,0.0,0.0,0,65.6,21,32,2
-3267,Super Round Up,4,Friday,22,0.0,0.0,0,52.3,34,65,5
-3267,Super Round Up,4,Friday,23,0.0,0.0,0,9.1,2,22,1
+3267,Super Round Up,4,Friday,22,0.0,0.0,0,56.9,41,72,6
+3267,Super Round Up,4,Friday,23,0.0,0.0,0,25.9,7,27,2
 3267,Super Round Up,5,Saturday,0,,,,0.0,0,23,0
 3267,Super Round Up,5,Saturday,1,,,,0.0,0,13,0
 3267,Super Round Up,5,Saturday,2,,,,0.0,0,10,0
-3267,Super Round Up,5,Saturday,3,,,,0.0,0,33,0
-3267,Super Round Up,5,Saturday,4,,,,0.0,0,22,0
+3267,Super Round Up,5,Saturday,3,,,,0.0,0,39,0
+3267,Super Round Up,5,Saturday,4,,,,0.0,0,28,0
 3267,Super Round Up,5,Saturday,5,,,,0.0,0,9,0
 3267,Super Round Up,5,Saturday,9,,,,0.0,0,8,0
 3267,Super Round Up,5,Saturday,10,0.0,0.0,0,33.3,4,12,1
@@ -7068,22 +7068,22 @@ ride_id,ride_name,day_of_week,dow_name,hour_local,avg_wait_open,p90_wait_open,ma
 3266,SUPERMAN™: Ultimate Flight,4,Friday,10,0.0,0.0,0,25.0,3,12,1
 3266,SUPERMAN™: Ultimate Flight,4,Friday,11,0.0,0.0,0,100.0,12,12,1
 3266,SUPERMAN™: Ultimate Flight,4,Friday,12,0.0,0.0,0,73.9,17,23,2
-3266,SUPERMAN™: Ultimate Flight,4,Friday,13,0.0,0.0,0,35.2,19,54,2
-3266,SUPERMAN™: Ultimate Flight,4,Friday,14,0.0,0.0,0,33.3,12,36,1
+3266,SUPERMAN™: Ultimate Flight,4,Friday,13,0.0,0.0,0,32.2,19,59,2
+3266,SUPERMAN™: Ultimate Flight,4,Friday,14,0.0,0.0,0,27.9,12,43,1
 3266,SUPERMAN™: Ultimate Flight,4,Friday,15,0.0,0.0,0,46.8,22,47,2
-3266,SUPERMAN™: Ultimate Flight,4,Friday,16,0.0,0.0,0,41.2,14,34,2
-3266,SUPERMAN™: Ultimate Flight,4,Friday,17,37.6,60.0,60,50.0,17,34,2
+3266,SUPERMAN™: Ultimate Flight,4,Friday,16,0.0,0.0,0,37.8,14,37,2
+3266,SUPERMAN™: Ultimate Flight,4,Friday,17,26.7,60.0,60,55.8,24,43,3
 3266,SUPERMAN™: Ultimate Flight,4,Friday,18,19.4,60.0,60,79.2,42,53,7
-3266,SUPERMAN™: Ultimate Flight,4,Friday,19,20.8,60.0,60,83.6,51,61,7
-3266,SUPERMAN™: Ultimate Flight,4,Friday,20,15.5,20.0,20,50.0,22,44,3
+3266,SUPERMAN™: Ultimate Flight,4,Friday,19,24.3,60.0,60,84.8,56,66,8
+3266,SUPERMAN™: Ultimate Flight,4,Friday,20,19.0,30.0,30,56.9,29,51,4
 3266,SUPERMAN™: Ultimate Flight,4,Friday,21,21.4,50.0,50,65.6,21,32,2
-3266,SUPERMAN™: Ultimate Flight,4,Friday,22,23.6,50.0,50,43.1,28,65,4
-3266,SUPERMAN™: Ultimate Flight,4,Friday,23,15.0,15.0,15,9.1,2,22,1
+3266,SUPERMAN™: Ultimate Flight,4,Friday,22,23.6,50.0,50,38.9,28,72,4
+3266,SUPERMAN™: Ultimate Flight,4,Friday,23,15.0,15.0,15,7.4,2,27,1
 3266,SUPERMAN™: Ultimate Flight,5,Saturday,0,,,,0.0,0,23,0
 3266,SUPERMAN™: Ultimate Flight,5,Saturday,1,,,,0.0,0,13,0
 3266,SUPERMAN™: Ultimate Flight,5,Saturday,2,,,,0.0,0,10,0
-3266,SUPERMAN™: Ultimate Flight,5,Saturday,3,,,,0.0,0,33,0
-3266,SUPERMAN™: Ultimate Flight,5,Saturday,4,,,,0.0,0,22,0
+3266,SUPERMAN™: Ultimate Flight,5,Saturday,3,,,,0.0,0,39,0
+3266,SUPERMAN™: Ultimate Flight,5,Saturday,4,,,,0.0,0,28,0
 3266,SUPERMAN™: Ultimate Flight,5,Saturday,5,,,,0.0,0,9,0
 3266,SUPERMAN™: Ultimate Flight,5,Saturday,9,,,,0.0,0,8,0
 3266,SUPERMAN™: Ultimate Flight,5,Saturday,10,0.0,0.0,0,33.3,4,12,1
@@ -7216,22 +7216,22 @@ ride_id,ride_name,day_of_week,dow_name,hour_local,avg_wait_open,p90_wait_open,ma
 3268,Tango,4,Friday,10,0.0,0.0,0,25.0,3,12,1
 3268,Tango,4,Friday,11,0.0,0.0,0,100.0,12,12,1
 3268,Tango,4,Friday,12,0.0,0.0,0,73.9,17,23,2
-3268,Tango,4,Friday,13,0.0,0.0,0,35.2,19,54,2
-3268,Tango,4,Friday,14,0.0,0.0,0,33.3,12,36,1
+3268,Tango,4,Friday,13,0.0,0.0,0,32.2,19,59,2
+3268,Tango,4,Friday,14,0.0,0.0,0,27.9,12,43,1
 3268,Tango,4,Friday,15,0.0,0.0,0,34.0,16,47,2
-3268,Tango,4,Friday,16,0.0,0.0,0,5.9,2,34,1
-3268,Tango,4,Friday,17,0.0,0.0,0,38.2,13,34,2
+3268,Tango,4,Friday,16,0.0,0.0,0,5.4,2,37,1
+3268,Tango,4,Friday,17,0.0,0.0,0,46.5,20,43,3
 3268,Tango,4,Friday,18,0.0,0.0,0,62.3,33,53,7
-3268,Tango,4,Friday,19,0.0,0.0,0,73.8,45,61,7
-3268,Tango,4,Friday,20,0.0,0.0,0,70.5,31,44,5
+3268,Tango,4,Friday,19,0.0,0.0,0,75.8,50,66,8
+3268,Tango,4,Friday,20,0.0,0.0,0,70.6,36,51,6
 3268,Tango,4,Friday,21,0.0,0.0,0,96.9,31,32,3
-3268,Tango,4,Friday,22,0.0,0.0,0,52.3,34,65,5
-3268,Tango,4,Friday,23,0.0,0.0,0,18.2,4,22,2
+3268,Tango,4,Friday,22,0.0,0.0,0,56.9,41,72,6
+3268,Tango,4,Friday,23,0.0,0.0,0,33.3,9,27,3
 3268,Tango,5,Saturday,0,,,,0.0,0,23,0
 3268,Tango,5,Saturday,1,,,,0.0,0,13,0
 3268,Tango,5,Saturday,2,,,,0.0,0,10,0
-3268,Tango,5,Saturday,3,,,,0.0,0,33,0
-3268,Tango,5,Saturday,4,,,,0.0,0,22,0
+3268,Tango,5,Saturday,3,,,,0.0,0,39,0
+3268,Tango,5,Saturday,4,,,,0.0,0,28,0
 3268,Tango,5,Saturday,5,,,,0.0,0,9,0
 3268,Tango,5,Saturday,9,,,,0.0,0,8,0
 3268,Tango,5,Saturday,10,0.0,0.0,0,33.3,4,12,1
@@ -7356,25 +7356,25 @@ ride_id,ride_name,day_of_week,dow_name,hour_local,avg_wait_open,p90_wait_open,ma
 4005,The Bloody Fountain,4,Friday,3,,,,0.0,0,8,0
 4005,The Bloody Fountain,4,Friday,4,,,,0.0,0,33,0
 4005,The Bloody Fountain,4,Friday,5,,,,0.0,0,1,0
-4005,The Bloody Fountain,4,Friday,13,,,,0.0,0,17,0
-4005,The Bloody Fountain,4,Friday,14,,,,0.0,0,24,0
+4005,The Bloody Fountain,4,Friday,13,,,,0.0,0,22,0
+4005,The Bloody Fountain,4,Friday,14,,,,0.0,0,31,0
 4005,The Bloody Fountain,4,Friday,15,,,,0.0,0,8,0
-4005,The Bloody Fountain,4,Friday,16,,,,0.0,0,13,0
-4005,The Bloody Fountain,4,Friday,17,,,,0.0,0,10,0
+4005,The Bloody Fountain,4,Friday,16,,,,0.0,0,16,0
+4005,The Bloody Fountain,4,Friday,17,,,,0.0,0,19,0
 4005,The Bloody Fountain,4,Friday,18,0.0,0.0,0,42.9,6,14,2
-4005,The Bloody Fountain,4,Friday,19,0.0,0.0,0,100.0,26,26,4
-4005,The Bloody Fountain,4,Friday,20,0.0,0.0,0,100.0,10,10,2
+4005,The Bloody Fountain,4,Friday,19,0.0,0.0,0,100.0,31,31,5
+4005,The Bloody Fountain,4,Friday,20,0.0,0.0,0,100.0,17,17,3
 4005,The Bloody Fountain,4,Friday,21,0.0,0.0,0,100.0,19,19,2
 17765,The Bloody Fountain,4,Friday,22,0.0,0.0,0,100.0,10,10,1
-4005,The Bloody Fountain,4,Friday,22,0.0,0.0,0,100.0,21,21,3
+4005,The Bloody Fountain,4,Friday,22,0.0,0.0,0,100.0,28,28,4
 17765,The Bloody Fountain,4,Friday,23,0.0,0.0,0,100.0,2,2,1
-4005,The Bloody Fountain,4,Friday,23,0.0,0.0,0,33.3,2,6,1
+4005,The Bloody Fountain,4,Friday,23,0.0,0.0,0,63.6,7,11,2
 4005,The Bloody Fountain,5,Saturday,1,,,,0.0,0,10,0
 4005,The Bloody Fountain,5,Saturday,2,,,,0.0,0,6,0
 17765,The Bloody Fountain,5,Saturday,3,,,,0.0,0,7,0
-4005,The Bloody Fountain,5,Saturday,3,,,,0.0,0,8,0
+4005,The Bloody Fountain,5,Saturday,3,,,,0.0,0,14,0
 17765,The Bloody Fountain,5,Saturday,4,,,,0.0,0,5,0
-4005,The Bloody Fountain,5,Saturday,4,,,,0.0,0,15,0
+4005,The Bloody Fountain,5,Saturday,4,,,,0.0,0,21,0
 4005,The Bloody Fountain,5,Saturday,5,,,,0.0,0,9,0
 17765,The Bloody Fountain,5,Saturday,12,,,,0.0,0,11,0
 4005,The Bloody Fountain,5,Saturday,12,,,,0.0,0,17,0
@@ -7534,31 +7534,31 @@ ride_id,ride_name,day_of_week,dow_name,hour_local,avg_wait_open,p90_wait_open,ma
 13926,The Conjuring Universe,4,Friday,5,,,,0.0,0,1,0
 17724,The Conjuring Universe,4,Friday,12,,,,0.0,0,3,0
 17724,The Conjuring Universe,4,Friday,13,,,,0.0,0,9,0
-13926,The Conjuring Universe,4,Friday,13,,,,0.0,0,17,0
-13926,The Conjuring Universe,4,Friday,14,,,,0.0,0,24,0
+13926,The Conjuring Universe,4,Friday,13,,,,0.0,0,22,0
+13926,The Conjuring Universe,4,Friday,14,,,,0.0,0,31,0
 17724,The Conjuring Universe,4,Friday,15,,,,0.0,0,9,0
 13926,The Conjuring Universe,4,Friday,15,,,,0.0,0,8,0
 17724,The Conjuring Universe,4,Friday,16,,,,0.0,0,3,0
-13926,The Conjuring Universe,4,Friday,16,,,,0.0,0,13,0
+13926,The Conjuring Universe,4,Friday,16,,,,0.0,0,16,0
 17724,The Conjuring Universe,4,Friday,17,,,,0.0,0,4,0
-13926,The Conjuring Universe,4,Friday,17,,,,0.0,0,10,0
+13926,The Conjuring Universe,4,Friday,17,,,,0.0,0,19,0
 17724,The Conjuring Universe,4,Friday,18,,,,0.0,0,8,0
 13926,The Conjuring Universe,4,Friday,18,0.0,0.0,0,100.0,14,14,3
 17724,The Conjuring Universe,4,Friday,19,,,,0.0,0,4,0
-13926,The Conjuring Universe,4,Friday,19,0.0,0.0,0,100.0,26,26,4
+13926,The Conjuring Universe,4,Friday,19,0.0,0.0,0,100.0,31,31,5
 17724,The Conjuring Universe,4,Friday,20,,,,0.0,0,8,0
-13926,The Conjuring Universe,4,Friday,20,0.0,0.0,0,100.0,10,10,2
+13926,The Conjuring Universe,4,Friday,20,0.0,0.0,0,100.0,17,17,3
 13926,The Conjuring Universe,4,Friday,21,0.0,0.0,0,100.0,19,19,2
 17724,The Conjuring Universe,4,Friday,22,,,,0.0,0,10,0
-13926,The Conjuring Universe,4,Friday,22,0.0,0.0,0,100.0,21,21,3
+13926,The Conjuring Universe,4,Friday,22,0.0,0.0,0,100.0,28,28,4
 17724,The Conjuring Universe,4,Friday,23,,,,0.0,0,2,0
-13926,The Conjuring Universe,4,Friday,23,0.0,0.0,0,33.3,2,6,1
+13926,The Conjuring Universe,4,Friday,23,0.0,0.0,0,63.6,7,11,2
 13926,The Conjuring Universe,5,Saturday,1,,,,0.0,0,10,0
 13926,The Conjuring Universe,5,Saturday,2,,,,0.0,0,6,0
 17724,The Conjuring Universe,5,Saturday,3,,,,0.0,0,7,0
-13926,The Conjuring Universe,5,Saturday,3,,,,0.0,0,8,0
+13926,The Conjuring Universe,5,Saturday,3,,,,0.0,0,14,0
 17724,The Conjuring Universe,5,Saturday,4,,,,0.0,0,5,0
-13926,The Conjuring Universe,5,Saturday,4,,,,0.0,0,15,0
+13926,The Conjuring Universe,5,Saturday,4,,,,0.0,0,21,0
 13926,The Conjuring Universe,5,Saturday,5,,,,0.0,0,9,0
 17724,The Conjuring Universe,5,Saturday,12,,,,0.0,0,11,0
 13926,The Conjuring Universe,5,Saturday,12,,,,0.0,0,17,0
@@ -7707,22 +7707,22 @@ ride_id,ride_name,day_of_week,dow_name,hour_local,avg_wait_open,p90_wait_open,ma
 3271,THE DARK KNIGHT™ Coaster,4,Friday,10,0.0,0.0,0,25.0,3,12,1
 3271,THE DARK KNIGHT™ Coaster,4,Friday,11,0.0,0.0,0,100.0,12,12,1
 3271,THE DARK KNIGHT™ Coaster,4,Friday,12,16.9,30.0,30,69.6,16,23,2
-3271,THE DARK KNIGHT™ Coaster,4,Friday,13,20.0,30.0,30,33.3,18,54,2
-3271,THE DARK KNIGHT™ Coaster,4,Friday,14,30.0,30.0,30,2.8,1,36,1
+3271,THE DARK KNIGHT™ Coaster,4,Friday,13,20.0,30.0,30,30.5,18,59,2
+3271,THE DARK KNIGHT™ Coaster,4,Friday,14,30.0,30.0,30,2.3,1,43,1
 3271,THE DARK KNIGHT™ Coaster,4,Friday,15,6.1,30.0,30,38.3,18,47,2
-3271,THE DARK KNIGHT™ Coaster,4,Friday,16,49.3,60.0,60,41.2,14,34,2
-3271,THE DARK KNIGHT™ Coaster,4,Friday,17,42.4,60.0,60,50.0,17,34,2
+3271,THE DARK KNIGHT™ Coaster,4,Friday,16,49.3,60.0,60,37.8,14,37,2
+3271,THE DARK KNIGHT™ Coaster,4,Friday,17,32.7,60.0,60,51.2,22,43,3
 3271,THE DARK KNIGHT™ Coaster,4,Friday,18,17.9,60.0,60,77.4,41,53,7
-3271,THE DARK KNIGHT™ Coaster,4,Friday,19,14.4,60.0,60,86.9,53,61,8
-3271,THE DARK KNIGHT™ Coaster,4,Friday,20,22.8,60.0,60,72.7,32,44,5
+3271,THE DARK KNIGHT™ Coaster,4,Friday,19,17.1,60.0,60,87.9,58,66,9
+3271,THE DARK KNIGHT™ Coaster,4,Friday,20,26.8,60.0,60,76.5,39,51,6
 3271,THE DARK KNIGHT™ Coaster,4,Friday,21,15.2,30.0,60,93.8,30,32,3
-3271,THE DARK KNIGHT™ Coaster,4,Friday,22,17.2,45.0,45,52.3,34,65,5
-3271,THE DARK KNIGHT™ Coaster,4,Friday,23,0.0,0.0,0,18.2,4,22,2
+3271,THE DARK KNIGHT™ Coaster,4,Friday,22,24.5,60.0,60,56.9,41,72,6
+3271,THE DARK KNIGHT™ Coaster,4,Friday,23,33.3,60.0,60,33.3,9,27,3
 3271,THE DARK KNIGHT™ Coaster,5,Saturday,0,,,,0.0,0,23,0
 3271,THE DARK KNIGHT™ Coaster,5,Saturday,1,,,,0.0,0,13,0
 3271,THE DARK KNIGHT™ Coaster,5,Saturday,2,,,,0.0,0,10,0
-3271,THE DARK KNIGHT™ Coaster,5,Saturday,3,,,,0.0,0,33,0
-3271,THE DARK KNIGHT™ Coaster,5,Saturday,4,,,,0.0,0,22,0
+3271,THE DARK KNIGHT™ Coaster,5,Saturday,3,,,,0.0,0,39,0
+3271,THE DARK KNIGHT™ Coaster,5,Saturday,4,,,,0.0,0,28,0
 3271,THE DARK KNIGHT™ Coaster,5,Saturday,5,,,,0.0,0,9,0
 3271,THE DARK KNIGHT™ Coaster,5,Saturday,9,,,,0.0,0,8,0
 3271,THE DARK KNIGHT™ Coaster,5,Saturday,10,0.0,0.0,0,33.3,4,12,1
@@ -7855,22 +7855,22 @@ ride_id,ride_name,day_of_week,dow_name,hour_local,avg_wait_open,p90_wait_open,ma
 14537,THE FLASH™: Vertical Velocity,4,Friday,10,0.0,0.0,0,25.0,3,12,1
 14537,THE FLASH™: Vertical Velocity,4,Friday,11,26.2,45.0,45,100.0,12,12,1
 14537,THE FLASH™: Vertical Velocity,4,Friday,12,46.2,75.0,75,73.9,17,23,2
-14537,THE FLASH™: Vertical Velocity,4,Friday,13,56.1,75.0,75,25.9,14,54,2
-14537,THE FLASH™: Vertical Velocity,4,Friday,14,60.0,60.0,60,33.3,12,36,1
+14537,THE FLASH™: Vertical Velocity,4,Friday,13,56.1,75.0,75,23.7,14,59,2
+14537,THE FLASH™: Vertical Velocity,4,Friday,14,60.0,60.0,60,27.9,12,43,1
 14537,THE FLASH™: Vertical Velocity,4,Friday,15,38.0,60.0,60,46.8,22,47,2
-14537,THE FLASH™: Vertical Velocity,4,Friday,16,53.6,60.0,60,41.2,14,34,2
-14537,THE FLASH™: Vertical Velocity,4,Friday,17,46.8,60.0,60,50.0,17,34,2
+14537,THE FLASH™: Vertical Velocity,4,Friday,16,53.6,60.0,60,37.8,14,37,2
+14537,THE FLASH™: Vertical Velocity,4,Friday,17,33.1,60.0,60,55.8,24,43,3
 14537,THE FLASH™: Vertical Velocity,4,Friday,18,27.6,60.0,60,58.5,31,53,5
-14537,THE FLASH™: Vertical Velocity,4,Friday,19,40.8,75.0,75,59.0,36,61,6
-14537,THE FLASH™: Vertical Velocity,4,Friday,20,48.3,60.0,60,52.3,23,44,4
+14537,THE FLASH™: Vertical Velocity,4,Friday,19,50.5,120.0,120,62.1,41,66,7
+14537,THE FLASH™: Vertical Velocity,4,Friday,20,65.0,120.0,120,58.8,30,51,5
 14537,THE FLASH™: Vertical Velocity,4,Friday,21,60.4,75.0,75,78.1,25,32,3
-14537,THE FLASH™: Vertical Velocity,4,Friday,22,50.8,60.0,75,47.7,31,65,5
-14537,THE FLASH™: Vertical Velocity,4,Friday,23,45.0,60.0,60,18.2,4,22,2
+14537,THE FLASH™: Vertical Velocity,4,Friday,22,63.6,120.0,120,52.8,38,72,6
+14537,THE FLASH™: Vertical Velocity,4,Friday,23,70.0,120.0,120,22.2,6,27,3
 14537,THE FLASH™: Vertical Velocity,5,Saturday,0,,,,0.0,0,23,0
 14537,THE FLASH™: Vertical Velocity,5,Saturday,1,,,,0.0,0,13,0
 14537,THE FLASH™: Vertical Velocity,5,Saturday,2,,,,0.0,0,10,0
-14537,THE FLASH™: Vertical Velocity,5,Saturday,3,,,,0.0,0,33,0
-14537,THE FLASH™: Vertical Velocity,5,Saturday,4,,,,0.0,0,22,0
+14537,THE FLASH™: Vertical Velocity,5,Saturday,3,,,,0.0,0,39,0
+14537,THE FLASH™: Vertical Velocity,5,Saturday,4,,,,0.0,0,28,0
 14537,THE FLASH™: Vertical Velocity,5,Saturday,5,,,,0.0,0,9,0
 14537,THE FLASH™: Vertical Velocity,5,Saturday,9,,,,0.0,0,8,0
 14537,THE FLASH™: Vertical Velocity,5,Saturday,10,0.0,0.0,0,33.3,4,12,1
@@ -8003,22 +8003,22 @@ ride_id,ride_name,day_of_week,dow_name,hour_local,avg_wait_open,p90_wait_open,ma
 3288,THE JOKER™,4,Friday,10,0.0,0.0,0,25.0,3,12,1
 3288,THE JOKER™,4,Friday,11,2.1,5.0,5,100.0,12,12,1
 3288,THE JOKER™,4,Friday,12,40.0,75.0,75,73.9,17,23,2
-3288,THE JOKER™,4,Friday,13,17.6,30.0,30,35.2,19,54,2
-3288,THE JOKER™,4,Friday,14,47.5,60.0,60,33.3,12,36,1
+3288,THE JOKER™,4,Friday,13,17.6,30.0,30,32.2,19,59,2
+3288,THE JOKER™,4,Friday,14,47.5,60.0,60,27.9,12,43,1
 3288,THE JOKER™,4,Friday,15,23.6,40.0,60,46.8,22,47,2
-3288,THE JOKER™,4,Friday,16,15.0,40.0,40,41.2,14,34,2
-3288,THE JOKER™,4,Friday,17,24.7,40.0,40,50.0,17,34,2
+3288,THE JOKER™,4,Friday,16,15.0,40.0,40,37.8,14,37,2
+3288,THE JOKER™,4,Friday,17,20.7,40.0,40,48.8,21,43,3
 3288,THE JOKER™,4,Friday,18,21.6,40.0,40,60.4,32,53,6
-3288,THE JOKER™,4,Friday,19,24.7,60.0,60,86.9,53,61,7
-3288,THE JOKER™,4,Friday,20,14.7,15.0,45,72.7,32,44,5
+3288,THE JOKER™,4,Friday,19,28.6,60.0,70,87.9,58,66,8
+3288,THE JOKER™,4,Friday,20,24.6,70.0,70,76.5,39,51,6
 3288,THE JOKER™,4,Friday,21,19.1,30.0,30,71.9,23,32,3
-3288,THE JOKER™,4,Friday,22,31.6,60.0,60,52.3,34,65,5
-3288,THE JOKER™,4,Friday,23,17.5,20.0,20,18.2,4,22,2
+3288,THE JOKER™,4,Friday,22,38.2,70.0,70,56.9,41,72,6
+3288,THE JOKER™,4,Friday,23,46.7,70.0,70,33.3,9,27,3
 3288,THE JOKER™,5,Saturday,0,,,,0.0,0,23,0
 3288,THE JOKER™,5,Saturday,1,,,,0.0,0,13,0
 3288,THE JOKER™,5,Saturday,2,,,,0.0,0,10,0
-3288,THE JOKER™,5,Saturday,3,,,,0.0,0,33,0
-3288,THE JOKER™,5,Saturday,4,,,,0.0,0,22,0
+3288,THE JOKER™,5,Saturday,3,,,,0.0,0,39,0
+3288,THE JOKER™,5,Saturday,4,,,,0.0,0,28,0
 3288,THE JOKER™,5,Saturday,5,,,,0.0,0,9,0
 3288,THE JOKER™,5,Saturday,9,,,,0.0,0,8,0
 3288,THE JOKER™,5,Saturday,10,0.0,0.0,0,16.7,2,12,1
@@ -8126,21 +8126,21 @@ ride_id,ride_name,day_of_week,dow_name,hour_local,avg_wait_open,p90_wait_open,ma
 17725,The Witch's Reflection,4,Friday,4,,,,0.0,0,33,0
 17725,The Witch's Reflection,4,Friday,5,,,,0.0,0,1,0
 17725,The Witch's Reflection,4,Friday,12,,,,0.0,0,3,0
-17725,The Witch's Reflection,4,Friday,13,,,,0.0,0,26,0
-17725,The Witch's Reflection,4,Friday,14,,,,0.0,0,24,0
+17725,The Witch's Reflection,4,Friday,13,,,,0.0,0,31,0
+17725,The Witch's Reflection,4,Friday,14,,,,0.0,0,31,0
 17725,The Witch's Reflection,4,Friday,15,,,,0.0,0,17,0
-17725,The Witch's Reflection,4,Friday,16,,,,0.0,0,16,0
-17725,The Witch's Reflection,4,Friday,17,,,,0.0,0,14,0
+17725,The Witch's Reflection,4,Friday,16,,,,0.0,0,19,0
+17725,The Witch's Reflection,4,Friday,17,,,,0.0,0,23,0
 17725,The Witch's Reflection,4,Friday,18,0.0,0.0,0,27.3,6,22,2
-17725,The Witch's Reflection,4,Friday,19,0.0,0.0,0,86.7,26,30,4
-17725,The Witch's Reflection,4,Friday,20,0.0,0.0,0,55.6,10,18,2
+17725,The Witch's Reflection,4,Friday,19,0.0,0.0,0,88.6,31,35,5
+17725,The Witch's Reflection,4,Friday,20,0.0,0.0,0,68.0,17,25,3
 17725,The Witch's Reflection,4,Friday,21,0.0,0.0,0,100.0,19,19,2
-17725,The Witch's Reflection,4,Friday,22,0.0,0.0,0,67.7,21,31,3
-17725,The Witch's Reflection,4,Friday,23,0.0,0.0,0,25.0,2,8,1
+17725,The Witch's Reflection,4,Friday,22,0.0,0.0,0,73.7,28,38,4
+17725,The Witch's Reflection,4,Friday,23,0.0,0.0,0,53.8,7,13,2
 17725,The Witch's Reflection,5,Saturday,1,,,,0.0,0,10,0
 17725,The Witch's Reflection,5,Saturday,2,,,,0.0,0,6,0
-17725,The Witch's Reflection,5,Saturday,3,,,,0.0,0,15,0
-17725,The Witch's Reflection,5,Saturday,4,,,,0.0,0,20,0
+17725,The Witch's Reflection,5,Saturday,3,,,,0.0,0,21,0
+17725,The Witch's Reflection,5,Saturday,4,,,,0.0,0,26,0
 17725,The Witch's Reflection,5,Saturday,5,,,,0.0,0,9,0
 17725,The Witch's Reflection,5,Saturday,12,,,,0.0,0,28,0
 17725,The Witch's Reflection,5,Saturday,13,,,,0.0,0,26,0
@@ -8267,22 +8267,22 @@ ride_id,ride_name,day_of_week,dow_name,hour_local,avg_wait_open,p90_wait_open,ma
 15594,Tree Top Hopper,4,Friday,10,0.0,0.0,0,25.0,3,12,1
 15594,Tree Top Hopper,4,Friday,11,0.0,0.0,0,100.0,12,12,1
 15594,Tree Top Hopper,4,Friday,12,0.0,0.0,0,73.9,17,23,2
-15594,Tree Top Hopper,4,Friday,13,0.0,0.0,0,35.2,19,54,2
-15594,Tree Top Hopper,4,Friday,14,0.0,0.0,0,33.3,12,36,1
+15594,Tree Top Hopper,4,Friday,13,0.0,0.0,0,32.2,19,59,2
+15594,Tree Top Hopper,4,Friday,14,0.0,0.0,0,27.9,12,43,1
 15594,Tree Top Hopper,4,Friday,15,0.0,0.0,0,46.8,22,47,2
-15594,Tree Top Hopper,4,Friday,16,0.0,0.0,0,41.2,14,34,2
-15594,Tree Top Hopper,4,Friday,17,0.0,0.0,0,50.0,17,34,2
+15594,Tree Top Hopper,4,Friday,16,0.0,0.0,0,37.8,14,37,2
+15594,Tree Top Hopper,4,Friday,17,0.0,0.0,0,55.8,24,43,3
 15594,Tree Top Hopper,4,Friday,18,0.0,0.0,0,79.2,42,53,7
-15594,Tree Top Hopper,4,Friday,19,0.0,0.0,0,93.4,57,61,8
-15594,Tree Top Hopper,4,Friday,20,0.0,0.0,0,72.7,32,44,5
+15594,Tree Top Hopper,4,Friday,19,0.0,0.0,0,93.9,62,66,9
+15594,Tree Top Hopper,4,Friday,20,0.0,0.0,0,76.5,39,51,6
 15594,Tree Top Hopper,4,Friday,21,0.0,0.0,0,96.9,31,32,3
-15594,Tree Top Hopper,4,Friday,22,0.0,0.0,0,52.3,34,65,5
-15594,Tree Top Hopper,4,Friday,23,0.0,0.0,0,18.2,4,22,2
+15594,Tree Top Hopper,4,Friday,22,0.0,0.0,0,56.9,41,72,6
+15594,Tree Top Hopper,4,Friday,23,0.0,0.0,0,33.3,9,27,3
 15594,Tree Top Hopper,5,Saturday,0,,,,0.0,0,23,0
 15594,Tree Top Hopper,5,Saturday,1,,,,0.0,0,13,0
 15594,Tree Top Hopper,5,Saturday,2,,,,0.0,0,10,0
-15594,Tree Top Hopper,5,Saturday,3,,,,0.0,0,33,0
-15594,Tree Top Hopper,5,Saturday,4,,,,0.0,0,22,0
+15594,Tree Top Hopper,5,Saturday,3,,,,0.0,0,39,0
+15594,Tree Top Hopper,5,Saturday,4,,,,0.0,0,28,0
 15594,Tree Top Hopper,5,Saturday,5,,,,0.0,0,9,0
 15594,Tree Top Hopper,5,Saturday,9,,,,0.0,0,8,0
 15594,Tree Top Hopper,5,Saturday,10,0.0,0.0,0,33.3,4,12,1
@@ -8390,21 +8390,21 @@ ride_id,ride_name,day_of_week,dow_name,hour_local,avg_wait_open,p90_wait_open,ma
 17720,Trick or Treatin' with Boo,4,Friday,4,,,,0.0,0,33,0
 17720,Trick or Treatin' with Boo,4,Friday,5,,,,0.0,0,1,0
 17720,Trick or Treatin' with Boo,4,Friday,12,,,,0.0,0,3,0
-17720,Trick or Treatin' with Boo,4,Friday,13,,,,0.0,0,26,0
-17720,Trick or Treatin' with Boo,4,Friday,14,,,,0.0,0,24,0
+17720,Trick or Treatin' with Boo,4,Friday,13,,,,0.0,0,31,0
+17720,Trick or Treatin' with Boo,4,Friday,14,,,,0.0,0,31,0
 17720,Trick or Treatin' with Boo,4,Friday,15,,,,0.0,0,17,0
-17720,Trick or Treatin' with Boo,4,Friday,16,,,,0.0,0,16,0
-17720,Trick or Treatin' with Boo,4,Friday,17,,,,0.0,0,14,0
+17720,Trick or Treatin' with Boo,4,Friday,16,,,,0.0,0,19,0
+17720,Trick or Treatin' with Boo,4,Friday,17,,,,0.0,0,23,0
 17720,Trick or Treatin' with Boo,4,Friday,18,0.0,0.0,0,27.3,6,22,2
-17720,Trick or Treatin' with Boo,4,Friday,19,0.0,0.0,0,100.0,30,30,5
-17720,Trick or Treatin' with Boo,4,Friday,20,0.0,0.0,0,100.0,18,18,3
+17720,Trick or Treatin' with Boo,4,Friday,19,0.0,0.0,0,100.0,35,35,6
+17720,Trick or Treatin' with Boo,4,Friday,20,0.0,0.0,0,100.0,25,25,4
 17720,Trick or Treatin' with Boo,4,Friday,21,0.0,0.0,0,100.0,19,19,2
-17720,Trick or Treatin' with Boo,4,Friday,22,0.0,0.0,0,100.0,31,31,4
-17720,Trick or Treatin' with Boo,4,Friday,23,0.0,0.0,0,50.0,4,8,2
+17720,Trick or Treatin' with Boo,4,Friday,22,0.0,0.0,0,100.0,38,38,5
+17720,Trick or Treatin' with Boo,4,Friday,23,0.0,0.0,0,69.2,9,13,3
 17720,Trick or Treatin' with Boo,5,Saturday,1,,,,0.0,0,10,0
 17720,Trick or Treatin' with Boo,5,Saturday,2,,,,0.0,0,6,0
-17720,Trick or Treatin' with Boo,5,Saturday,3,,,,0.0,0,15,0
-17720,Trick or Treatin' with Boo,5,Saturday,4,,,,0.0,0,20,0
+17720,Trick or Treatin' with Boo,5,Saturday,3,,,,0.0,0,21,0
+17720,Trick or Treatin' with Boo,5,Saturday,4,,,,0.0,0,26,0
 17720,Trick or Treatin' with Boo,5,Saturday,5,,,,0.0,0,9,0
 17720,Trick or Treatin' with Boo,5,Saturday,12,,,,0.0,0,28,0
 17720,Trick or Treatin' with Boo,5,Saturday,13,,,,0.0,0,26,0
@@ -8504,21 +8504,21 @@ ride_id,ride_name,day_of_week,dow_name,hour_local,avg_wait_open,p90_wait_open,ma
 17773,Twisted Holidays,4,Friday,3,,,,0.0,0,8,0
 17773,Twisted Holidays,4,Friday,4,,,,0.0,0,33,0
 17773,Twisted Holidays,4,Friday,5,,,,0.0,0,1,0
-17773,Twisted Holidays,4,Friday,13,,,,0.0,0,17,0
-17773,Twisted Holidays,4,Friday,14,,,,0.0,0,24,0
+17773,Twisted Holidays,4,Friday,13,,,,0.0,0,22,0
+17773,Twisted Holidays,4,Friday,14,,,,0.0,0,31,0
 17773,Twisted Holidays,4,Friday,15,,,,0.0,0,8,0
-17773,Twisted Holidays,4,Friday,16,,,,0.0,0,13,0
-17773,Twisted Holidays,4,Friday,17,,,,0.0,0,10,0
+17773,Twisted Holidays,4,Friday,16,,,,0.0,0,16,0
+17773,Twisted Holidays,4,Friday,17,,,,0.0,0,19,0
 17773,Twisted Holidays,4,Friday,18,0.0,0.0,0,42.9,6,14,2
-17773,Twisted Holidays,4,Friday,19,0.0,0.0,0,100.0,26,26,4
-17773,Twisted Holidays,4,Friday,20,0.0,0.0,0,100.0,10,10,2
+17773,Twisted Holidays,4,Friday,19,0.0,0.0,0,100.0,31,31,5
+17773,Twisted Holidays,4,Friday,20,0.0,0.0,0,100.0,17,17,3
 17773,Twisted Holidays,4,Friday,21,0.0,0.0,0,100.0,19,19,2
-17773,Twisted Holidays,4,Friday,22,0.0,0.0,0,100.0,21,21,3
-17773,Twisted Holidays,4,Friday,23,0.0,0.0,0,33.3,2,6,1
+17773,Twisted Holidays,4,Friday,22,0.0,0.0,0,100.0,28,28,4
+17773,Twisted Holidays,4,Friday,23,0.0,0.0,0,63.6,7,11,2
 17773,Twisted Holidays,5,Saturday,1,,,,0.0,0,10,0
 17773,Twisted Holidays,5,Saturday,2,,,,0.0,0,6,0
-17773,Twisted Holidays,5,Saturday,3,,,,0.0,0,15,0
-17773,Twisted Holidays,5,Saturday,4,,,,0.0,0,20,0
+17773,Twisted Holidays,5,Saturday,3,,,,0.0,0,21,0
+17773,Twisted Holidays,5,Saturday,4,,,,0.0,0,26,0
 17773,Twisted Holidays,5,Saturday,5,,,,0.0,0,9,0
 17773,Twisted Holidays,5,Saturday,12,,,,0.0,0,28,0
 17773,Twisted Holidays,5,Saturday,13,,,,0.0,0,26,0
@@ -8645,22 +8645,22 @@ ride_id,ride_name,day_of_week,dow_name,hour_local,avg_wait_open,p90_wait_open,ma
 17428,Wave Swinger,4,Friday,10,,,,0.0,0,12,0
 17428,Wave Swinger,4,Friday,11,0.0,0.0,0,58.3,7,12,1
 17428,Wave Swinger,4,Friday,12,0.0,0.0,0,73.9,17,23,2
-17428,Wave Swinger,4,Friday,13,0.0,0.0,0,35.2,19,54,2
-17428,Wave Swinger,4,Friday,14,0.0,0.0,0,33.3,12,36,1
+17428,Wave Swinger,4,Friday,13,0.0,0.0,0,32.2,19,59,2
+17428,Wave Swinger,4,Friday,14,0.0,0.0,0,27.9,12,43,1
 17428,Wave Swinger,4,Friday,15,0.0,0.0,0,46.8,22,47,2
-17428,Wave Swinger,4,Friday,16,0.0,0.0,0,35.3,12,34,2
-17428,Wave Swinger,4,Friday,17,0.0,0.0,0,50.0,17,34,2
+17428,Wave Swinger,4,Friday,16,0.0,0.0,0,32.4,12,37,2
+17428,Wave Swinger,4,Friday,17,0.0,0.0,0,41.9,18,43,3
 17428,Wave Swinger,4,Friday,18,0.0,0.0,0,41.5,22,53,3
-17428,Wave Swinger,4,Friday,19,0.0,0.0,0,50.8,31,61,4
-17428,Wave Swinger,4,Friday,20,0.0,0.0,0,50.0,22,44,3
+17428,Wave Swinger,4,Friday,19,0.0,0.0,0,47.0,31,66,4
+17428,Wave Swinger,4,Friday,20,0.0,0.0,0,43.1,22,51,3
 17428,Wave Swinger,4,Friday,21,0.0,0.0,0,37.5,12,32,1
-17428,Wave Swinger,4,Friday,22,0.0,0.0,0,4.6,3,65,1
-17428,Wave Swinger,4,Friday,23,,,,0.0,0,22,0
+17428,Wave Swinger,4,Friday,22,0.0,0.0,0,4.2,3,72,1
+17428,Wave Swinger,4,Friday,23,,,,0.0,0,27,0
 17428,Wave Swinger,5,Saturday,0,,,,0.0,0,23,0
 17428,Wave Swinger,5,Saturday,1,,,,0.0,0,13,0
 17428,Wave Swinger,5,Saturday,2,,,,0.0,0,10,0
-17428,Wave Swinger,5,Saturday,3,,,,0.0,0,33,0
-17428,Wave Swinger,5,Saturday,4,,,,0.0,0,22,0
+17428,Wave Swinger,5,Saturday,3,,,,0.0,0,39,0
+17428,Wave Swinger,5,Saturday,4,,,,0.0,0,28,0
 17428,Wave Swinger,5,Saturday,5,,,,0.0,0,9,0
 17428,Wave Swinger,5,Saturday,9,,,,0.0,0,8,0
 17428,Wave Swinger,5,Saturday,10,0.0,0.0,0,33.3,4,12,1
@@ -8793,22 +8793,22 @@ ride_id,ride_name,day_of_week,dow_name,hour_local,avg_wait_open,p90_wait_open,ma
 3273,Wile E. Coyote Canyon Blaster,4,Friday,10,0.0,0.0,0,25.0,3,12,1
 3273,Wile E. Coyote Canyon Blaster,4,Friday,11,0.0,0.0,0,100.0,12,12,1
 3273,Wile E. Coyote Canyon Blaster,4,Friday,12,0.0,0.0,0,73.9,17,23,2
-3273,Wile E. Coyote Canyon Blaster,4,Friday,13,0.0,0.0,0,35.2,19,54,2
-3273,Wile E. Coyote Canyon Blaster,4,Friday,14,0.0,0.0,0,33.3,12,36,1
+3273,Wile E. Coyote Canyon Blaster,4,Friday,13,0.0,0.0,0,32.2,19,59,2
+3273,Wile E. Coyote Canyon Blaster,4,Friday,14,0.0,0.0,0,27.9,12,43,1
 3273,Wile E. Coyote Canyon Blaster,4,Friday,15,0.0,0.0,0,46.8,22,47,2
-3273,Wile E. Coyote Canyon Blaster,4,Friday,16,0.0,0.0,0,41.2,14,34,2
-3273,Wile E. Coyote Canyon Blaster,4,Friday,17,0.0,0.0,0,50.0,17,34,2
+3273,Wile E. Coyote Canyon Blaster,4,Friday,16,0.0,0.0,0,37.8,14,37,2
+3273,Wile E. Coyote Canyon Blaster,4,Friday,17,0.0,0.0,0,39.5,17,43,2
 3273,Wile E. Coyote Canyon Blaster,4,Friday,18,0.0,0.0,0,41.5,22,53,3
-3273,Wile E. Coyote Canyon Blaster,4,Friday,19,0.0,0.0,0,44.3,27,61,3
-3273,Wile E. Coyote Canyon Blaster,4,Friday,20,0.0,0.0,0,31.8,14,44,2
+3273,Wile E. Coyote Canyon Blaster,4,Friday,19,0.0,0.0,0,40.9,27,66,3
+3273,Wile E. Coyote Canyon Blaster,4,Friday,20,0.0,0.0,0,27.5,14,51,2
 3273,Wile E. Coyote Canyon Blaster,4,Friday,21,0.0,0.0,0,37.5,12,32,1
-3273,Wile E. Coyote Canyon Blaster,4,Friday,22,0.0,0.0,0,4.6,3,65,1
-3273,Wile E. Coyote Canyon Blaster,4,Friday,23,,,,0.0,0,22,0
+3273,Wile E. Coyote Canyon Blaster,4,Friday,22,0.0,0.0,0,4.2,3,72,1
+3273,Wile E. Coyote Canyon Blaster,4,Friday,23,,,,0.0,0,27,0
 3273,Wile E. Coyote Canyon Blaster,5,Saturday,0,,,,0.0,0,23,0
 3273,Wile E. Coyote Canyon Blaster,5,Saturday,1,,,,0.0,0,13,0
 3273,Wile E. Coyote Canyon Blaster,5,Saturday,2,,,,0.0,0,10,0
-3273,Wile E. Coyote Canyon Blaster,5,Saturday,3,,,,0.0,0,33,0
-3273,Wile E. Coyote Canyon Blaster,5,Saturday,4,,,,0.0,0,22,0
+3273,Wile E. Coyote Canyon Blaster,5,Saturday,3,,,,0.0,0,39,0
+3273,Wile E. Coyote Canyon Blaster,5,Saturday,4,,,,0.0,0,28,0
 3273,Wile E. Coyote Canyon Blaster,5,Saturday,5,,,,0.0,0,9,0
 3273,Wile E. Coyote Canyon Blaster,5,Saturday,9,,,,0.0,0,8,0
 3273,Wile E. Coyote Canyon Blaster,5,Saturday,10,0.0,0.0,0,33.3,4,12,1
@@ -8941,22 +8941,22 @@ ride_id,ride_name,day_of_week,dow_name,hour_local,avg_wait_open,p90_wait_open,ma
 6371,WONDER WOMAN™ Lasso of Truth,4,Friday,10,,,,0.0,0,12,0
 6371,WONDER WOMAN™ Lasso of Truth,4,Friday,11,,,,0.0,0,12,0
 6371,WONDER WOMAN™ Lasso of Truth,4,Friday,12,0.0,0.0,0,21.7,5,23,1
-6371,WONDER WOMAN™ Lasso of Truth,4,Friday,13,0.0,0.0,0,13.0,7,54,1
-6371,WONDER WOMAN™ Lasso of Truth,4,Friday,14,,,,0.0,0,36,0
+6371,WONDER WOMAN™ Lasso of Truth,4,Friday,13,0.0,0.0,0,11.9,7,59,1
+6371,WONDER WOMAN™ Lasso of Truth,4,Friday,14,,,,0.0,0,43,0
 6371,WONDER WOMAN™ Lasso of Truth,4,Friday,15,10.0,10.0,10,21.3,10,47,1
-6371,WONDER WOMAN™ Lasso of Truth,4,Friday,16,10.0,10.0,10,5.9,2,34,1
-6371,WONDER WOMAN™ Lasso of Truth,4,Friday,17,10.0,10.0,10,14.7,5,34,1
+6371,WONDER WOMAN™ Lasso of Truth,4,Friday,16,10.0,10.0,10,5.4,2,37,1
+6371,WONDER WOMAN™ Lasso of Truth,4,Friday,17,4.2,10.0,10,27.9,12,43,2
 6371,WONDER WOMAN™ Lasso of Truth,4,Friday,18,3.0,10.0,20,56.6,30,53,6
-6371,WONDER WOMAN™ Lasso of Truth,4,Friday,19,5.9,20.0,30,72.1,44,61,7
-6371,WONDER WOMAN™ Lasso of Truth,4,Friday,20,5.5,10.0,45,45.5,20,44,4
+6371,WONDER WOMAN™ Lasso of Truth,4,Friday,19,13.0,75.0,75,74.2,49,66,8
+6371,WONDER WOMAN™ Lasso of Truth,4,Friday,20,24.6,75.0,90,52.9,27,51,5
 6371,WONDER WOMAN™ Lasso of Truth,4,Friday,21,37.9,45.0,45,59.4,19,32,2
-6371,WONDER WOMAN™ Lasso of Truth,4,Friday,22,27.6,60.0,60,47.7,31,65,4
-6371,WONDER WOMAN™ Lasso of Truth,4,Friday,23,0.0,0.0,0,18.2,4,22,2
+6371,WONDER WOMAN™ Lasso of Truth,4,Friday,22,27.6,60.0,60,43.1,31,72,4
+6371,WONDER WOMAN™ Lasso of Truth,4,Friday,23,0.0,0.0,0,14.8,4,27,2
 6371,WONDER WOMAN™ Lasso of Truth,5,Saturday,0,,,,0.0,0,23,0
 6371,WONDER WOMAN™ Lasso of Truth,5,Saturday,1,,,,0.0,0,13,0
 6371,WONDER WOMAN™ Lasso of Truth,5,Saturday,2,,,,0.0,0,10,0
-6371,WONDER WOMAN™ Lasso of Truth,5,Saturday,3,,,,0.0,0,33,0
-6371,WONDER WOMAN™ Lasso of Truth,5,Saturday,4,,,,0.0,0,22,0
+6371,WONDER WOMAN™ Lasso of Truth,5,Saturday,3,,,,0.0,0,39,0
+6371,WONDER WOMAN™ Lasso of Truth,5,Saturday,4,,,,0.0,0,28,0
 6371,WONDER WOMAN™ Lasso of Truth,5,Saturday,5,,,,0.0,0,9,0
 6371,WONDER WOMAN™ Lasso of Truth,5,Saturday,9,,,,0.0,0,8,0
 6371,WONDER WOMAN™ Lasso of Truth,5,Saturday,10,0.0,0.0,0,16.7,2,12,1
