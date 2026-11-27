@@ -4,7 +4,7 @@
   "name": "Six Flags Great Adventure",
   "timezone": "America/New_York"
  },
- "generated_at": "2026-11-26T22:55:01+00:00",
+ "generated_at": "2026-11-27T05:15:01+00:00",
  "rides": [
   {
    "id": 3231,
@@ -952,8 +952,14 @@
   {
    "date": "2026-11-26",
    "path": "raw/2026/2026-11-26.csv",
-   "rows": 868,
-   "bytes": 92927
+   "rows": 1364,
+   "bytes": 145983
+  },
+  {
+   "date": "2026-11-27",
+   "path": "raw/2026/2026-11-27.csv",
+   "rows": 248,
+   "bytes": 26607
   }
  ]
 }
